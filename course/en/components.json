@@ -1,0 +1,3096 @@
+[
+  {
+    "_id": "5a0da201d78e42cc3a9cb20e",
+    "_layout": "left",
+    "_parentId": "5a0da1a2d78e42cc3a9cb20d",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">As introduced in <a href=\"#\" target=\"_blank\">Module 1</a>, open data sits at the heart of the open government movement. Open data presents significant economic, environment and social benefits, and is an integral part of delivering a first class foreign policy for the UK.</p><p>This module looks at the role of data in helping FCO to deliver their objectives around the world, and certain considerations to keep in mind when planning for data publication.</p><p>This module explores:</p><ul dir=\"ltr\"><li>Data, information and knowledge</li><li>The role of data in the FCO</li><li>Open data at the FCO</li><li>Sensitive data at the FCO</li><li>Moving towards open at the FCO</li></ul>",
+    "displayTitle": "The role of data in the FCO",
+    "title": "The role of data in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a01c1dad78e42cc3a9cb15b",
+    "_layout": "right",
+    "_parentId": "5a01c160d78e42cc3a9cb158",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a01c1d6d78e42cc3a9cb15a",
+    "_layout": "left",
+    "_parentId": "5a01c160d78e42cc3a9cb158",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "are you ready to..",
+    "title": "are you ready to..",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a01ba5ed78e42cc3a9cb138",
+    "_layout": "left",
+    "_parentId": "5a01b930d78e42cc3a9cb134",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Transparency of information is a foundation of open government. But&nbsp;transparency alone&nbsp;is not enough to for the UK&nbsp;to maximise the&nbsp;wider economic, environment and social benefits.</p><p dir=\"ltr\">This module looks at the evolution of global commitments to transparency, and the importance of open government, open data and the &#39;open by default&#39; principle to transparency.</p><p><strong>In this module we are going to explore...</strong></p><ul dir=\"ltr\"><li>The global transparency movement</li><li>Open government</li><li>Open data</li><li>Open by default</li><li>Case studies from around the world</li></ul>",
+    "displayTitle": "Transparency and open data",
+    "title": "Transparency and open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a01bd24d78e42cc3a9cb145",
+    "_layout": "right",
+    "_parentId": "5a01bbfed78e42cc3a9cb141",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Title",
+    "title": "Title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "small": "course/en/assets/b174d85b1a5a09c119bed83330ca8792bf47d4f6.jpg",
+      "attribution": "<a href=\"http://wiki.openstreetmap.org\" target=\"_blank\">Open Street Map</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a01bf25d78e42cc3a9cb152",
+    "_layout": "full",
+    "_parentId": "5a01bf02d78e42cc3a9cb150",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Transparency sits at the heart of an open government. In 2011, the UK government was a founding member of the <a href=\"http://www.opengovpartnership.org/\" target=\"_blank\">Open Government Partnership</a> (OGP). The OGP is an international platform for reformers committed to making their governments more open, accountable&nbsp;and responsive to citizens.</p>",
+    "displayTitle": "The pillars of open government",
+    "title": "The pillars of open government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "Click on the headings to explore further",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transparency",
+        "body": "<p dir=\"ltr\">The goal of the transparency pillar is to promote&nbsp;increased access to information and disclosure about governmental activities.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/bottom-view-of-clear-glass-building-under-blue-cloudy-sky-during-day-time-164444/\" target=\"_blank\">Transparency</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transparency"
+      },
+      {
+        "title": "Participation",
+        "body": "<p>There are three main goals to the participation pillar:</p><ul dir=\"ltr\"><li>Making policy formulation and decision-making more transparent.</li><li>Creating and using channels to solicit public feedback.</li><li>Deepening public participation in developing, monitoring and evaluating government activities</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/4f3e5d8b133f36f671d242f2d0325cd39bf4e1e4.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/person-answering-test-paper-159353/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Participation"
+      },
+      {
+        "title": "Anti-corruption",
+        "body": "<p dir=\"ltr\">The anti corruption pillar aims to strengthen&nbsp;anti-corruption laws and ensure&nbsp;transparency in the management of public finances.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fd6eee58099ebe554493decd86fe6674b5688e50.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/abundance-achievement-bank-banknotes-534229/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Anti-corruption"
+      },
+      {
+        "title": "Technological innovation",
+        "body": "<p>The pillar aims to support partners to developing accessible and secure online spaces to:</p><ul><li>deliver services</li><li>engage the public</li><li>share information and ideas</li></ul>",
+        "_graphic": {
+          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Technological innovation"
+      }
+    ]
+  },
+  {
+    "_id": "5a0dad73d78e42cc3a9cb24e",
+    "_layout": "left",
+    "_parentId": "5a0dad59d78e42cc3a9cb24d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to...",
+    "title": "Are you ready to...",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a0dad80d78e42cc3a9cb24f",
+    "_layout": "right",
+    "_parentId": "5a0dad59d78e42cc3a9cb24d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a01bc1dd78e42cc3a9cb143",
+    "_layout": "left",
+    "_parentId": "5a01bbfed78e42cc3a9cb141",
+    "_type": "component",
+    "body": "<p>Openness in government can save money, reduce corruption, enable evidence-based decision making, strengthen people&rsquo;s trust in government and encourage greater public participation in decision-making.&nbsp;</p><p>Explore how being open can provide benefit in all 4 pillars below:</p>",
+    "displayTitle": "Case studies from around the world",
+    "title": "Case studies from around the world",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Citizen participation",
+        "body": "<p dir=\"ltr\">Open data allows citizens to see inside the workings of government, to monitor service delivery, hold government agencies to account over their commitments, and participate in decision-making. When citizens are empowered with information, they can also co-create solutions to improve their daily lives.</p><p dir=\"ltr\"><strong>Case studies</strong></p><p dir=\"ltr\">The <a href=\"https://www.opengovpartnership.org/stories/linida-story-when-villagers-open-local-government\" target=\"_blank\">Linida initiative, Indonesia</a>, provides a platform to gather information on village assets and opportunities to improve socio-economic lives of villagers. Villagers use public information and produce their own data to engage with decision makers so that the local development policy and public service provision fulfill their priorities</p><p dir=\"ltr\">The <a href=\"http://www.makingallvoicescount.org/project/mopa-using-data-improve-waste-management-mozambique/\" target=\"_blank\">Participatory Monitoring Maputo platform, Mozambique</a>- informs citizens about the need for proper waste removal and progress on waste removal, and aims to empower them to request services from the government through the use of a mobile app.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/person-answering-test-paper-159353/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Anti-corruption and fraud",
+        "body": "<p dir=\"ltr\">The UK is committed to fighting corruption at home and abroad. &nbsp;In 2016 the <a href=\"https://blog.opencorporates.com/2016/07/06/uk-beneficial-ownership-information-now-in-opencorporates/\" target=\"_blank\">UK became the first country in the world</a> to collect and publish who controls and benefits from companies in a structured format. Making data available on the beneficial owners of companies is important in the fight against corporate accountability.</p><p dir=\"ltr\">Another way the UK government is tackling the perception of fraud is by publishing open data on government grant spending. In October 2017, the government introduced a platform allowing departments to share information on &pound;100 billion worth of grants data from across government departments using a standard format developed by the <a href=\"http://www.threesixtygiving.org/support/standard/\" target=\"_blank\">360Giving initiative</a>.</p><p><strong>Case studies</strong></p><p dir=\"ltr\">Making contracting and procurement more transparent eg Paraguay is u<a href=\"https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f\" target=\"_blank\">sing open contracting to improve spending on education</a>. Information about education contracts unearthed a wider spending scandal that triggered a formal investigation and citizen pressure and reform of school spending.</p><p dir=\"ltr\">changing the behaviour of public officials to be less wasteful eg the <a href=\"https://www.transparency.org/whatwedo/publication/open_data_and_the_fight_against_corruption_in_south_africa\" target=\"_blank\">Municipal Money open data portal</a> was launched in South Africa to inform citizens on their local authority&rsquo;s financial performance and counter abuse of resources.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/abundance-achievement-bank-banknotes-534229/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Stimulating economic growth and facilitating trade",
+        "body": "<p dir=\"ltr\">There is growing evidence that open data contributes to economic growth and trade by providing access to information on the business environment, and opening reducing information asymmetries so more small and medium businesses and compete for opportunities or enter new markets.</p><p><strong>Case studies</strong></p><p dir=\"ltr\">Publishing government grant opportunities can enable a more diverse group of SMEs and businesses to compete in the market eg <a href=\"https://www.spendnetwork.com/about/\" target=\"_blank\">Spend Network</a> provides insight and analysis on public procurement and finance data to help suppliers identify opportunities to bid for government grants</p><p dir=\"ltr\">Improving trade connections between countries eg <a href=\"http://www.labora.io/\" target=\"_blank\">Labora</a> is open data accelerator in Mexico- linking entrepreneurs working with open data to mentors, investors, data providers/regulators, and capacity building. With support of the UK Embassy and the ODI, the project has also facilitated exchanges between start-ups in UK and Mexico.</p><p dir=\"ltr\">Helping businesses to comply with local and international regulations eg <a href=\"http://en.brdo.com.ua/\" target=\"_blank\">Better Regulation Delivery Office</a>, Ukraine- uses open data to create tools that give users access to information about regulations in just a few clicks, such as requirements to start a business</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "course/en/assets/9f401caf7d0b0b4419705ce3329f755df2896cb5.png",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Crisis management",
+        "body": "<p dir=\"ltr\">Open data is a critical resource when responding to natural or manmade crises. In emergency situations or in resource-constrained environments, open data may be combined and enriched with other sources of data. In scenarios where government open data is not available, volunteers may fill the gap in data collection. In particular, the <a href=\"http://www.openstreetmap.org/#map=5/54.910/-3.432\" target=\"_blank\">OpenStreetMap community</a> contribute and maintain data about roads, trails, caf&eacute;s, railway stations, and much more, all over the world.</p><p><strong>Case studies</strong></p><p dir=\"ltr\">Open data can help in crisis management through:</p><p dir=\"ltr\"><strong>facilitating information flows: </strong>Humanitarian actors, service providers and government agencies sharing data during <a href=\"http://odimpact.org/case-battling-ebola-in-sierra-leone.html\" target=\"_blank\">Ebola outbreak</a> to strengthen service delivery</p><p dir=\"ltr\"><strong>monitoring risk and assessing needs:</strong> Use of OSM and combining sources of data during <a href=\"https://www.ict.govt.nz/assets/Uploads/Case-Study-Nepal-Earthquake.pdf\" target=\"_blank\">Nepal earthquake</a></p><p><strong>Coordinating responses</strong> to disasters for greater efficiency of resources.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "<a href=\"https://static.pexels.com/photos/133627/pexels-photo-133627.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a0c441bd78e42cc3a9cb206",
+    "_layout": "full",
+    "_parentId": "5a0c0f78d78e42cc3a9cb1ea",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Open data,</strong> that is <a href=\"https://theodi.org/what-is-open-data\" target=\"_blank\">data anyone can access, use or share</a>, is at the heart transparency and open government.</p><p dir=\"ltr\"><strong><span style=\"color:#FF0000\">This isn&#39;t what open by default means - we need to change either the LO or the content here.&nbsp;</span></strong></p>",
+    "displayTitle": "Introduction to ‘open by default’ ",
+    "title": "Introduction to ‘open by default’ ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Open data",
+        "body": "<p dir=\"ltr\"><strong>Gives better access to data for everyone </strong>so they can discover and make faster and more informed decisions</p><p dir=\"ltr\"><strong>Provides citizens with access to data on decision-making </strong>and the workings of government to support social accountability and anti-corruption efforts</p><p dir=\"ltr\"><strong>Provides the raw ingredient for government </strong>departments at all levels to design locally relevant e-Gov services OR for citizens and businesses to develop new tools or applications that empower people with information they need</p>",
+        "_graphic": {
+          "src": "course/en/assets/148678db59bba900d6bd0bf1a742150f6b8bbef4.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Definition"
+      },
+      {
+        "title": "Open by default",
+        "body": "<p dir=\"ltr\">Principle one of both the G8 Open Data Charter and more recent global Open Data Charter: <strong>Open by default </strong>is the principle that everything should be open for everyone to access, use and share unless there is a legal, ethical or otherwise harmful reason why it should remain closed.</p>",
+        "_graphic": {
+          "src": "course/en/assets/af22d29e3b0d0fcab8e38ee0d0c61b2c8a0ade54.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/concrete-bridge_932043.htm#term=pillars&page=1&position=21\" target=\"_blank\">Designed by Evening_tao / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Principle"
+      },
+      {
+        "title": "Case studies",
+        "body": "<p dir=\"ltr\"><a href=\"http://pilot.open.canada.ca/en/about-open-by-default\" target=\"_blank\">Canada</a>- piloting an &lsquo;open by default&rsquo; approach to releasing public sector information in 4 government departments (Canadian Heritage, Environment and Climate Change Canada, Natural Resources Canada, and Treasury Board of Canada Secretariat).&nbsp;The pilot promotes the proactive release of working information to provide a sample of the government&rsquo;s scientific and cultural research for public researchers, businesses and curious citizens to use.</p><p><a href=\"https://www.data.govt.nz/toolkit/open-data-in-new-zealand/open-data-nz/\" target=\"_blank\">New Zealand</a>- introducing a &lsquo;Data Champions&rsquo; network to lead the release of open data across their agency or department.&nbsp;Data champions provide core entry points into an agency and ensure engagement both internally and externally with data users.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
+          "alt": "",
+          "attribution": "<a href=\"https://farm3.staticflickr.com/2712/4485684994_b92ca0b0b3_b.jpg\" target=\"_blank\">Dave Matos</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Case studies"
+      }
+    ]
+  },
+  {
+    "_id": "5a1c147dd78e42cc3a9cc485",
+    "_layout": "left",
+    "_parentId": "5a1c1476d78e42cc3a9cc484",
+    "_type": "component",
+    "body": "<p><strong>Closed by default</strong></p>",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Data format",
+        "body": "<p>Information often held in documents, not necessarily in digital or re-useable format</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to reuse information",
+        "body": "<p>Rights to reuse and republish information might be restricted</p><p>&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Objectives",
+        "body": "<p>Focus on access to information by request</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Approach",
+        "body": "<p>Often legalistic</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Relationship with citizens",
+        "body": "<p>Tends to be more adversarial<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data publication",
+        "body": "<p>Publication of data voluntary or based on request eg via FOI legislation</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1c150dd78e42cc3a9cc486",
+    "_layout": "right",
+    "_parentId": "5a1c1476d78e42cc3a9cc484",
+    "_type": "component",
+    "body": "<p><strong>Open by default</strong></p>",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Data format",
+        "body": "<p>Data in reuseable, machine-readable format</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Right to reuse information",
+        "body": "<p>Open licence grants the user permission to re-use and republish the data freely</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Objectives",
+        "body": "<p>Promotes re-use and added social, economic value</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Approach",
+        "body": "<p>Technical and policy<strong> </strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Relationship with citizens",
+        "body": "<p>Tends to be more collaborative</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data publication",
+        "body": "<p>Presumption towards publishing data unless justifiable on privacy, confidentiality and security grounds.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1c165ed78e42cc3a9cc488",
+    "_layout": "left",
+    "_parentId": "5a1c1656d78e42cc3a9cc487",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A global transparency movement is growing, facilitated by technology and social media&nbsp;and fuelled by access to new information&nbsp;sources.</p><p dir=\"ltr\"><strong>Transparency</strong> is when&nbsp;that the public should have access to government-held information and be informed of government proceedings. It is a hallmark of an &lsquo;open government&rsquo;.</p><p dir=\"ltr\">According to the <a href=\"http://www.transparency-initiative.org/uncategorized/1179/tai-definitions/\" target=\"_blank\">Transparency and Accountability Initiative</a> (TAI), transparency is managing and publishint information that is:</p><ul dir=\"ltr\"><li>relevant</li><li>accessible</li><li>timely</li><li>accurate</li></ul>",
+    "displayTitle": "The global transparency movement",
+    "title": "The global transparency movement",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven ticks",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1c2bc9d78e42cc3a9cc494",
+    "_layout": "right",
+    "_parentId": "5a1c1656d78e42cc3a9cc487",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3cef960e63dfcbe73f0b479f55812e2021b650e.jpeg",
+      "small": "course/en/assets/c3cef960e63dfcbe73f0b479f55812e2021b650e.jpeg",
+      "attribution": "<a href=\"https://static.pexels.com/photos/314829/pexels-photo-314829.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a0da3d5d78e42cc3a9cb215",
+    "_layout": "full",
+    "_parentId": "5a0da2c5d78e42cc3a9cb211",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data and information are different, although the two words are mistakenly used as synonyms.&nbsp;This section looks at the differences between these concepts, and the benefits of providing access to raw data for the FCO.</p>",
+    "displayTitle": "Data, information and knowledge",
+    "title": "Data, information and knowledge",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Data",
+        "body": "<p>Data is the raw material from which information and knowledge can be derived. Think of data as those location, images, descriptions, and maps that form the basis of information that can feed into a dataset on the location of FCO offices around the world.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ded96d5854bb8d6e2afb6e601a66238c545703b7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=240789808&src=lb-35924366\" target=\"_blank\">Anna Frajtova</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Data"
+      },
+      {
+        "title": "Information",
+        "body": "<p>Information is processed data that has been given context. For example the total amount of expenditure on overseas development assistance (ODA) is actually information. The raw data that was used to put together this piece of information is likely to be multiple types of spending broken down by type, over a specific time period.</p>",
+        "_graphic": {
+          "src": "course/en/assets/8b10a4fbd6879db59bbb5defc637cf344b88eabf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/travel-flat-vector-background-217763944?src=lb-35924366\" target=\"_blank\">Sachezi </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Information"
+      },
+      {
+        "title": "Knowledge",
+        "body": "<p>Knowledge is what is derived from information, and personalised for your needs. Building knowledge is a process of turning information into choices. For example, creating a country needs assessment report based on multiple sources of information including current levels of expenditure on ODA and GDP.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ec7529be2f11d06ce25c6646a724e104cf2ff910.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Knowledge"
+      }
+    ]
+  },
+  {
+    "_id": "5a1c3394d78e42cc3a9cc50d",
+    "_layout": "full",
+    "_parentId": "5a1c3386d78e42cc3a9cc50c",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Not all data should be made open,&nbsp;especially where it contains sensitive data. If not treated sensitively, it can affect people&#39;s trust in data and in the responsible organisation.</p><p dir=\"ltr\">There are legitimate reasons why some FCO data should not be published openly. Justifications may be made on the grounds of:</p>",
+    "displayTitle": "Sensitive data at the FCO",
+    "title": "Sensitive data at the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-four",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "National security",
+        "body": "<p dir=\"ltr\">Transparency sometimes needs to be balanced against national security issues. There may be good reason not to disclose information such as defence or security assets, or location and timing of counter-terrorism exercises, which could damage capabilities or effectiveness of UK operations.</p><p dir=\"ltr\">For example, publishing diplomatic telegrams which contain intelligence information regarding an unfolding political coup or sensitive policy advice to ministers could put British Nationals in the Territory in question under risk.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5848d60574ddfdf96ea2982f27ad06dd40287d32.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/equipment-pavement-security-security-camera-430208/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "National security"
+      },
+      {
+        "title": "Privacy and confidentiality",
+        "body": "<p dir=\"ltr\">Data containing personally identifiable information (PII) should not be released widely to protect individuals.</p><p dir=\"ltr\">However data can be published the&nbsp;data has been&nbsp;suitably anonymised in accordance with privacy legislation and internationally recognised standards.</p><p dir=\"ltr\">For example consular reports containing data about the location of pickpocketing and theft incidents reported at airports might contain PII. However,&nbsp;if the data is anonymised, it could be useful to understand spikes in petty crime activity in different areas.</p><p dir=\"ltr\">You can find out more about anonymisation in this <a href=\"http://theodi.org/guides/save-the-titanic-handson-anonymisation-and-risk-control-of-publishing-open-data\" target=\"_blank\">online guide</a>, or by getting in touch with the <a href=\"http://ukanon.net/\" target=\"_blank\">UK Anonymisation Network (UKAN)</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/132053576@N03/17765606909/\" target=\"_blank\">Owen Moore</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Privacy and confidentiality"
+      },
+      {
+        "title": "Commercially or market sensitive data",
+        "body": "<p dir=\"ltr\">Commercially or market sensitive data&nbsp;may be damaging to the UK government or to a commercial partner if improperly accessed. Much commercial data may be time sensitive, with the potential harm caused by disclosure diminishing over time. For example, the sensitivity of data relating to interest rates is likely to diminish in this way as time passes.</p><p dir=\"ltr\">Data on&nbsp;future transactions regarding dealings in the extractives industry&nbsp;are widely regarded as commercially sensitive as disclosure to the public could cause actual harm.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9a02048e2dddf2eef40143b933d4d55a813fbd3c.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/stock-exchange-board-210607/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Commercial or market sensitive information"
+      },
+      {
+        "title": "Intellectual property",
+        "body": "<p dir=\"ltr\">Publishing&nbsp;data which is protected by copyright or database rights may not be permitted under law. It is important to determine what intellectual property rights exist in the data before you consider opening it and publishing under an open licence.</p><p dir=\"ltr\">For example, Flickr photos on FCO embassy events might not be capable of sharing and re-use because they haven&#39;t been shared with an open licence.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-68619337\" target=\"_blank\">Paperboat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Intellectual property"
+      },
+      {
+        "title": "Investigations",
+        "body": "<p dir=\"ltr\">Data from investigations or civil or criminal proceedings could compromise public protection or enforcement activities, or prejudice court cases.</p><p dir=\"ltr\">For example publishing the identify of persons being investigated for war crimes might put family members&nbsp;at risk.</p>",
+        "_graphic": {
+          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Investigations"
+      }
+    ]
+  },
+  {
+    "_id": "5a0dab53d78e42cc3a9cb22a",
+    "_layout": "left",
+    "_parentId": "5a0daaecd78e42cc3a9cb228",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Whilst the FCO already publishes some data openly, more could be released for the benefit of the FCO, wider government and citizens. In this section, we explore some of the questions that you can ask yourself when preparing&nbsp;to publish FCO data.</p>",
+    "displayTitle": "Moving towards open data",
+    "title": "Moving towards open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "1) Is there an existing public commitment to publish the dataset?",
+        "body": "<p dir=\"ltr\">Your first step is to check whether there is an existing requirement to publish that&nbsp;data. The FCO has published its<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\" target=\"_blank\"> list of commitments to publishing open data</a>, and an <a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\" target=\"_blank\">open data strategy</a> which outlines some of the high priority datasets. These have been selected based on utility to the FCO&rsquo;s mission, and the PM&rsquo;s Transparency Commitments of 2010-2011.</p><p>The list of datasets are regularly reviewed and added to. Many government departments maintain a data inventory to help with the process of prioritising data publication. Data inventories provide a full list of data assets&nbsp;collected and maintained by an organisation.</p><p dir=\"ltr\">If the dataset in question is not listed, you should consider if the dataset could be open In accordance with the principle of &lsquo;open by default&rsquo;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "2) Is there a reasonable justification to not share or disclose the dataset?",
+        "body": "<p dir=\"ltr\">As we discussed in Module 1, &lsquo;open by default&rsquo; means data should be open for everyone to access, unless there is a very good reason not to share. In the previous section, we discussed some of the possible justifications.</p><p>At this stage, consider whether any of these exceptions may apply. The UK government has a <a href=\"https://www.gov.uk/government/publications/government-security-classifications\" target=\"_blank\">system for classifying sensitive information</a>, which may help you make an assessment.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "3) How to classify and license the dataset?",
+        "body": "<p dir=\"ltr\">When deciding whether the dataset in question could be opened- it can be helpful to map the datasets that you have on the <a href=\"https://theodi.org/data-spectrum\" target=\"_blank\">Open Data Institute&#39;s&nbsp;&lsquo;Data Spectrum&rsquo;.</a></p><p dir=\"ltr\">The data spectrum categories data into open/shared/closed based on who can be granted access to the dataset, and how they are permitted to use the data.</p><p dir=\"ltr\">You can find out more about<a href=\"https://theodi.org/blog/closed-shared-open-data-whats-in-a-name\" target=\"_blank\"> using the Data Spectrum in this article.</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">The Open Data Spectrum (learning edition)</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "_classes": ""
+      },
+      {
+        "title": "4) Check third party ownership and rights?",
+        "body": "<p dir=\"ltr\">Before continuing, you should double check that the datasets you&#39;ve listed are yours to publish or that you have the original data provider&#39;s permission (for example, if you are aggregating sources or anonymising).</p><p dir=\"ltr\">If you aren&#39;t currently permitted to share the data more widely or open it, then it might be worth asking the provider and outlining the benefits to them.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "5) What are the pros and cons?",
+        "body": "<p dir=\"ltr\">If you have identified an opportunity to open a dataset, it is important to think about the benefits and practical blockers at this stage. For instance:</p><ul dir=\"ltr\"><li>What are the benefits for your team and the FCO more broadly, for those who may want to innovate with your data, and for society as a whole?</li><li>Are there any changes are needed to your team&#39;s way of working, strategy or business plan? Do you have an accurate understanding of the process behind collecting and processing the dataset, so that it could be routinely updated?</li><li>Do you have the resources to make the data available (and maintain it) sustainably?</li><li>What are the quick wins &ndash; short-term activities that will demonstrate progress? This can be useful in getting support from others.</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1c3749d78e42cc3a9cc519",
+    "_layout": "left",
+    "_parentId": "5a1c3738d78e42cc3a9cc518",
+    "_type": "component",
+    "body": "<p>In this module, we looked into the distinction between data, information and knowledge and identified where data sits within the FCO.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1c11f1d78e42cc3a9cc482",
+    "_layout": "left",
+    "_parentId": "5a1c115cd78e42cc3a9cc480",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">The open government partnership is not the only global commitment to transparency:</p><p dir=\"ltr\">The&nbsp;<a href=\"https://www.aidtransparency.net/\" target=\"_blank\">International Aid Transparency Initiative</a> (IATI) aims to improve&nbsp;the transparency of aid, development, and humanitarian resources and to increase the effectiveness of development cooperation activities</p><p>The&nbsp;<a href=\"https://eiti.org/\" target=\"_blank\">Extractives Industries Transparency Initiative</a> (EITI) promotes&nbsp;transparency and better management of all steps along the value chain within the oil, gas and mining industries. This includes contracts and licensing, production, revenue collection, revenue allocation, and social and economic spending.</p>",
+    "displayTitle": "Other sources of global commitments",
+    "title": "Other sources of global commitments",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-three",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1d649ed78e42cc3a9cc54a",
+    "_layout": "left",
+    "_parentId": "5a1d6465d78e42cc3a9cc546",
+    "_type": "component",
+    "body": "<p>At the heart of open government is open data.</p><p>Previously, Freedom of Information (FOI) legislation was the standard way for citizens to access government information in the UK. For the last decade a different&nbsp;approach to government transparency has emerged:&nbsp;<strong>open data.</strong></p><p>Open data is data that&nbsp;<strong>anyone can access, use and share</strong>. It must be free from restrictions and openly licensed.</p><p>Open data:</p><p dir=\"ltr\"><strong>Gives better access to data for everyone&nbsp;</strong>so they can discover and make faster and more informed decisions</p><p dir=\"ltr\"><strong>Provides citizens with access to data on decision-making&nbsp;</strong>and the workings of government to support social accountability and anti-corruption efforts</p><p dir=\"ltr\"><strong>Provides the raw ingredient for government&nbsp;</strong>departments at all levels to design locally relevant e-Gov services OR for citizens and businesses to develop new tools or applications that empower people with information they need</p>",
+    "displayTitle": "Open data",
+    "title": "Open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1d66fad78e42cc3a9cc54b",
+    "_layout": "right",
+    "_parentId": "5a1d6465d78e42cc3a9cc546",
+    "_type": "component",
+    "body": "<p>At the heart of open government is open data.&nbsp;Open data is data that&nbsp;<strong>anyone can access, use and share</strong>. It must be free from restrictions and openly licensed.</p><p>Open data complements the work of the Freedom of Information (FOI) legislation&nbsp;through the proactive release of raw data.</p><p>Open data is an integral part to each of the four pillars of open government.</p>",
+    "displayTitle": "Open data",
+    "title": "Open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "Click on the headings to explore further",
+    "_items": [
+      {
+        "title": "Citizen participation",
+        "body": "<p>&nbsp;</p><p>Anti-corruption and fraud</p><p>&nbsp;</p><p>Stimulating economic growth and facilitating trade</p><p>&nbsp;</p><p>Crisis management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Anti-corruption and fraud",
+        "body": "<p>&nbsp;</p><p>Stimulating economic growth and facilitating trade</p><p>&nbsp;</p><p>Crisis management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Stimulating economic growth and facilitating trade",
+        "body": "<p>&nbsp;</p><p>Crisis management</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Crisis management",
+        "body": "<p>Stimulating economic growth and facilitating trade</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1d727dd78e42cc3a9cc558",
+    "_layout": "left",
+    "_parentId": "5a1d7266d78e42cc3a9cc556",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In this module we looked into what transparency means for governments around the world, and introduced some key principles such as open by default. Some key examples were presented around how transparency and open data can benefit governments.</p><p dir=\"ltr\">In Module 2 we will go into more depth about the role of data in the FCO outputs, and preparing for open data publication.</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1d7ad8d78e42cc3a9cc561",
+    "_layout": "left",
+    "_parentId": "5a1d7ac9d78e42cc3a9cc55b",
+    "_type": "component",
+    "body": "<p>At the heart of open government is open data.&nbsp;Open data is data that&nbsp;<strong>anyone can access, use and share</strong>. It must be free from restrictions and openly licensed.</p><p>Open data complements the work of the Freedom of Information (FOI) legislation&nbsp;through the proactive release of raw data.</p><p>Open data can supports each of the pillars of the open government partnership.</p>",
+    "displayTitle": "Open data",
+    "title": "Open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1d8406d78e42cc3a9cc566",
+    "_layout": "right",
+    "_parentId": "5a1d8405d78e42cc3a9cc564",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+      "small": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a1d850bd78e42cc3a9cc593",
+    "_layout": "right",
+    "_parentId": "5a1d850bd78e42cc3a9cc592",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "small": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "attribution": "<a href=\"http://theodi.org\" target=\"_blank\">The Open Data Spectrum (learning edition)</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a1d8513d78e42cc3a9cc59f",
+    "_layout": "left",
+    "_parentId": "5a1d850bd78e42cc3a9cc592",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">There are many benefits for FCO and other government departments to provide access to raw data, not just information or knowledge:</p>",
+    "displayTitle": "The role of data at the FCO: raw data",
+    "title": "The role of data at the FCO: raw data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "Click on the headings to explore further",
+    "_items": [
+      {
+        "title": "Lowest level  of abstraction",
+        "body": "<p dir=\"ltr\">Data is the lowest level of abstraction. Raw data can always be turned <strong>into information and knowledge outputs</strong>, the reverse it not possible.</p><p dir=\"ltr\">For example, data can be easily turned into percentages. However, percentages cannot be turned back into raw data without additional context such as the sample size.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Easily repeated analysis",
+        "body": "<p dir=\"ltr\">Responses to <strong>requests for information </strong>(like spending on aid) are more repeatable.</p><p dir=\"ltr\">Raw data also provides the possibility for <strong>regular updating of analysis</strong>, whereas information only provides a snapshot at a point in time.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reduces costs",
+        "body": "<p dir=\"ltr\"><strong>Reduces costs and level of staff effort </strong>over time. This is particularly relevant when dealing with FOI requests.</p><p dir=\"ltr\">In the first six months&nbsp;after the proactive release of open data by South Australia&#39;s police department, <a href=\"https://data.sa.gov.au/news/sa-police-reduce-costs-through-proactive-open-data\" target=\"_blank\">31% of FOI requests</a> were sent directly to their open data portal, reducing the burden on staff.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1e816bd78e42cc3a9cc5a2",
+    "_layout": "right",
+    "_parentId": "5a1c3738d78e42cc3a9cc518",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a1c331ed78e42cc3a9cc4e2",
+    "_layout": "left",
+    "_parentId": "5a1c32bed78e42cc3a9cc4e0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f7fc407b61e43aa6bfcc508cabed14c5abd69ef4.jpg",
+      "small": "course/en/assets/f7fc407b61e43aa6bfcc508cabed14c5abd69ef4.jpg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/beverage-black-coffee-business-chart-33972/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a0dabc2d78e42cc3a9cb22b",
+    "_layout": "right",
+    "_parentId": "5a0daaecd78e42cc3a9cb228",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0e0abba338c8911f92ab74cb9f79e692c61e6eb1.jpeg",
+      "small": "course/en/assets/0e0abba338c8911f92ab74cb9f79e692c61e6eb1.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/abstract-color-colorful-concrete-122480/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1e8889d78e42cc3a9cc5b7",
+    "_layout": "left",
+    "_parentId": "5a1e876ad78e42cc3a9cc5b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Data, information and knowledge",
+    "title": "Data, information and knowledge",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "matching",
+    "instruction": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "FCO spend over £25,000",
+        "_options": [
+          {
+            "text": "Data",
+            "_isCorrect": true
+          },
+          {
+            "text": "Information",
+            "_isCorrect": false
+          },
+          {
+            "text": "Knowledge",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Impact assessments",
+        "_options": [
+          {
+            "text": "Data",
+            "_isCorrect": true
+          },
+          {
+            "text": "Information",
+            "_isCorrect": false
+          },
+          {
+            "text": "Knowledge",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quarterly economic reports",
+        "_options": [
+          {
+            "text": "Data",
+            "_isCorrect": false
+          },
+          {
+            "text": "Information",
+            "_isCorrect": true
+          },
+          {
+            "text": "Knowledge",
+            "_isCorrect": false
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p><a href=\"https://data.gov.uk/dataset/financial-transactions-data-fco\" target=\"_blank\">Spend over &pound;25,000&nbsp;in the FCO</a>&nbsp;is&nbsp;an example of&nbsp;<strong>data</strong> published by the FCO on data.gov.uk. The data is in its rawest form and cannot be broken down further.</p><p>Impact assessments such as <a href=\"https://www.gov.uk/government/publications/sanctions-and-anti-money-laundering-bill-impact-assessment\" target=\"_blank\">this one</a>&nbsp;are an example of <strong>information</strong>. Raw data has been taken, given context and turned into information.</p><p><a href=\"https://www.gov.uk/government/publications/india-quarterly-economic-report-october-2017\" target=\"_blank\">Quarterly economic reports</a> are another example of <strong>information.</strong></p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p><a href=\"https://data.gov.uk/dataset/financial-transactions-data-fco\" target=\"_blank\">Spend over &pound;25,000&nbsp;in the FCO</a>&nbsp;is&nbsp;an example of&nbsp;<strong>data</strong> published by the FCO on data.gov.uk. The data is in its rawest form and cannot be broken down further.</p><p>Impact assessments such as <a href=\"https://www.gov.uk/government/publications/sanctions-and-anti-money-laundering-bill-impact-assessment\" target=\"_blank\">this one</a>&nbsp;are an example of <strong>information</strong>. Raw data has been taken, given context and turned into information.</p><p><a href=\"https://www.gov.uk/government/publications/india-quarterly-economic-report-october-2017\" target=\"_blank\">Quarterly economic reports</a> are another example of <strong>information.</strong></p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1c32d2d78e42cc3a9cc4e1",
+    "_layout": "right",
+    "_parentId": "5a1c32bed78e42cc3a9cc4e0",
+    "_type": "component",
+    "body": "<p>The&nbsp;raw data published by the FCO&nbsp;are then turned into information, and processed into various outputs to communicate to the public. Examples of typical FCO information outputs include:</p><ul dir=\"ltr\"><li><a href=\"https://www.gov.uk/government/publications/india-quarterly-economic-report-october-2017\" target=\"_blank\">Quarterly economic reports</a></li><li><a href=\"https://www.gov.uk/government/publications/sin-china-enables-uk-innovators-to-access-shanghai-government-datasets-and-funding\" target=\"_blank\">Impact stories and case studies</a></li><li><a href=\"https://www.gov.uk/government/publications/human-rights-and-conflict\" target=\"_blank\">Situation analysis</a></li><li><a href=\"https://www.gov.uk/government/publications/conflict-stability-and-security-fund-multilateral-programme-summaries-2017-to-2018\" target=\"_blank\">Programme summaries</a></li><li><a href=\"https://www.gov.uk/government/publications/ukraine-reform-conference-communique\" target=\"_blank\">Policy communiques</a></li><li><a href=\"https://www.gov.uk/government/publications/sanctions-and-anti-money-laundering-bill-impact-assessment\" target=\"_blank\">Impact assessments</a></li><li><a href=\"https://www.gov.uk/government/publications/uk-us-trade-investment-highlights\" target=\"_blank\">Corporate reports</a></li><li><a href=\"https://www.gov.uk/government/publications/fco-economic-factsheets\" target=\"_blank\">Fact sheets</a></li><li><a href=\"https://www.parliament.uk/business/committees/committees-a-z/commons-select/foreign-affairs-committee/news-parliament-2017/budget-capacity-report-17-19/\" target=\"_blank\">Parliamentary questions and evidence</a></li></ul>",
+    "displayTitle": "Raw data into information",
+    "title": "Raw data into information",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1d8406d78e42cc3a9cc565",
+    "_layout": "left",
+    "_parentId": "5a1d8405d78e42cc3a9cc564",
+    "_type": "component",
+    "body": "<p>In addition to supporting transparency and open data movements around the world, the FCO also has its own open data publication commitments. The FCO currently publishes data to <a href=\"https://data.gov.uk/publisher/foreign-and-commonwealth-office\" target=\"_blank\">data.gov.uk</a> on a range of different topics, including:</p>",
+    "displayTitle": "Examples of existing data publication efforts in the FCO",
+    "title": "Examples of existing data publication efforts in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-three",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Consular management information ",
+        "body": "<ul dir=\"ltr\"><li>Statistics on numbers of British nationals: - travelling abroad; - who have died abroad; - arrested or detained abroad.</li><li>Statistics on numbers of: - child abduction cases; - forced marriages; - emergency travel documents issued - Rapid Deployment Teams deployed, consular contact with British nationals within 24 hours of arrest;</li><li>Reply to correspondence from MPs and members of the public within 20 days</li><li>The total costs of delivering consular assistance to British nationals and total costs of providing official documents (notarial and documentary services)</li></ul><p>Sample dataset:&nbsp;<strong><a href=\"https://data.gov.uk/dataset/uk-consular-assistance-enquiries\" target=\"_blank\">UK Consular assistance enquiries</a></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Government spending",
+        "body": "<ul dir=\"ltr\"><li>Total FCO expenditure on Official Development Assistance (ODA) and percentage of total UK ODA contributed by the FCO,</li><li>performance related payments</li><li>FCO travel costs</li><li>Contracts and tenders</li></ul><p>Sample dataset:&nbsp;<strong><a href=\"https://data.gov.uk/dataset/fco-multilateral-overseas-development-aid\" target=\"_blank\">Overseas Development Assistance (ODA) International Subscriptions</a></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "FCO business and operational information",
+        "body": "<ul dir=\"ltr\"><li>Collated economic reporting &amp; business information</li><li>meetings and overseas travel undertaken by FCO Ministers</li><li>gifts given to Ministers in the FCO over the value of &pound;140</li><li>organogram and staff pay data for FCO staff in the UK</li><li>historical data, including diplomatic service lists.</li></ul><p>Sample dataset:&nbsp;<strong><a href=\"https://data.gov.uk/dataset/organogram-foreign-and-commonwealth-office\" target=\"_blank\">Organigram staff role and salaries</a></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Geographic and travel",
+        "body": "<ul dir=\"ltr\"><li>list of the locations where HMG has a diplomatic presence</li><li>current Foreign &amp; Commonwealth (FCO) list of approved British English-language names and descriptive terms for countries</li></ul><p>Sample dataset:&nbsp;<strong><a href=\"https://data.gov.uk/dataset/fco-online-travel-advice\" target=\"_blank\">Country travel advice</a></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Environment",
+        "body": "<ul><li>Records relating to all treaties to which the UK has signed and is a party</li></ul><p>Sample dataset:&nbsp;<strong><a href=\"https://data.gov.uk/dataset/treaties-database\" target=\"_blank\">UK Treaty Database</a></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1e909ed78e42cc3a9cc5c7",
+    "_layout": "right",
+    "_parentId": "5a1e9091d78e42cc3a9cc5b9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "  ",
+    "title": "  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg",
+      "small": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/bridge-over-river-in-city-258117/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1e90a4d78e42cc3a9cc5d2",
+    "_layout": "left",
+    "_parentId": "5a1e9091d78e42cc3a9cc5b9",
+    "_type": "component",
+    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\"> list of commitments to publishing open data</a>, and an <a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">open data strategy</a> which outlines some of the high priority datasets.</p><p dir=\"ltr\">Open data helps the FCO in their role to:</p><p dir=\"ltr\"><span style=\"color:#FF0000\">THERE MUST BE SOME THINGS THEY DO THAT ARE NOT ONLY TRANSPARENCY?!</span></p>",
+    "displayTitle": "Open data at the FCO",
+    "title": "Open data at the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "Click on the headings to explore further",
+    "_items": [
+      {
+        "title": "Raise global standards",
+        "body": "<p dir=\"ltr\">Raise global standards on so that more information is available,&nbsp;be it on land deals or oil and gas extraction contracts. An example of this is the&nbsp;implementation of the <a href=\"https://eiti.org/\" target=\"_blank\">Extractives Industries Transparency Initiative</a> (EITI). &nbsp;</p><p dir=\"ltr\">&nbsp;</p><p dir=\"ltr\"><strong><span style=\"color:#FF0000\">(I don&#39;t understand this one - Fiona?)</span></strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increasing domestic transparency",
+        "body": "<p dir=\"ltr\">As a key government department, the FCO is is a strategic place to support the openness and transparency of&nbsp;government. This enables citizens to&nbsp;see how much governments around the world are receiving in revenues, and how much of that money is being re-invested in the economy.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increasing transparency in aid flows",
+        "body": "<p dir=\"ltr\">Publishing open data can help increase transparency in UK aid flows, so those people in developing countries can hold their governments to account for spending the aid effectively. This also allows&nbsp;people who give generously in the UK to&nbsp;see the impact their money makes.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Encouraging transparency internationally ",
+        "body": "<p dir=\"ltr\">Having a strong open data agenda helps the FCO support the countries it works in to become more transparent and accountable.</p><p dir=\"ltr\">For example, the UK Embassy in Bosnia and Herzegovina&nbsp;is working with a range of partners to strengthen the capacity for implementing open data in Bosnia and Herzegovina, even within a constrained political environment. Projects include producing an <a href=\"http://www.analitika.ba/publications/open-government-guide-open-government-data-and-records-management\">&lsquo;open government&rsquo; guide</a> for government and civil society representatives, supporting an open government working group leading advocacy efforts for Bosnia and Herzegovina to join the Open Government Partnership, and training civil servants from key Ministries to format and publish open data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1e945cd78e42cc3a9cc5ea",
+    "_layout": "left",
+    "_parentId": "5a1e945cd78e42cc3a9cc5e8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a1e9471d78e42cc3a9cc5ff",
+    "_layout": "right",
+    "_parentId": "5a1e945cd78e42cc3a9cc5e8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "What is the role of data at the FCO?",
+    "title": "What is the role of data at the FCO?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1e9493d78e42cc3a9cc602",
+    "_layout": "right",
+    "_parentId": "5a1e9493d78e42cc3a9cc601",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "small": "course/en/assets/058efd2b2a6d2b093d8172d6add76eef8fe8d06b.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=250810483&src=lb-35924366\" target=\"_blank\">Oleksiy Mark </a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a1e9493d78e42cc3a9cc617",
+    "_layout": "left",
+    "_parentId": "5a1e9493d78e42cc3a9cc601",
+    "_type": "component",
+    "body": "<p><strong>Open data helps the FCO to...</strong></p>",
+    "displayTitle": "Open data at the FCO",
+    "title": "Open data at the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Encourage transparency internationally",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1e9507d78e42cc3a9cc61a",
+    "_layout": "left",
+    "_parentId": "5a1e9507d78e42cc3a9cc619",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "small": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position=30\" target=\"_blank\">Photoroyalty / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a1e9507d78e42cc3a9cc62f",
+    "_layout": "right",
+    "_parentId": "5a1e9507d78e42cc3a9cc619",
+    "_type": "component",
+    "body": "<p><strong>Not all data should be published openly, especially where it contains sensitive data.&nbsp;Which of the following are justifications to keep data closed?</strong></p>",
+    "displayTitle": "Sensitive data at the FCO",
+    "title": "Sensitive data at the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Releasing data will endanger lives",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing data will damage the UK's competitive advantage",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing the data will affect an ongoing criminal court case",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing the data will negatively impact the government",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The data will not be of interest to the public",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Justifications to keep data closed may be made on the grounds of national security, privacy and confidentiality, commercially or market sensitive data, intellectual property and ongoing investigations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Justifications to keep data closed may be made on the grounds of national security, privacy and confidentiality, commercially or market sensitive data, intellectual property and ongoing investigations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1eb7ced78e42cc3a9cc683",
+    "_layout": "right",
+    "_parentId": "5a1eb7ced78e42cc3a9cc677",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e7d78e42cc3a9cc6e7",
+    "_layout": "right",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc764",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc7bc",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bffeb429d507fa460a6b89cf96eccdb9a5f1718e.jpeg",
+      "small": "course/en/assets/bffeb429d507fa460a6b89cf96eccdb9a5f1718e.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc7d2",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg",
+      "small": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-chart-and-bar-graph-669612/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc7e8",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5848d60574ddfdf96ea2982f27ad06dd40287d32.jpeg",
+      "small": "course/en/assets/5848d60574ddfdf96ea2982f27ad06dd40287d32.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/equipment-pavement-security-security-camera-430208/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc80f",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e5",
+    "_type": "component",
+    "body": "<p>Not all data should be published openly, especially where it contains sensitive data.&nbsp;Which of the following are justifications to keep data closed?</p>",
+    "displayTitle": "Sensitive data at the FCO",
+    "title": "Sensitive data at the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Releasing data will endanger lives",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing data will damage the UK's competitive advantage",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing the data will affect an ongoing criminal court case",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Releasing the data will negatively impact the government",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The data will not be of interest to the public",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Justifications to keep data closed may be made on the grounds of national security, privacy and confidentiality, commercially or market sensitive data, intellectual property and ongoing investigations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Justifications to keep data closed may be made on the grounds of national security, privacy and confidentiality, commercially or market sensitive data, intellectual property and ongoing investigations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1eb7ced78e42cc3a9cc686",
+    "_layout": "left",
+    "_parentId": "5a1eb7ced78e42cc3a9cc677",
+    "_type": "component",
+    "body": "<p>The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government.&nbsp;</p><p>The UK was a founding member in&nbsp;establishing of the Open Government Partnership (OGP), an agenda now signed up to&nbsp;by 70 countries around the world. However there is still much to do to realise the vision set out by the pillars of the partnership.</p><p>This module explores:</p><p><strong>In this module we are going to explore...</strong></p><ul dir=\"ltr\"><li>The pillars of an open government</li><li>The role of open data in an open government</li><li>Moving to an &#39;open by default&#39; agenda</li><li>The role of the FCO in supporting open governments</li></ul>",
+    "displayTitle": "Openness and transparency in the FCO",
+    "title": "Openness and transparency in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1ec368d78e42cc3a9cc816",
+    "_layout": "left",
+    "_parentId": "5a1ec356d78e42cc3a9cc815",
+    "_type": "component",
+    "body": "<p>In an open government where does transparency feature?</p>",
+    "displayTitle": "The pillars of an Open Government",
+    "title": "The pillars of an Open Government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select your answer and click 'Submit'",
+    "_items": [
+      {
+        "text": "Transparency is one of the four pillars",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Transparency is the main agenda in an open government",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Transparency is not part of open government",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1ec376d78e42cc3a9cc81a",
+    "_layout": "right",
+    "_parentId": "5a1ec376d78e42cc3a9cc819",
+    "_type": "component",
+    "body": "<p>What role does open data play within an Open Government?</p>",
+    "displayTitle": "The role of open data in an Open Government",
+    "title": "The role of open data in an Open Government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select your answer and click 'Submit'",
+    "_items": [
+      {
+        "text": "Open data is just part of the 'transparency' pillar",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Open data is at the heart of all pillars in an open government",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Open data helps evaluate the success of the open government partnership",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1ec37dd78e42cc3a9cc81e",
+    "_layout": "left",
+    "_parentId": "5a1ec37cd78e42cc3a9cc81d",
+    "_type": "component",
+    "body": "<p>You have been tasked to a collect a new set of data, how do you decide whether it should be available as open data?</p>",
+    "displayTitle": "Moving to an 'open by default' agenda",
+    "title": "Moving to an 'open by default' agenda",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "",
+    "_items": [
+      {
+        "text": "You establish the demand for it from users",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "You submit a case for it being open to the open data project",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "There is no need to, it should be open by default. A case should have to be made to close it",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1ec383d78e42cc3a9cc822",
+    "_layout": "right",
+    "_parentId": "5a1ec383d78e42cc3a9cc821",
+    "_type": "component",
+    "body": "<p>The FCO plays a key role&nbsp;in supporting open governments both in the UK and overseas by ...</p>",
+    "displayTitle": "The role of the FCO in supporting open governments both in the UK and overseas",
+    "title": "The role of the FCO in supporting open governments both in the UK and overseas",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select all correct answers and click submit",
+    "_items": [
+      {
+        "text": "Raise global standards so that more information is available",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Make all government data 'open by default'",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Increase transparency of our work",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Publish employee records",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Create a data economy",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1eb7cfd78e42cc3a9cc6cb",
+    "_layout": "full",
+    "_parentId": "5a1eb7ced78e42cc3a9cc681",
+    "_type": "component",
+    "body": "<p>At the heart of open government is open data.&nbsp;Open data is data that&nbsp;<strong>anyone can access, use and share</strong>. It must be free from restrictions and openly licensed.&nbsp;</p><p>Explore how open data can help deliver all four pillars of an open government.</p>",
+    "displayTitle": "The role of open data in an open government",
+    "title": "The role of open data in an open government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "Click on the forward arrow to see more",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transparecy",
+        "body": "<p>Traditionally transparency has been the sole purpose of the Freedom of Information act (FOI).&nbsp;</p><p>Open data is not the death of FOI, however it can both reduce the number of FOI requests and streamline to response to others.&nbsp;</p><p>In Carlisle, publication of real-time business rates has reduced the number of FOI requests,&nbsp;saving the council up to &pound;15,000 annually. (<a href=\"https://www.local.gov.uk/sites/default/files/documents/Carlisle%20Evaluation%202015-06-24%20final.pdf\" target=\"_blank\">Source</a>)</p><p>In 2009-2010 FOI requests were estimated to cost the Greater Manchester public bodies over &pound;4 million a year. At the same time over 600 public officials a day were unable to find data&nbsp;they required for their jobs &ndash; costing over &pound;8.5 million a year. <a href=\"http://www.datagm.org.uk/\" target=\"_blank\">DataGM</a>&nbsp;was created to release and bring together in one place, solving both problems.&nbsp;(<a href=\"http://blog.okfn.org/2011/08/25/greater-manchester-open-data-city/\" target=\"_blank\">Source</a>)</p>",
+        "_graphic": {
+          "src": "course/en/assets/c3cef960e63dfcbe73f0b479f55812e2021b650e.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://static.pexels.com/photos/314829/pexels-photo-314829.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transparency"
+      },
+      {
+        "title": "Citizen Participation",
+        "body": "<p dir=\"ltr\">Open data allows citizens to see inside the workings of government, to monitor service delivery, hold government agencies to account&nbsp;and participate in decision-making.</p><p dir=\"ltr\">The&nbsp;<a href=\"https://www.opengovpartnership.org/stories/linida-story-when-villagers-open-local-government\" tabindex=\"0\" target=\"_blank\">Linida initiative, Indonesia</a>, provides a platform that villagers use to engage with decision makers so that the local development policy and public service provision fulfil their priorities</p><p dir=\"ltr\">The&nbsp;<a href=\"http://www.makingallvoicescount.org/project/mopa-using-data-improve-waste-management-mozambique/\" tabindex=\"0\" target=\"_blank\">Participatory Monitoring Maputo platform, Mozambique</a>- informs citizens about the need for proper waste removal and progress on waste removal, and aims to empower them to request services from the government through the use of a mobile app.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Citizen Participation"
+      },
+      {
+        "title": "Anti-corruption and fraud",
+        "body": "<p dir=\"ltr\">In 2016 the&nbsp;<a href=\"https://blog.opencorporates.com/2016/07/06/uk-beneficial-ownership-information-now-in-opencorporates/\" target=\"_blank\">UK became the first country in the world</a>&nbsp;to collect and publish who controls and benefits from companies in a structured format.&nbsp;</p><p dir=\"ltr\">Another way the UK government is tackling the perception of fraud is by publishing open data on government grant spending. In October 2017, the government introduced a platform allowing departments to share information on &pound;100 billion worth of grants data from across government departments using a standard format developed by the&nbsp;<a href=\"http://www.threesixtygiving.org/support/standard/\" target=\"_blank\">360Giving initiative</a>.</p><p>Making contracting and procurement more transparent eg Paraguay is <a href=\"https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f\" target=\"_blank\">using open contracting to improve spending on education</a>. Information about education contracts unearthed a wider spending scandal that triggered a formal investigation and citizen pressure and reform of school spending.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f476f3f4c685b49d3767079ce18a539ee8bbb892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/catatronic/2160544145\" target=\"_blank\">William Grootonk</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Anti-corruption and fraud"
+      },
+      {
+        "title": "Technological Innovation",
+        "body": "<p>Open data can help deliver new services to the public while driving efficiencies in the delivery of current public services.</p><p>Singapore is using open transport data and analytics to improve the commuting travel experience.&nbsp;Arrival times of buses are tracked using sensors installed in over 5,000 vehicles, to manage overcrowding and waiting times.</p><p>This data is then made available&nbsp;public and third party developers, who can put them to good use in creating people-centric transport solutions such as apps that&nbsp;helps wheelchair users find accessible routes.</p>",
+        "_graphic": {
+          "src": "course/en/assets/76204ba6e4198641feda138d71f2fb38726dc828.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1286628&term=technology%20car\" target=\"_blank\">fanjianhua / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Technological Innovation"
+      }
+    ]
+  },
+  {
+    "_id": "5a1eb7cfd78e42cc3a9cc6c2",
+    "_layout": "right",
+    "_parentId": "5a1eb7ced78e42cc3a9cc67d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/148678db59bba900d6bd0bf1a742150f6b8bbef4.jpeg",
+      "small": "course/en/assets/148678db59bba900d6bd0bf1a742150f6b8bbef4.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1ff63dd78e42cc3a9cc8aa",
+    "_layout": "left",
+    "_parentId": "5a1ff63dd78e42cc3a9cc8a9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to lead in transparency and openness?",
+    "title": "Are you ready to lead in transparency and openness?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1ff63dd78e42cc3a9cc8ab",
+    "_layout": "right",
+    "_parentId": "5a1ff63dd78e42cc3a9cc8a9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a1ff656d78e42cc3a9cc8b3",
+    "_layout": "right",
+    "_parentId": "5a1ff656d78e42cc3a9cc8b1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a1ff7d9d78e42cc3a9cc8c4",
+    "_layout": "left",
+    "_parentId": "5a1ff736d78e42cc3a9cc8c2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/946b631069738ba5eda749db4b5cea57bc482512.jpeg",
+      "small": "course/en/assets/946b631069738ba5eda749db4b5cea57bc482512.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/brown-concrete-building-with-pillars-against-clear-skies-121732/\" target=\"_blank\">Pixels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e7d78e42cc3a9cc6e6",
+    "_layout": "left",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d8",
+    "_type": "component",
+    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\"> list of commitments to publishing open data</a>, and an <a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">open data strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO also makes use of a large amount of data and&nbsp;open data within internal activities, however challenges still exist in realising the benefits of a strong data strategy within the FCO.</p><p>This module looks at:</p><ul><li>Data as a raw material</li><li>The benefits of data in the FCO</li><li>Supporting the FCO open data strategy</li><li>Dealing with sensitive data</li></ul>",
+    "displayTitle": "The role of data in the FCO",
+    "title": "The role of data in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a20192ed78e42cc3a9cc8d9",
+    "_layout": "full",
+    "_parentId": "5a20191dd78e42cc3a9cc8d8",
+    "_type": "component",
+    "body": "<p style=\"text-align:right\">-- Francis Maude, 2012</p>",
+    "displayTitle": "Data is 'the new raw material of the 21st century'",
+    "title": "Data is 'the new raw material of the 21st century'",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a201c13d78e42cc3a9cc8dc",
+    "_layout": "left",
+    "_parentId": "5a2017f3d78e42cc3a9cc8d5",
+    "_type": "component",
+    "body": "<p>Raw data&nbsp;(sometimes called source&nbsp;data&nbsp;or atomic&nbsp;data) is&nbsp;data&nbsp;that has not been processed for use.</p><p>A distinction is sometimes made between&nbsp;data&nbsp;and information to the effect that information is the end product of&nbsp;data&nbsp;processing.&nbsp;Think of data as those location, images, descriptions, and maps that form the basis of information that can feed into a dataset on the location of FCO offices around the world.</p><p>Raw open data provides the possibility for regular updating of analysis by anyone, whereas information only provides a snapshot at a point in time.</p><p>Think of data like the raw food ingredients and information like a &#39;ready meal&#39;, both have their place but one is much more flexible than the other!</p>",
+    "displayTitle": "Data as a raw material",
+    "title": "Data as a raw material",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a202336d78e42cc3a9cc8de",
+    "_layout": "right",
+    "_parentId": "5a2022ccd78e42cc3a9cc8dd",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data plays an important role within a modern diplomatic service. &nbsp;It is important for knowledge management, generating insights and intelligence, designing better public-facing services (eg up to date travel advice), ensuring proper resourcing, and informing better decisions.<br /><br />Enabled by new technology, there is more opportunity for FCO staff to access and use different sources of data for decision making- including social media, big data and open data. The greater use of digital media and new technology for communications and engagement is referred to as &lsquo;digital diplomacy&rsquo;. Read more about the FCO&rsquo;s commitments to digital transformation in <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/521916/Future_FCO_Report.pdf\">&lsquo;Future FCO&rsquo; report</a>, and <a href=\"https://www.youtube.com/watch?v=W-3ivCMj4cE\" target=\"_blank\">Diplomacy 2020</a>.</p>",
+    "displayTitle": "The benefits of data in the FCO",
+    "title": "The benefits of data in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "Find out more about the important role of raw data in the FCO below:",
+    "_items": [
+      {
+        "title": "Crisis management",
+        "body": "<p dir=\"ltr\">Publishing and making use of open data in crises response can ensure that a faster more effective response can be made.</p><p dir=\"ltr\">Data is a critical resource when responding to natural or manmade crises. In emergency situations or in resource-constrained environments, having access to raw data is essential as you never know what crises will come next.&nbsp;</p><p dir=\"ltr\">Open data plays a key role in crises responses as it is the only form of data everyone can use.</p><p dir=\"ltr\">In particular, the&nbsp;<a href=\"http://www.openstreetmap.org/#map=5/54.910/-3.432\" tabindex=\"0\" target=\"_blank\">OpenStreetMap community</a>&nbsp;is often at the heart of humanitarian response situations, be it in response to devastating earthquakes in&nbsp;<a href=\"https://www.ict.govt.nz/assets/Uploads/Case-Study-Nepal-Earthquake.pdf\" tabindex=\"0\" target=\"_blank\">Nepal</a>&nbsp;or <a href=\"https://www.hotosm.org/projects/haiti-2\" target=\"_blank\">Haiti</a>.&nbsp;</p><p dir=\"ltr\">Open data can also help facilitate&nbsp;information flows to help humanitarian actors, service providers and government agencies share&nbsp;data. Open data played a key role&nbsp;during&nbsp;<a href=\"http://odimpact.org/case-battling-ebola-in-sierra-leone.html\" tabindex=\"0\" target=\"_blank\">Ebola outbreak</a>&nbsp;to strengthen service delivery,&nbsp;monitoring risk and assessing needs.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Consular services",
+        "body": "<p>The delivery of consular services is complex and multi-faceted. Collecting and using&nbsp;data more effectively can help evaluate the performance and cost of providing such services and identify potential ways to improve.&nbsp;</p><p dir=\"ltr\">The FCO already holds (<a href=\"https://data.gov.uk/dataset/uk-consular-assistance-enquiries\">and occasionally publishes</a>) key consular performance statistics.&nbsp;</p><p dir=\"ltr\">Consular data are some of the most requested type of data&nbsp;via Freedom of Information requests. A more pro-active publication as open data would help bring efficiencies to the answering of such requests and potentially reduce the number of requests.</p><p dir=\"ltr\">Add South Australia case study of 31% reduction in FOI.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Diplomacy and trade",
+        "body": "<p dir=\"ltr\">There is growing evidence that open data contributes to economic growth and trade by:</p><p dir=\"ltr\"><strong>Opening up procurement data to help&nbsp;more small &nbsp;businesses compete for opportunities:</strong></p><p dir=\"ltr\"><a href=\"https://www.spendnetwork.com/about/\" target=\"_blank\">Spend Network</a> provides insight and analysis on public procurement and finance data to help suppliers identify opportunities to bid for government grants</p><p dir=\"ltr\"><strong>Improving trade connections between countries </strong></p><p dir=\"ltr\"><a href=\"http://www.labora.io/\" target=\"_blank\">Labora</a> is open data accelerator in Mexico- linking entrepreneurs working with open data to mentors, investors, data providers/regulators, and capacity building. With support of the UK Embassy and the Open Data Institute, the project has also facilitated exchanges between start-ups in UK and Mexico.</p><p dir=\"ltr\"><strong>Helping businesses to comply with local and international regulations</strong></p><p dir=\"ltr\"><a href=\"http://en.brdo.com.ua/\" target=\"_blank\">Better Regulation Delivery Office</a>, Ukraine- uses open data to create tools that give users access to information about regulations in just a few clicks, such as requirements to start a business</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a2038ced78e42cc3a9cc8e5",
+    "_layout": "left",
+    "_parentId": "5a2038ced78e42cc3a9cc8e4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">The FCO manages a lot of data, and the FCO is committed to going &#39;open by default&#39;. But not all data should be made open. It is important for you to recognise what data can be made open and what data cannot. In this section, we explore principles which can&nbsp;help guide your decision of how you&nbsp;share data.</p><ul></ul>",
+    "displayTitle": "Supporting the FCO open data strategy",
+    "title": "Supporting the FCO open data strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Knowing the FCO commitments",
+        "body": "<p dir=\"ltr\">The FCO has published its<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\" target=\"_blank\">&nbsp;list of commitments to publishing open data</a>, and an&nbsp;<a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\" target=\"_blank\">open data strategy</a>&nbsp;which outlines some of the high priority datasets which should be available openly.</p><p dir=\"ltr\">These have been selected based on utility to the FCO&rsquo;s mission, and the PM&rsquo;s Transparency Commitments of 2010-2011.</p><p>The list of datasets are regularly reviewed and added to.&nbsp;If the dataset in question is not listed, you should consider if the dataset could be open In accordance with the principle of &lsquo;open by default&rsquo;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Knowing what data you have",
+        "body": "<p dir=\"ltr\">When an organisation manages large volumes of data, it can be helpful to maintain a data inventory. Data inventories provide a full list of data assets collected and maintained by an organisation (whether they are open, shared, or closed). Maintaining and publishing a data inventory helps to:</p><ul><li dir=\"ltr\"><p dir=\"ltr\">Inform people about what types of data they can access from the FCO</p></li><li dir=\"ltr\"><p dir=\"ltr\">Manage and organise your data assets</p></li><li dir=\"ltr\"><p dir=\"ltr\">Comply with new <a href=\"https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/\" target=\"_blank\">General Data Protection Regulation (GDPR) requirements</a> around maintaining records of personal data and processing activities</p></li></ul><p dir=\"ltr\"><a href=\"https://www.gov.uk/government/publications/dataset-inventory\" target=\"_blank\">HM Land Registry provides a open&nbsp;Dataset Inventory</a>&nbsp;of all the electronic data held by Land Registry, including both internal (closed)&nbsp;and external (open) raw data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Knowing how widely the data can be shared",
+        "body": "<p dir=\"ltr\">When deciding whether a dataset can be shared or made open - it can be helpful to map the datasets that you have on the&nbsp;<a href=\"https://theodi.org/data-spectrum\" target=\"_blank\">Open Data Institute&#39;s&nbsp;&lsquo;Data Spectrum&rsquo;.</a></p><p dir=\"ltr\">The data spectrum categories data into open/shared/closed based on who can be granted access to the dataset, and how they are permitted to use the data.</p><p dir=\"ltr\">You can find out more about&nbsp;<a href=\"https://theodi.org/blog/closed-shared-open-data-whats-in-a-name\" target=\"_blank\">using the Data Spectrum in this article.</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Knowing how to move towards open",
+        "body": "<p>Some data can be made open without requiring changes. Other data might need to be changed&nbsp;before it can be published to ensure it doesn&#39;t contain sensitive data.</p><p>Such data might include:</p><ul><li>Data of&nbsp;national security</li><li>Personal data</li><li>Commercially sensitive data&nbsp;</li><li>Data that doesn&#39;t belong&nbsp;to the FCO</li><li>Data related to current investigations</li></ul><p>You can explore each of these in more detail in the next part of the module.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1eb7ced78e42cc3a9cc68e",
+    "_layout": "full",
+    "_parentId": "5a1eb7ced78e42cc3a9cc679",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In 2011, the UK government was a founding member of the <a href=\"http://www.opengovpartnership.org/\" target=\"_blank\">Open Government Partnership</a> (OGP). The OGP is an international platform for reformers committed to making their governments more open, accountable&nbsp;and responsive to citizens.</p>",
+    "displayTitle": "The pillars of an open government",
+    "title": "The pillars of an open government",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "Click on the headings to explore further",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Transparency",
+        "body": "<p dir=\"ltr\">Transparency of information is the foundation of accountability in public services and open government.</p><p dir=\"ltr\">&quot;Transparency&nbsp;shines a light on underperformance and inefficiencies in public services. It allows citizens and the media to hold governments to account, strengthening civil society and building more open societies.&quot;</p><p dir=\"ltr\">Freedom of Information (FoI) is central to transparency however pro-active publication of Open Data has the potential to deliver <a href=\"https://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">much wider benefits</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/bottom-view-of-clear-glass-building-under-blue-cloudy-sky-during-day-time-164444/\" target=\"_blank\">Transparency</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Transparency"
+      },
+      {
+        "title": "Participation",
+        "body": "<p>Participation is about&nbsp;creating and using channels to solicit public feedback, and deepening public participation in developing, monitoring and evaluating government activities.</p><p>While Freedom of Information (FOI)&nbsp;can assist it is not sufficient to allow the public to engage fully.&nbsp;</p><p><a href=\"http://factico.com.mx/\" target=\"_blank\">Factico</a>&nbsp;is a mobile application developed in Mexico for citizens that allows them to highlight misconduct and provide feedback on failures in public services, such as electrical energy.</p>",
+        "_graphic": {
+          "src": "course/en/assets/4f3e5d8b133f36f671d242f2d0325cd39bf4e1e4.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/person-answering-test-paper-159353/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Participation"
+      },
+      {
+        "title": "Anti-corruption",
+        "body": "<p dir=\"ltr\">Anti-corruption involves strengthening the rule of law and ensuring&nbsp;transparency in the management of public finances.It means&nbsp;establishing&nbsp;legal frameworks to publish&nbsp;information on the income and assets of&nbsp;high ranking public officials.</p><p dir=\"ltr\">Increasingly, countries are&nbsp;taking steps to make beneficial ownership data open- that is, information on who controls and benefits from companies. This is important for exposing corruption, fraud, organised crime and tax evasion.&nbsp;</p><p dir=\"ltr\">Anti-corruption efforts are&nbsp;not just important in the UK but for any country who the UK chooses to do business with.&nbsp;</p><p dir=\"ltr\">Read more about the <a href=\"https://www.gov.uk/government/publications/global-declaration-against-corruption\" target=\"_blank\">Global Declaration Against Corruption</a> here.</p>",
+        "_graphic": {
+          "src": "course/en/assets/fd6eee58099ebe554493decd86fe6674b5688e50.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/abundance-achievement-bank-banknotes-534229/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Anti-corruption"
+      },
+      {
+        "title": "Technological innovation",
+        "body": "<p>Technology has had a profound effect on all aspects of our lives. It has changed the way governments deliver services and engage with citizens.&nbsp;</p><p>As a result citizens now expect to be able to engage through advanced digital platforms that deliver more than just documents which would have previously been received in the post.&nbsp;</p><p>Governments have a key role to play in both delivering and enabling others to build digital services and technological innovation.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/46876a953db93061532ac45990d1a554be973920.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Jannoon028 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Technological innovation"
+      }
+    ]
+  },
+  {
+    "_id": "5a1ff806d78e42cc3a9cc8d3",
+    "_layout": "right",
+    "_parentId": "5a1ff736d78e42cc3a9cc8c2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government.&nbsp;</p><p dir=\"ltr\">Open data helps FCO to:</p>",
+    "displayTitle": "The role of the FCO in supporting open governments",
+    "title": "The role of the FCO in supporting open governments",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Raise global standards",
+        "body": "<p dir=\"ltr\">In this era of digital diplomacy, open data helps FCO to raise global standards so that more information is available - for example through implementation of the <a href=\"https://eiti.org/\" target=\"_blank\">Extractives Industries Transparency Initiative</a> (EITI).&nbsp;</p><p dir=\"ltr\">The&nbsp;EITI&nbsp;promotes&nbsp;transparency and better management of all steps along the value chain within the oil, gas and mining industries. This includes contracts and licensing, production, revenue collection, revenue allocation, and social and economic spending.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Make all government data more open and transparent",
+        "body": "<p dir=\"ltr\">The FCO plays an important role in supporting the capacity of governments to become more open and transparent.&nbsp;</p><p dir=\"ltr\">&nbsp;For example, the UK Embassy in Bosnia and Herzegovina (BiH)&nbsp;is working with a range of partners to strengthen the capacity for implementing open data in BiH, even within a constrained political environment.</p><p dir=\"ltr\">Projects include producing an <a href=\"http://www.analitika.ba/publications/open-government-guide-open-government-data-and-records-management\" target=\"_blank\">&lsquo;open government&rsquo; guide</a> for government and civil society representatives, supporting an open government working group leading advocacy efforts for BiH to join the OGP, and training civil servants from key Ministries to format and publish open data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "increase transparency in UK aid flows",
+        "body": "<p>This allows&nbsp;people in developing countries to hold their governments to account for spending the aid effectively, while those people who give generously in the UK can see the impact their money makes.</p><p>For example, <a href=\"http://followthemoneyng.org/about-us/\" target=\"_blank\">follow the money in Nigeria</a>&nbsp;visualises and tracks government spending and international aid, and communicates aid effectiveness back to rural communities.</p><p>The&nbsp;<a href=\"https://www.aidtransparency.net/\" target=\"_blank\">International Aid Transparency Initiative</a>&nbsp;(IATI) aims to improve&nbsp;the transparency of aid, development, and humanitarian resources and to increase the effectiveness of development cooperation activities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a2137fdd78e42cc3a9cc8f1",
+    "_layout": "full",
+    "_parentId": "5a202af3d78e42cc3a9cc8e0",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Not all data should be made open,&nbsp;especially where it contains sensitive data. If not treated sensitively, it can affect people&#39;s trust in data and in the responsible organisation.</p><p dir=\"ltr\">There are legitimate reasons why some FCO data should not be published openly. Justifications may be made on the grounds of:</p>",
+    "displayTitle": "Dealing with sensitive data",
+    "title": "Dealing with sensitive data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "inview",
+    "_items": [
+      {
+        "title": "National security",
+        "body": "<p dir=\"ltr\">Transparency sometimes needs to be balanced against national security issues. There may be good reason not to disclose information such as defence or security assets, or location and timing of counter-terrorism exercises, which could damage capabilities or effectiveness of UK operations.</p><p dir=\"ltr\">For example, publishing diplomatic telegrams which contain intelligence information regarding an unfolding political coup or sensitive policy advice to ministers could put British Nationals in the Territory in question under risk.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5848d60574ddfdf96ea2982f27ad06dd40287d32.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/equipment-pavement-security-security-camera-430208/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "National security"
+      },
+      {
+        "title": "Privacy and confidentiality",
+        "body": "<p dir=\"ltr\">Data containing personally identifiable information (PII) should not be released widely to protect individuals.</p><p dir=\"ltr\">However data can be published the&nbsp;data has been&nbsp;suitably anonymised in accordance with privacy legislation and internationally recognised standards.</p><p dir=\"ltr\">For example consular reports containing data about the location of pickpocketing and theft incidents reported at airports might contain PII. However,&nbsp;if the data is anonymised, it could be useful to understand spikes in petty crime activity in different areas.</p><p dir=\"ltr\">You can find out more about anonymisation in this <a href=\"http://theodi.org/guides/save-the-titanic-handson-anonymisation-and-risk-control-of-publishing-open-data\" target=\"_blank\">online guide</a>, or by getting in touch with the <a href=\"http://ukanon.net/\" target=\"_blank\">UK Anonymisation Network (UKAN)</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/132053576@N03/17765606909/\" target=\"_blank\">Owen Moore</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Privacy"
+      },
+      {
+        "title": "Commercially or market sensitive data",
+        "body": "<p dir=\"ltr\">Commercially or market sensitive data&nbsp;may be damaging to the UK government or to a commercial partner if improperly accessed. Much commercial data may be time sensitive, with the potential harm caused by disclosure diminishing over time. For example, the sensitivity of data relating to interest rates is likely to diminish in this way as time passes.</p><p dir=\"ltr\">Data on&nbsp;future transactions regarding dealings in the extractives industry&nbsp;are widely regarded as commercially sensitive as disclosure to the public could cause actual harm.</p>",
+        "_graphic": {
+          "src": "course/en/assets/9a02048e2dddf2eef40143b933d4d55a813fbd3c.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/stock-exchange-board-210607/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Market"
+      },
+      {
+        "title": "Intellectual property",
+        "body": "<p dir=\"ltr\">Publishing&nbsp;data which is protected by copyright or database rights may not be permitted under law. It is important to determine what intellectual property rights exist in the data before you consider opening it and publishing under an open licence.</p><p dir=\"ltr\">For example, Flickr photos on FCO embassy events might not be capable of sharing and re-use because they haven&#39;t been shared with an open licence.</p>",
+        "_graphic": {
+          "src": "course/en/assets/2f02baa67a4f8276891c6dd8549dc00678e3abf3.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business Transparent image\" target=\"_blank\"> Photoroyalty - Freepik.com</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Intellectual property"
+      },
+      {
+        "title": "Investigations",
+        "body": "<p dir=\"ltr\">Data from investigations or civil or criminal proceedings could compromise public protection or enforcement activities, or prejudice court cases.</p><p dir=\"ltr\">For example publishing the identify of persons being investigated for war crimes might put family members&nbsp;at risk.</p>",
+        "_graphic": {
+          "src": "course/en/assets/55fdaceae3e61bfad0b68be0efcf8b4e312e1342.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/mjtmail/3008566512\" target=\"_blank\">mjtmail (tiggy)</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Investigations"
+      }
+    ]
+  },
+  {
+    "_id": "5a1eb7e7d78e42cc3a9cc70b",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6db",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to maximise the benefit of data at the FCO?",
+    "title": "Are you ready to maximise the benefit of data at the FCO?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a20181ad78e42cc3a9cc8d7",
+    "_layout": "right",
+    "_parentId": "5a2017f3d78e42cc3a9cc8d5",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/956e0f81d3edec5408a0956d0262c7fdf44c5264.jpeg",
+      "small": "course/en/assets/956e0f81d3edec5408a0956d0262c7fdf44c5264.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a213c47d78e42cc3a9cc8f8",
+    "_layout": "right",
+    "_parentId": "5a2038ced78e42cc3a9cc8e4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/bffeb429d507fa460a6b89cf96eccdb9a5f1718e.jpeg",
+      "small": "course/en/assets/bffeb429d507fa460a6b89cf96eccdb9a5f1718e.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc7e7",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e4",
+    "_type": "component",
+    "body": "<p>Open data can help boost diplomacy and trade by...</p>",
+    "displayTitle": "The benefits of data in the FCO",
+    "title": "The benefits of data in the FCO",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select three answers and click 'submit'",
+    "_items": [
+      {
+        "text": "Help suppliers identify opportunities to bid for government grants",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Linking entrepreneurs working with open data to mentors, investors, data providers/regulators in different countries",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Improve the regulation and delivery of services",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Helping hold governments to account",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Being a raw material which we can trade with other countries",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a20233dd78e42cc3a9cc8df",
+    "_layout": "left",
+    "_parentId": "5a2022ccd78e42cc3a9cc8dd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg",
+      "small": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/banking-business-checklist-commerce-416322/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1eb7cfd78e42cc3a9cc6c3",
+    "_layout": "left",
+    "_parentId": "5a1eb7ced78e42cc3a9cc67d",
+    "_type": "component",
+    "body": "<p>Open by default is the principle that everything should automatically be open for everyone to access, use and share unless there is a legal, ethical or otherwise harmful reason why it should remain closed. This principle is at the heart of an open government.</p><p>The represents a complete mind change for many who current take a demand led approach to the publication of open data.</p><p>Open by default is the first principle of the&nbsp;<a href=\"https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex\" target=\"_blank\">G8 Open Data Charter</a>&nbsp;and the international&nbsp;<a href=\"https://opendatacharter.net/\" target=\"_blank\">Open Data Charter</a>.&nbsp;</p><p>The Canadian government is <a href=\"http://pilot.open.canada.ca/en/about-open-by-default\" target=\"_blank\">piloting</a>&nbsp;an&nbsp;&#39;open by default&#39; approach&nbsp;to releasing public sector information in four&nbsp;departments.&nbsp;The pilot promotes the proactive release of scientific and cultural research data&nbsp;which supports government transparency and accountability.</p>",
+    "displayTitle": "Moving to an 'open by default' agenda",
+    "title": "Moving to an 'open by default' agenda",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a1ec37dd78e42cc3a9cc81f",
+    "_layout": "right",
+    "_parentId": "5a1ec37cd78e42cc3a9cc81d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/148678db59bba900d6bd0bf1a742150f6b8bbef4.jpeg",
+      "small": "course/en/assets/148678db59bba900d6bd0bf1a742150f6b8bbef4.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1ec384d78e42cc3a9cc823",
+    "_layout": "left",
+    "_parentId": "5a1ec383d78e42cc3a9cc821",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/946b631069738ba5eda749db4b5cea57bc482512.jpeg",
+      "small": "course/en/assets/946b631069738ba5eda749db4b5cea57bc482512.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/brown-concrete-building-with-pillars-against-clear-skies-121732/\" target=\"_blank\">Pixels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1ec36bd78e42cc3a9cc817",
+    "_layout": "right",
+    "_parentId": "5a1ec356d78e42cc3a9cc815",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg",
+      "small": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/bottom-view-of-clear-glass-building-under-blue-cloudy-sky-during-day-time-164444/\" target=\"_blank\">Transparency</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a1ec376d78e42cc3a9cc81b",
+    "_layout": "left",
+    "_parentId": "5a1ec376d78e42cc3a9cc819",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3cef960e63dfcbe73f0b479f55812e2021b650e.jpeg",
+      "small": "course/en/assets/c3cef960e63dfcbe73f0b479f55812e2021b650e.jpeg",
+      "attribution": "<a href=\"https://static.pexels.com/photos/314829/pexels-photo-314829.jpeg\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a213e7ed78e42cc3a9cc8f9",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/956e0f81d3edec5408a0956d0262c7fdf44c5264.jpeg",
+      "small": "course/en/assets/956e0f81d3edec5408a0956d0262c7fdf44c5264.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a0da241d78e42cc3a9cb20f",
+    "_layout": "right",
+    "_parentId": "5a0da1a2d78e42cc3a9cb20d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a1e8786d78e42cc3a9cc5b6",
+    "_layout": "right",
+    "_parentId": "5a1e876ad78e42cc3a9cc5b4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "small": "course/en/assets/fe415bc825dd02ff2ba027e9620bbd46a06c14d4.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/stock-share-prices-data-analyzing-forex-224184241\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a1d7285d78e42cc3a9cc559",
+    "_layout": "right",
+    "_parentId": "5a1d7266d78e42cc3a9cc556",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic"
+  },
+  {
+    "_id": "5a1ff656d78e42cc3a9cc8b2",
+    "_layout": "left",
+    "_parentId": "5a1ff656d78e42cc3a9cc8b1",
+    "_type": "component",
+    "body": "<p>While transparency is a key pillar in an open government it is not the only one where open data can play a key role.</p><p>Current practices take a &#39;closed by default&#39; approach where an &#39;open by default&#39; approach would not only benefit transparency but also benefit the other pillars of an open government.&nbsp;</p><p>The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government and helping lead the way.&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  },
+  {
+    "_id": "5a01bb0ad78e42cc3a9cb13a",
+    "_layout": "right",
+    "_parentId": "5a01b930d78e42cc3a9cb134",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a1d7adbd78e42cc3a9cc562",
+    "_layout": "right",
+    "_parentId": "5a1d7ac9d78e42cc3a9cc55b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic"
+  },
+  {
+    "_id": "5a1d70bdd78e42cc3a9cc550",
+    "_layout": "full",
+    "_parentId": "5a1d7098d78e42cc3a9cc54d",
+    "_type": "component",
+    "body": "<p>At the heart of open government is open data.&nbsp;Open data is data that&nbsp;<strong>anyone can access, use and share</strong>. It must be free from restrictions and openly licensed.</p><p>Open data complements the work of the Freedom of Information (FOI) legislation&nbsp;through the proactive release of raw data.</p><p>Open data has multiple benefits:</p><ul><li>Transparency and accountability</li><li>Improving services</li><li>Improving efficiency</li><li>Empowering citizen<p>&nbsp;</p></li></ul>",
+    "displayTitle": "Open data",
+    "title": "Open data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Citizen participation",
+        "body": "<p dir=\"ltr\">Open data allows citizens to see inside the workings of government, to monitor service delivery, hold government agencies to account over their commitments, and participate in decision-making. When citizens are empowered with information, they can also co-create solutions to improve their daily lives.</p><p dir=\"ltr\">The&nbsp;<a href=\"https://www.opengovpartnership.org/stories/linida-story-when-villagers-open-local-government\" target=\"_blank\">Linida initiative, Indonesia</a>, provides a platform to gather information on village assets and opportunities to improve socio-economic lives of villagers. Villagers use public information and produce their own data to engage with decision makers so that the local development policy and public service provision fulfil their priorities</p><p dir=\"ltr\">The&nbsp;<a href=\"http://www.makingallvoicescount.org/project/mopa-using-data-improve-waste-management-mozambique/\" target=\"_blank\">Participatory Monitoring Maputo platform, Mozambique</a>- informs citizens about the need for proper waste removal and progress on waste removal, and aims to empower them to request services from the government through the use of a mobile app.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Citizen participation"
+      },
+      {
+        "title": "Anti-corruption and fraud",
+        "body": "<p dir=\"ltr\">The UK is committed to fighting corruption at home and abroad. &nbsp;In 2016 the&nbsp;<a href=\"https://blog.opencorporates.com/2016/07/06/uk-beneficial-ownership-information-now-in-opencorporates/\" target=\"_blank\">UK became the first country in the world</a>&nbsp;to collect and publish who controls and benefits from companies in a structured format. Making data available on the beneficial owners of companies is important in the fight against corporate accountability.</p><p dir=\"ltr\">Another way the UK government is tackling the perception of fraud is by publishing open data on government grant spending. In October 2017, the government introduced a platform allowing departments to share information on &pound;100 billion worth of grants data from across government departments using a standard format developed by the&nbsp;<a href=\"http://www.threesixtygiving.org/support/standard/\" target=\"_blank\">360Giving initiative</a>.</p><p>Making contracting and procurement more transparent eg Paraguay is u<a href=\"https://medium.com/@opencontracting/paraguays-transparency-alchemists-623c8e3c538f\" target=\"_blank\">sing open contracting to improve spending on education</a>. Information about education contracts unearthed a wider spending scandal that triggered a formal investigation and citizen pressure and reform of school spending.</p><p dir=\"ltr\">changing the behaviour of public officials to be less wasteful eg the&nbsp;<a href=\"https://www.transparency.org/whatwedo/publication/open_data_and_the_fight_against_corruption_in_south_africa\" target=\"_blank\">Municipal Money open data portal</a>was launched in South Africa to inform citizens on their local authority&rsquo;s financial performance and counter abuse of resources.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f476f3f4c685b49d3767079ce18a539ee8bbb892.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/abundance-achievement-bank-banknotes-534229/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Anti-corruption and fraud"
+      },
+      {
+        "title": "Economic growth and trade",
+        "body": "<p dir=\"ltr\">There is growing evidence that open data contributes to economic growth and trade by providing access to information on the business environment, and opening reducing information asymmetries so more small and medium businesses and compete for opportunities or enter new markets.</p><p>Publishing government grant opportunities can enable a more diverse group of SMEs and businesses to compete in the market eg&nbsp;<a href=\"https://www.spendnetwork.com/about/\" target=\"_blank\">Spend Network</a>&nbsp;provides insight and analysis on public procurement and finance data to help suppliers identify opportunities to bid for government grants</p><p dir=\"ltr\">Improving trade connections between countries eg&nbsp;<a href=\"http://www.labora.io/\" target=\"_blank\">Labora</a>&nbsp;is open data accelerator in Mexico- linking entrepreneurs working with open data to mentors, investors, data providers/regulators, and capacity building. With support of the UK Embassy and the ODI, the project has also facilitated exchanges between start-ups in UK and Mexico.</p><p dir=\"ltr\">Helping businesses to comply with local and international regulations eg&nbsp;<a href=\"http://en.brdo.com.ua/\" target=\"_blank\">Better Regulation Delivery Office</a>, Ukraine- uses open data to create tools that give users access to information about regulations in just a few clicks, such as requirements to start a business</p>",
+        "_graphic": {
+          "src": "course/en/assets/ce0bd3bebcb78c3e7d0a750bf77ccb8f482f18a7.png",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/en/arrow-business-financial-graph-1295953/\" target=\"_blank\">OpenClipart-Vectors</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Economic growth and trade"
+      },
+      {
+        "title": "Crisis management",
+        "body": "<p dir=\"ltr\">Open data is a critical resource when responding to natural or manmade crises. In emergency situations or in resource-constrained environments, open data may be combined and enriched with other sources of data. In scenarios where government open data is not available, volunteers may fill the gap in data collection. In particular, the&nbsp;<a href=\"http://www.openstreetmap.org/#map=5/54.910/-3.432\" target=\"_blank\">OpenStreetMap community</a>contribute and maintain data about roads, trails, caf&eacute;s, railway stations, and much more, all over the world.</p><p><strong>Case studies</strong></p><p dir=\"ltr\">Open data can help in crisis management through:</p><p dir=\"ltr\"><strong>facilitating information flows:&nbsp;</strong>Humanitarian actors, service providers and government agencies sharing data during&nbsp;<a href=\"http://odimpact.org/case-battling-ebola-in-sierra-leone.html\" target=\"_blank\">Ebola outbreak</a>&nbsp;to strengthen service delivery</p><p dir=\"ltr\"><strong>monitoring risk and assessing needs:</strong>&nbsp;Use of OSM and combining sources of data during&nbsp;<a href=\"https://www.ict.govt.nz/assets/Uploads/Case-Study-Nepal-Earthquake.pdf\" target=\"_blank\">Nepal earthquake</a></p><p><strong>Coordinating responses</strong>&nbsp;to disasters for greater efficiency of resources.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3b332706e7b0a02ff4b967347347a3436f52cab0.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-vector/eps-beautiful-structure-dna-molecule-119824141?src=id\" target=\"_blank\">Palau</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Crisis management"
+      }
+    ]
+  },
+  {
+    "_id": "5a1eb7e7d78e42cc3a9cc70c",
+    "_layout": "right",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6db",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a1ed7e0d78e42cc3a9cc896",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e2",
+    "_type": "component",
+    "body": "<p>Data is different from information because...</p>",
+    "displayTitle": "Data as a raw material",
+    "title": "Data as a raw material",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select your answer and then click submit",
+    "_items": [
+      {
+        "text": "data is raw and can be turned into lots of different types of information.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "data is static and only relevant at one point in time",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "information is shared publicly while data should remain closed",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data is a raw material&nbsp;that has not been processed for use.&nbsp;A distinction is sometimes made between&nbsp;data&nbsp;and information to the effect that information is the end product of&nbsp;data&nbsp;processing. Unprocessed data can be turned into lots of different types of information, but the reverse is not possible.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data is a raw material&nbsp;that has not been processed for use.&nbsp;A distinction is sometimes made between&nbsp;data&nbsp;and information to the effect that information is the end product of&nbsp;data&nbsp;processing. Unprocessed data can be turned into lots of different types of information, but the reverse is not possible.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc7d1",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">How can an up to date inventory of data help the FCO?</p>",
+    "displayTitle": "Supporting the FCO open data strategy",
+    "title": "Supporting the FCO open data strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "instruction": "Select 'three' answers and click submit",
+    "_items": [
+      {
+        "text": "Inform people about what types of data they can access from the FCO",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Manage and organise your data assets",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Assist in compliance with the new General Data Protection Regulation (GDPR) requirements",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Lowers the responsibility of data owners",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Decreases the number of FOI requests",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Open data can help boost trade and diplomacy by opening up procurement data to help&nbsp;more small &nbsp;businesses compete for opportunities, improving trade connections between countries and help&nbsp;businesses to comply with local and international regulations.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Open data can help boost trade and diplomacy by opening up procurement data to help&nbsp;more small &nbsp;businesses compete for opportunities, improving trade connections between countries and help&nbsp;businesses to comply with local and international regulations.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a1eb7e8d78e42cc3a9cc763",
+    "_layout": "left",
+    "_parentId": "5a1eb7e7d78e42cc3a9cc6e0",
+    "_type": "component",
+    "body": "<p>The FCO also makes use of a large amount of data and&nbsp;open data within internal activities, however challenges still exist in realising the benefits of a strong data strategy within the FCO.</p><p>Knowing what your commitments are as well as how to deal with sensitive data will &nbsp;help maximise the benefit of all types of data both internally and externally.</p><p>In the next module we look more at the practical steps to get started with publishing sustainable open data.</p><p>&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "instruction": ""
+  }
+]

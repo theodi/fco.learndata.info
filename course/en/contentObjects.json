@@ -1,0 +1,148 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg"
+    },
+    "_id": "5a1eb7cdd78e42cc3a9cc673",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government.&nbsp;</p><p>The UK was a founding member in&nbsp;establishing of the open government partnership, an agenda now signed up to&nbsp;by 70 countries around the world. However there is still much to do to realise the vision set out by the pillars of the partnership.</p><p>This module explores the pillars of the OGP, the critical role of open data in each pillar and how the UK is pushing the &#39;open by default&#39; agenda.</p>",
+    "displayTitle": "1. Openness and transparency in the FCO",
+    "title": "1. Openness and transparency in the FCO",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "List the pillars of an open government"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the importance of open data in an open government"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the 'open by default' principal"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the role of the FCO in supporting open governments both in the UK and overseas"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg"
+    },
+    "_id": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its&nbsp;<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\">list of commitments to publishing open data</a>, and an <a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">open data strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO also makes use of a large amount of data and&nbsp;open data within internal activities, however challenges still exist in realising the benefits of a strong data strategy within the FCO.</p><p>This module looks at why data should be treated as a valuable raw resource and how a strong data strategy&nbsp;can help maximise benefits both internally and externally.</p>",
+    "displayTitle": "2. The role of data in the FCO",
+    "title": "2. The role of data in the FCO",
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the difference between data and information"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Explain the benefits of publishing open data to the FCO"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Identify current examples of open data publication at the FCO"
+        },
+        {
+          "level": "explorer",
+          "credits": 5,
+          "outcome": "Analyse the opportunities and challenges of publishing open data"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg"
+    },
+    "_id": "5a01b930d78e42cc3a9cb132",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p dir=\"ltr\">Transparency of information is a foundation of open government. But&nbsp;transparency alone&nbsp;is not enough to for the UK&nbsp;to maximise the&nbsp;wider economic, environment and social benefits.</p>",
+    "displayTitle": "1. Transparency and open data",
+    "title": "1. Transparency and open data",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg"
+    },
+    "_id": "5a0da1a2d78e42cc3a9cb20b",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "hidden",
+    "body": "<p>Open data sits at the heart of the open government movement. Open data presents significant economic, environment and social benefits, and is an integral part of delivering a first class foreign policy for the UK.</p>",
+    "displayTitle": "The role of data in the FCO",
+    "title": "The role of data in the FCO",
+    "_skillsFramework": {
+      "_skills": []
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    }
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "5a01b930d78e42cc3a9cb133",
+    "_parentId": "5a01b930d78e42cc3a9cb132",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a0da1a2d78e42cc3a9cb20c",
+    "_parentId": "5a0da1a2d78e42cc3a9cb20b",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1eb7ced78e42cc3a9cc675",
+    "_parentId": "5a1eb7cdd78e42cc3a9cc673",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d5",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1d7266d78e42cc3a9cc555",
+    "_parentId": "5a01b930d78e42cc3a9cb132",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1e876ad78e42cc3a9cc5b3",
+    "_parentId": "5a0da1a2d78e42cc3a9cb20b",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d7",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1eb7ced78e42cc3a9cc676",
+    "_parentId": "5a1eb7cdd78e42cc3a9cc673",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1d933cd78e42cc3a9cc5a0",
+    "_parentId": "5a0da1a2d78e42cc3a9cb20b",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a1ff646d78e42cc3a9cc8ae",
+    "_parentId": "5a1eb7cdd78e42cc3a9cc673",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title"
+  },
+  {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d6",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  }
+]
