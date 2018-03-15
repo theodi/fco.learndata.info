@@ -1,10 +1,10 @@
 [
   {
+    "_id": "5a1eb7cdd78e42cc3a9cc673",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg"
+      "src": "course/en/assets/f8137f928817b1854a064a41e0c5b178e897dcbe.jpeg"
     },
-    "_id": "5a1eb7cdd78e42cc3a9cc673",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -13,30 +13,34 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government.&nbsp;</p><p>The UK was a founding member in&nbsp;establishing of the open government partnership, an agenda now signed up to&nbsp;by 70 countries around the world. However there is still much to do to realise the vision set out by the pillars of the partnership.</p><p>This module explores the pillars of the OGP, the critical role of open data in each pillar and how the UK is pushing the &#39;open by default&#39; agenda.</p>",
+    "body": "<p>The UK, and the Foreign and Commonwealth Office as a representative of the UK overseas,&nbsp;plays a critical role in demonstrating and promoting openness and transparency in government.&nbsp;</p><p>The UK is one of eight founding members of the Open Government Partnership (OGP), an initiative now signed by over 70 countries around the world. However there is still much to do to realise the vision set out by the pillars of the partnership.</p><p>This module explores the pillars of the OGP, the critical role of open data in each pillar and how the UK is pushing the &#39;open by default&#39; agenda.</p>",
     "displayTitle": "1. Openness and transparency in the FCO",
     "title": "1. Openness and transparency in the FCO",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "level": "explorer",
+          "outcome": "List the pillars of an open government",
           "credits": 5,
-          "outcome": "List the pillars of an open government"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Explain the importance of open data in an open government",
           "credits": 5,
-          "outcome": "Explain the importance of open data in an open government"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Explain the 'open by default' principal",
           "credits": 5,
-          "outcome": "Explain the 'open by default' principal"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Explain the role of the FCO in supporting open governments both in the UK and overseas",
           "credits": 5,
-          "outcome": "Explain the role of the FCO in supporting open governments both in the UK and overseas"
+          "level": "explorer"
         }
       ]
     },
@@ -44,14 +48,17 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
     }
   },
   {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d3",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg"
+      "src": "course/en/assets/b924ab7867088f4a1c85aef813c6933aa9ae3152.jpeg"
     },
-    "_id": "5a1eb7e6d78e42cc3a9cc6d3",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -60,30 +67,34 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its&nbsp;<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\">list of commitments to publishing open data</a>, and an <a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">open data strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO also makes use of a large amount of data and&nbsp;open data within internal activities, however challenges still exist in realising the benefits of a strong data strategy within the FCO.</p><p>This module looks at why data should be treated as a valuable raw resource and how a strong data strategy&nbsp;can help maximise benefits both internally and externally.</p>",
+    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its&nbsp;<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\">list of commitments to publishing open data</a>, and its&nbsp;<a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">Open Data Strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO currently makes use of both open and shared datasets for its internal activities, however&nbsp;challenges still exist in realising the benefits of a strong data strategy within the department.</p><p>This module looks at why data should be treated as a valuable raw resource and how a strong data strategy&nbsp;can help maximise benefits both internally and externally.</p>",
     "displayTitle": "2. The role of data in the FCO",
     "title": "2. The role of data in the FCO",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
       "_skills": [
         {
-          "level": "explorer",
+          "outcome": "Explain the difference between data and information",
           "credits": 5,
-          "outcome": "Explain the difference between data and information"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Explain the benefits of publishing open data to the FCO",
           "credits": 5,
-          "outcome": "Explain the benefits of publishing open data to the FCO"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Identify current examples of open data publication at the FCO",
           "credits": 5,
-          "outcome": "Identify current examples of open data publication at the FCO"
+          "level": "explorer"
         },
         {
-          "level": "explorer",
+          "outcome": "Analyse the opportunities and challenges of publishing open data",
           "credits": 5,
-          "outcome": "Analyse the opportunities and challenges of publishing open data"
+          "level": "explorer"
         }
       ]
     },
@@ -91,40 +102,17 @@
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
-    }
-  },
-  {
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9c4f3a82e3323df939f21a93ec747c2e0af370ec.jpeg"
     },
-    "_id": "5a01b930d78e42cc3a9cb132",
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "hidden",
-    "body": "<p dir=\"ltr\">Transparency of information is a foundation of open government. But&nbsp;transparency alone&nbsp;is not enough to for the UK&nbsp;to maximise the&nbsp;wider economic, environment and social benefits.</p>",
-    "displayTitle": "1. Transparency and open data",
-    "title": "1. Transparency and open data",
-    "_skillsFramework": {
-      "_skills": []
-    },
-    "_aboutPage": {
-      "aboutCredit": "",
-      "SL_text": "",
+    "_ODILicence": {
       "_items": []
     }
   },
   {
+    "_id": "5a81955036537b100508f02b",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/421471b86ee61cdb5f592d2ce09fd4d79d4529a6.jpeg"
+      "src": "course/en/assets/6390ca99e74ee881fc1042c7a43913d91caed010.jpg"
     },
-    "_id": "5a0da1a2d78e42cc3a9cb20b",
     "_parentId": "course",
     "_type": "page",
     "_isAvailable": true,
@@ -132,16 +120,166 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "hidden",
-    "body": "<p>Open data sits at the heart of the open government movement. Open data presents significant economic, environment and social benefits, and is an integral part of delivering a first class foreign policy for the UK.</p>",
-    "displayTitle": "The role of data in the FCO",
-    "title": "The role of data in the FCO",
+    "_classes": "",
+    "body": "<p>Publishing sustainable open data helps to improve the reputation of the publisher as a reliable provider of timely, usable&nbsp;and interoperable open data.</p><p>This module explores the steps to publishing open data, the importance of licensing data and how to make open data publications more sustainable.</p>",
+    "displayTitle": "3.  Getting started with publishing sustainable open data",
+    "title": "3.  Getting started with publishing sustainable open data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
     "_skillsFramework": {
-      "_skills": []
+      "_skills": [
+        {
+          "outcome": "List the steps to publishing open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the importance of licensing open data",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the importance of sustainability for open data",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe how to make your data more sustainable",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe how to embed sustainability in your organisation",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
     },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
+      "_items": [
+        {
+          "title": "ODI Training Team",
+          "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;training team.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/logo-small.png"
+          }
+        },
+        {
+          "title": "Adapt learning",
+          "description": "<p>Open source learning platform developed by&nbsp;<a href=\"https://www.adaptlearning.org/\" tabindex=\"0\" target=\"_blank\">Adapt learning</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/adapt.png"
+          }
+        },
+        {
+          "title": "European Data Portal",
+          "description": "<p>This work is a derivative of <a href=\"https://www.europeandataportal.eu/elearning/en/module3/#/id/co-01\" target=\"_blank\">Open data. Agent of change</a> and <a href=\"https://www.europeandataportal.eu/elearning/en/module7/#/id/co-01\" target=\"_blank\">Why should we worry about sustainability?</a>&nbsp;by the European Commission. Funding for original content provided by the&nbsp;<a href=\"https://www.europeandataportal.eu/\">European Data Portal</a>. Original content used under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/edp.png"
+          }
+        }
+      ]
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5a85563417d7081505bc473d",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/33486d36922cc44d7b5832d0c3a21bc1722f88af.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p>Without timely, reliable and quality data, we can&#39;t inform decisions, provide evidence for statements or build new products and services.</p><p>In this module we explore how to improve data quality,&nbsp;from cleaning data to reduce errors, to using a standard to make&nbsp;data more interoperable.</p>",
+    "displayTitle": "4. Improving the quality of data",
+    "title": "4. Improving the quality of data",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "List common data quality issues",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "List tools to help clean a dataset",
+          "credits": 5,
+          "level": "explorer"
+        },
+        {
+          "outcome": "Explain the role of standards in improving quality",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Describe the IATI standard",
+          "credits": 5,
+          "level": "practitioner"
+        },
+        {
+          "outcome": "Describe two quality marques for open data",
+          "credits": 5,
+          "level": "explorer"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": [
+        {
+          "title": "ODI Training Team",
+          "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;training team.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/logo-small.png"
+          }
+        },
+        {
+          "title": "Adapt learning",
+          "description": "<p>Open source learning platform developed by&nbsp;<a href=\"https://www.adaptlearning.org/\" tabindex=\"0\" target=\"_blank\">Adapt learning</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/adapt.png"
+          }
+        },
+        {
+          "title": "European Data Portal",
+          "description": "<p>This work is a derivative of <a href=\"https://www.europeandataportal.eu/elearning/en/module11/#/id/co-01\" target=\"_blank\">How to clean your data</a>&nbsp;and <a href=\"https://www.europeandataportal.eu/elearning/en/module10/#/id/co-01\">How useful is my data</a>&nbsp;by the European Commission. Funding for original content provided by the&nbsp;<a href=\"https://www.europeandataportal.eu/\">European Data Portal</a>. Original content used under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "adapt/css/assets/edp.png"
+          }
+        },
+        {
+          "title": "IATI",
+          "description": "<p><a href=\"https://www.aidtransparency.net\" target=\"_blank\">International Aid Transparency Initiative </a>&nbsp;developed the IATI standard,&nbsp;a technical publishing framework allowing data to be compared.</p><p>Some text reused from IATI under CC-BY.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "course/assets/0786d87c3e69975dc80bc62b21b60aa83911da6a.png"
+          }
+        }
+      ]
+    },
+    "_ODILicence": {
       "_items": []
     }
   }
