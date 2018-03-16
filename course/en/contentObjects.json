@@ -67,7 +67,7 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its&nbsp;<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\">list of commitments to publishing open data</a>, and its&nbsp;<a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">Open Data Strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO currently makes use of both open and shared datasets for its internal activities, however&nbsp;challenges still exist in realising the benefits of a strong data strategy within the department.</p><p>This module looks at why data should be treated as a valuable raw resource and how a strong data strategy&nbsp;can help maximise benefits both internally and externally.</p>",
+    "body": "<p>The FCO is committed to open data. The department&nbsp;has published its&nbsp;<a href=\"https://data.gov.uk/data/reports/commitments/foreign-and-commonwealth-office\">commitments to publishing open data</a>, and its&nbsp;<a href=\"https://www.gov.uk/government/publications/open-data-strategy-refresh\">Open Data Strategy</a> which outlines some of the high priority datasets including those related to aid, consular services and spending.</p><p>The FCO currently makes use of both open and shared datasets for its internal activities, however&nbsp;challenges still exist in realising the benefits of a strong data strategy within the department.</p><p>This module looks at why data should be treated as a valuable raw resource and how a strong data strategy&nbsp;can help maximise benefits both internally and externally.</p>",
     "displayTitle": "2. The role of data in the FCO",
     "title": "2. The role of data in the FCO",
     "_pageLevelProgress": {
@@ -274,7 +274,7 @@
           "description": "<p><a href=\"https://www.aidtransparency.net\" target=\"_blank\">International Aid Transparency Initiative </a>&nbsp;developed the IATI standard,&nbsp;a technical publishing framework allowing data to be compared.</p><p>Some text reused from IATI under CC-BY.</p>",
           "_graphic": {
             "alt": "",
-            "src": "course/assets/0786d87c3e69975dc80bc62b21b60aa83911da6a.png"
+            "src": "course/en/assets/0786d87c3e69975dc80bc62b21b60aa83911da6a.png"
           }
         }
       ]

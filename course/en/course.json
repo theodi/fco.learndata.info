@@ -44,9 +44,6 @@
       "_text": {
         "ariaRegion": ""
       },
-      "_matching": {
-        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
-      },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
       },
@@ -75,7 +72,7 @@
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "",
+        "SL_text": "<p>Developed for Tanzania Data Lab by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
