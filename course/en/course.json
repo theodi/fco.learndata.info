@@ -72,7 +72,7 @@
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "<p>Developed for Tanzania Data Lab by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_text": "<p>Developed for FCO&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -126,6 +126,12 @@
   "body": "",
   "displayTitle": "FCO Data Skills",
   "title": "FCO Data Skills",
+  "_assessment": {
+    "_postTotalScoreToLms": true,
+    "_isPercentageBased": true,
+    "_scoreToPass": 60,
+    "_requireAssessmentPassed": true
+  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true

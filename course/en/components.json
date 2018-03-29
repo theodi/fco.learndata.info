@@ -61,7 +61,7 @@
     "_items": [
       {
         "title": "Transparency",
-        "body": "<p dir=\"ltr\">Transparency of information is the foundation of accountability in public services and open government.</p><p dir=\"ltr\"><a href=\"https://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">Francis Maude, minister for the Cabinet Office with responsibility for public transparency and open data said</a>: &quot;Transparency&nbsp;shines a light on underperformance and inefficiencies in public services. It allows citizens and the media to hold governments to account, strengthening civil society and building more open societies.&quot;</p><p dir=\"ltr\">Freedom of Information (FOI) is central to transparency, however <a href=\"http://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">pro-active publication of open data has the potential to deliver much wider benefits</a>.</p>",
+        "body": "<p dir=\"ltr\">Transparency of information is the foundation of accountability in public services and open government.</p><p dir=\"ltr\"><a href=\"https://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">Francis Maude, former minister for the Cabinet Office with responsibility for public transparency and open data said</a>: &quot;Transparency&nbsp;shines a light on underperformance and inefficiencies in public services. It allows citizens and the media to hold governments to account, strengthening civil society and building more open societies.&quot;</p><p dir=\"ltr\">All government departments have&nbsp;committed to proactively publish a number of&nbsp;datasets openly, a commitment <a href=\"https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/667631/Cab_Gov_Transparency_PM_001.pdf\">ratified by a letter from the prime minister&nbsp;in December 2017</a>.&nbsp;</p><p dir=\"ltr\">&nbsp;</p>",
         "_graphic": {
           "src": "course/en/assets/f8137f928817b1854a064a41e0c5b178e897dcbe.jpeg",
           "alt": "",
@@ -71,7 +71,7 @@
       },
       {
         "title": "Participation",
-        "body": "<p>Participation is about&nbsp;creating and using channels to solicit public feedback;&nbsp;and deepening public participation in developing, monitoring and evaluating government activities.</p><p>While Freedom of Information (FOI) provides a channel for the public to request&nbsp;information from public authorities, more can be done to encourage better public engagement.</p><p>For example, in Mexico, <a href=\"http://factico.com.mx/\" target=\"_blank\">Factico</a> has developed mobile applications which enable&nbsp;citizens to report corruption, failures in public services and antisocial behaviour.</p>",
+        "body": "<p>Participation is about&nbsp;creating and using channels to solicit public feedback;&nbsp;and deepening public participation in developing, monitoring and evaluating government activities.</p><p>While Freedom of Information (FOI) provides a channel for the public to request&nbsp;information from public authorities, <a href=\"http://www.theguardian.com/public-leaders-network/2012/sep/26/francis-maude-open-government-partnership\" target=\"_blank\">pro-active publication of open data has the potential to deliver much wider benefits</a>&nbsp;and encourage better public engagement.</p><p>For example, in Mexico, <a href=\"http://factico.com.mx/\" target=\"_blank\">Factico</a> has developed mobile applications which enable&nbsp;citizens to report corruption, failures in public services and antisocial behaviour.</p>",
         "_graphic": {
           "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg",
           "alt": "",
@@ -906,7 +906,7 @@
         "_classes": ""
       },
       {
-        "title": "increase transparency in UK aid flows",
+        "title": "Increase transparency in UK aid flows",
         "body": "<p>This allows&nbsp;people in developing countries to hold their governments to account for spending the aid effectively, while those people who give generously in the UK can see the impact their money makes.</p><p>For example, <a href=\"http://followthemoneyng.org/about-us/\" target=\"_blank\">follow the money in Nigeria</a>&nbsp;visualises and tracks government spending and international aid, and communicates aid effectiveness back to rural communities.</p><p>The&nbsp;<a href=\"https://www.aidtransparency.net/\" target=\"_blank\">International Aid Transparency Initiative</a>&nbsp;(IATI) aims to improve&nbsp;the transparency of aid, development, and humanitarian resources and to increase the effectiveness of development cooperation activities.</p>",
         "_graphic": {
           "alt": "",
@@ -1278,7 +1278,7 @@
       },
       {
         "title": "Publishing to the IATI standard",
-        "body": "<p>IATI has <a href=\"https://iatiregistry.org/\" target=\"_blank\">a central registry</a> where you can access all data published to the IATI standard.</p><p>However you don&#39;t publish data directly on the IATI site. You publish data on your own site and then copy the publicly accessible URL. This means that the data is updated from your own site, and is available in both places. This gives you maximum control, whilst the data is more likely to be seen by more people.</p><p><a href=\"http://iatistandard.org/203/guidance/how-to-publish/\" target=\"_blank\">Find out more about publishing to the IATI standard.</a></p>",
+        "body": "<p>IATI has <a href=\"https://iatiregistry.org/\" target=\"_blank\">a central registry</a> where you can access all data published to the IATI standard.</p><p>Much like data.gov.uk, the IATI registry contains links to datasets published openly on the web that conform to the IATI standard.&nbsp;</p><p>Within the FCO the Transparency Unit manages this as part of the publication process.</p><p><a href=\"http://iatistandard.org/203/guidance/how-to-publish/\">Find out more about publishing to the IATI standard </a><a href=\"http://iatistandard.org/203/guidance/how-to-publish/\" target=\"_blank\">here</a>&nbsp;or contact the <a href=\"mailto:transparency.unit@fco.gov.uk?subject=Query%20about%20IATI%20data%20publication\">transparency unit</a> directly.</p>",
         "_graphic": {
           "src": "course/en/assets/3b4fa0db314bbac4e505ee34099d8fddf4d657ea.png",
           "alt": "",
@@ -2003,7 +2003,7 @@
       },
       {
         "title": "Redact the data",
-        "body": "<p>Once the data is prepared, you might&nbsp;need to redact any entries that are exempt from publication. This might be for reasons of national security, third party rights, privacy and confidentiality or commercial sensitivity.</p><p>Data should still be comprehensive.&nbsp;If you anonymise&nbsp;or aggregate data to remove personal or sensitive data, this should&nbsp;be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>The National Archives have prepared a <a href=\"http://www.nationalarchives.gov.uk/documents/information-management/redaction_toolkit.pdf\" target=\"_blank\">Redaction Toolkit</a>. Redaction should be applied in line guidance for redacting FOI requests.</p>",
+        "body": "<p>Once the data is prepared, you might&nbsp;need to redact any entries that are exempt from publication. This might be for reasons of national security, third party rights, privacy and confidentiality or commercial sensitivity.</p><p>Data should still be comprehensive.&nbsp;If you anonymise&nbsp;or aggregate data to remove personal or sensitive data, this should&nbsp;be done in such a way as to preserve as much value of releasing the dataset as possible.&nbsp;</p><p>The latest advice and guidance on redacting data at the FCO can be obtained by contacting the <a href=\"mailto:transparency.unit@fco.gov.uk?subject=Help%20on%20redacting%20data\">Transparency Unit</a>.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2033,7 +2033,7 @@
       },
       {
         "title": "Publish the data",
-        "body": "<p>Links to data should be provided on portals and relevant websites that give people confidence that they are accessing authoritative data.&nbsp;</p><p>UK government departments should publish or upload open data to their organisation&#39;s website. These should&nbsp;then be added to data.gov.uk. Data.gov.uk <a href=\"http://guidance.data.gov.uk/publishing_on_data_gov_uk_overview.html\" target=\"_blank\">provides guidance</a> on how to do this.</p><p>Once the dataset is published, check it is live, can be downloaded by anyone and displays correctly after download.</p>",
+        "body": "<p>Links to data should be provided on portals and relevant websites that give people confidence that they are accessing authoritative data.&nbsp;</p><p>UK government departments should publish or upload open data to their organisation&#39;s website.</p><p>The Transparency Unit manages the process of&nbsp;adding datasets to data.gov.uk following the&nbsp;Data.gov.uk <a href=\"http://guidance.data.gov.uk/publishing_on_data_gov_uk_overview.html\" target=\"_blank\">guidance</a>. Any publication queries should be directed to the <a href=\"mailto:transparency.unit@fco.gov.uk?subject=Open%20data%20publication%20enquiry%20\">Transparency Unit</a>.</p><p>Once the dataset is published, check it is live, can be downloaded by anyone and displays correctly after download.</p>",
         "_graphic": {
           "alt": "",
           "src": "",

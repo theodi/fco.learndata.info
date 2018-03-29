@@ -23,6 +23,29 @@
   },
   "__v": 0,
   "_id": "5a01b91dd78e42cc3a9cb12c",
+  "_spoor": {
+    "_advancedSettings": {
+      "_commitOnVisibilityChangeHidden": true,
+      "_suppressErrors": false,
+      "_commitRetryDelay": 2000,
+      "_maxCommitRetries": 5,
+      "_timedCommitFrequency": 10,
+      "_commitOnStatusChange": true,
+      "_showDebugWindow": false
+    },
+    "_reporting": {
+      "_resetStatusOnLanguageChange": false,
+      "_onAssessmentFailure": "completed",
+      "_onTrackingCriteriaMet": "completed"
+    },
+    "_tracking": {
+      "_shouldStoreResponses": true,
+      "_shouldSubmitScore": true,
+      "_requireAssessmentPassed": true,
+      "_requireCourseCompleted": false
+    },
+    "_isEnabled": true
+  },
   "_tutor": {
     "_isEnabled": false
   },
@@ -30,11 +53,13 @@
     "includes": [
       "adapt-theme-fco",
       "adapt-contrib-boxMenu",
+      "adapt-contrib-spoor",
       "adapt-odi-licence",
       "adapt-contrib-aboutPage",
       "adapt-contrib-tutor",
       "adapt-skillsFramework",
       "adapt-contrib-pageLevelProgress",
+      "adapt-contrib-assessment",
       "adapt-contrib-graphic",
       "adapt-contrib-text",
       "adapt-contrib-narrative",

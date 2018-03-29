@@ -8,29 +8,32 @@
     "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "5a1eb7e6d78e42cc3a9cc6d5",
-    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "5a81955036537b100508f02d",
-    "_parentId": "5a81955036537b100508f02b",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
   },
   {
     "_id": "5a85563417d7081505bc473f",
@@ -41,18 +44,104 @@
     "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
   },
   {
-    "_id": "5a1eb7ced78e42cc3a9cc676",
-    "_parentId": "5a1eb7cdd78e42cc3a9cc673",
+    "_id": "5a81955036537b100508f02d",
+    "_parentId": "5a81955036537b100508f02b",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d5",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
   },
   {
     "_id": "5a1eb7e6d78e42cc3a9cc6d7",
@@ -63,18 +152,32 @@
     "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
-  },
-  {
-    "_id": "5a81955036537b100508f02e",
-    "_parentId": "5a81955036537b100508f02b",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "assessment2",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 0.25,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
   },
   {
     "_id": "5a85563417d7081505bc4740",
@@ -85,18 +188,104 @@
     "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "assessment4",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 0.25,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
   },
   {
-    "_id": "5a1eb7e6d78e42cc3a9cc6d6",
-    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_id": "5a1eb7ced78e42cc3a9cc676",
+    "_parentId": "5a1eb7cdd78e42cc3a9cc673",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
-    "_classes": "inverted footer",
+    "_classes": "",
     "body": "",
     "displayTitle": " ",
-    "title": " "
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "assessment1",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 0.25,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5a81955036537b100508f02e",
+    "_parentId": "5a81955036537b100508f02b",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "assessment3",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      },
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 0.25,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
   },
   {
     "_id": "5a1ff646d78e42cc3a9cc8ae",
@@ -107,18 +296,32 @@
     "_classes": "inverted footer",
     "body": "",
     "displayTitle": "",
-    "title": "Article title"
-  },
-  {
-    "_id": "5a81955036537b100508f02f",
-    "_parentId": "5a81955036537b100508f02b",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "inverted footer",
-    "body": "",
-    "displayTitle": "",
-    "title": " "
+    "title": "Article title",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
   },
   {
     "_id": "5a85563417d7081505bc4741",
@@ -129,6 +332,103 @@
     "_classes": "inverted footer",
     "body": "",
     "displayTitle": "",
-    "title": "Article title"
+    "title": "Article title",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "5a1eb7e6d78e42cc3a9cc6d6",
+    "_parentId": "5a1eb7e6d78e42cc3a9cc6d3",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted footer",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "5a81955036537b100508f02f",
+    "_parentId": "5a81955036537b100508f02b",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted footer",
+    "body": "",
+    "displayTitle": "",
+    "title": " ",
+    "_assessment": {
+      "_attempts": -1,
+      "_isResetOnRevisit": false,
+      "_assessmentWeight": 1,
+      "_includeInTotalScore": false,
+      "_scoreToPass": 60,
+      "_isPercentageBased": false,
+      "_questions": {
+        "_canShowModelAnswer": false,
+        "_canShowMarking": false,
+        "_canShowFeedback": false,
+        "_resetType": "soft"
+      },
+      "_randomisation": {
+        "_blockCount": 1,
+        "_isEnabled": false
+      },
+      "_banks": {
+        "_randomisation": false,
+        "_split": "",
+        "_isEnabled": false
+      },
+      "_id": "",
+      "_isEnabled": false
+    }
   }
 ]
