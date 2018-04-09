@@ -28,8 +28,8 @@
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec7e3",
     "body": "",
-    "displayTitle": "Individuals rights",
-    "title": "Individuals rights",
+    "displayTitle": "Individual rights",
+    "title": "Individual rights",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -44,9 +44,9 @@
     "_layout": "right",
     "_parentId": "5abbbd81dceff123054ec7e6",
     "_type": "component",
-    "body": "<p dir=\"ltr\">Significant penalties can be imposed on employers who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger). This is a huge increase from the previous &pound;500,000 fines imposed by the Data Protection Act in the UK.</p><p dir=\"ltr\">A financial penalty is seen as a last resort,&nbsp;so other penalties such as corrective orders can be issued.</p><p dir=\"ltr\">In other cases businesses in breach of GDPR can be ordered to suspend data processing and/or erase the personal data altogether.&nbsp;</p><p dir=\"ltr\">In the UK the ICO <a href=\"https://ico.org.uk/action-weve-taken/enforcement/?facet_type=&amp;facet_sector=&amp;facet_date=last_year&amp;date_from=&amp;date_to=\" target=\"_blank\">publishes information</a> about actions they have taken with organisations that have not complied with the act. There have been&nbsp;110 actions in the last year alone, with 58 of these being monetary fines totalling over &pound;5.5m.</p>",
-    "displayTitle": "Consequences of not adopting GDPR",
-    "title": "Consequences of not adopting GDPR",
+    "body": "<p dir=\"ltr\">Significant penalties can be imposed on employers who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger). This is a huge increase from the previous &pound;500,000 fines imposed by the Data Protection Act in the UK.</p><p dir=\"ltr\">Businesses in breach of GDPR can be ordered to suspend data processing and/or erase the personal data they hold&nbsp;altogether.&nbsp;</p><p dir=\"ltr\">In the UK, the ICO <a href=\"https://ico.org.uk/action-weve-taken/enforcement/?facet_type=&amp;facet_sector=&amp;facet_date=last_year&amp;date_from=&amp;date_to=\" target=\"_blank\">publishes information</a> about actions they have taken with organisations that have not complied with the act. There have been&nbsp;110 actions in the last year alone, with 58 of these being monetary fines totalling over &pound;5.5m.</p>",
+    "displayTitle": "Consequences of breaching GDPR",
+    "title": "Consequences of breaching GDPR",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -170,7 +170,7 @@
     "_layout": "left",
     "_parentId": "5abbbd81dceff123054ec7e2",
     "_type": "component",
-    "body": "<p>The world we live in today is vastly different from that of 1995 when data protection laws in the European Union were last updated (1998 in the case of the Data Protection Act in the&nbsp;UK). The GDPR is a new regulation that is designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.&nbsp;</p><p>On the 25th May 2018, existing data protection regulations in the European Union will be replaced by the General Data Protection Regulation (GDPR).</p><p>The GDPR provides&nbsp;standardisation of&nbsp;data protection laws across all European member countries allowing a greater freedom of movement of individual&#39;s personal data.</p><ol dir=\"ltr\"></ol>",
+    "body": "<p>The world we live in today is vastly different from that of 1995 when data protection laws in the European Union were last updated (1998 in the case of the Data Protection Act in the&nbsp;UK). The GDPR is a new regulation that is designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.&nbsp;</p><p>On the 25th May 2018, existing data protection regulations in the European Union will be replaced by the General Data Protection Regulation (GDPR).</p><p>The GDPR provides&nbsp;standardisation of&nbsp;data protection laws across all European member countries, making it easier for organisations to provide services to people across the EU.</p><ol dir=\"ltr\"></ol>",
     "displayTitle": "What is GDPR and why is it needed?",
     "title": "What is GDPR and why is it needed?",
     "_isAvailable": true,
@@ -188,8 +188,8 @@
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec7fb",
     "body": "",
-    "displayTitle": "Obligations for data controllers",
-    "title": "Obligations for data controllers",
+    "displayTitle": "Obligations for controllers",
+    "title": "Obligations for controllers",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -204,7 +204,7 @@
     "_layout": "left",
     "_parentId": "5abbbd82dceff123054ec819",
     "_type": "component",
-    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing Data Protection regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p><p>The lesson explores:</p><ul><li>What is GDPR and why is it needed?</li><li>What is the scope of GDPR?</li><li>Organisation obligations</li><li>Individuals rights</li><li>GDPR and privacy notices</li><li>Practical steps</li></ul>",
+    "body": "<p>This lesson provides an overview of the General Data Project Regulation (GDPR) and the key differences from the existing Data Protection regulations. By the end of the lesson you should&nbsp;able to work more confidently with the requirements of GDPR and take a number of next steps.</p><p>The lesson explores:</p><ul><li>What is GDPR and why is it needed?</li><li>What is the scope of GDPR?</li><li>Organisation obligations</li><li>Individual&nbsp;rights</li><li>GDPR and privacy notices</li><li>Practical steps</li></ul>",
     "displayTitle": "Introduction to the General Data Protection Regulation",
     "title": "Introduction to the General Data Protection Regulation",
     "_isAvailable": true,
@@ -221,7 +221,7 @@
     "_layout": "right",
     "_parentId": "5abbbd81dceff123054ec7e8",
     "_type": "component",
-    "body": "<p>Privacy notices are one of the most visible aspects of GDPR adoption.&nbsp;</p><p>Individuals&nbsp;must be informed <strong>clearly</strong> about what data is collected, exactly what it is used for and how they can exercise their rights over the data. This information must be presented to the individual as near to the point of data collection as possible.&nbsp;</p><p>The privacy notice should clearly outline:</p><ol><li>Purpose of the processing and the legal basis for the processing</li><li>The contact details of the controller and where applicable, the controller&rsquo;s representative) and the data protection officer</li><li>Details of transfers to third country and safeguards</li><li>Retention period or criteria used to determine the retention period</li><li>The&nbsp;data subject&rsquo;s rights</li><li>The existence of automated decision making, including profiling and information about how decisions are made, the significance and the consequences.</li></ol><p>In addition to fines being imposed for non-compliance, they can also be imposed where a privacy notice is deemed unclear or misleading.</p>",
+    "body": "<p>Privacy notices are one of the most visible aspects of GDPR adoption.&nbsp;</p><p>Individuals must be informed <strong>clearly</strong> about what data is collected, exactly what it is used for and how they can exercise their rights over the data. This information must be presented to the individual as near to the point of data collection as possible.&nbsp;</p><p>The privacy notice should clearly outline:</p><ol><li>The purpose and lawful basis of the processing</li><li>The contact details of the controller and the data protection officer</li><li>Details of data transfers to third countries and safeguards</li><li>The retention period or criteria used to determine the retention period</li><li>The individual&rsquo;s rights</li><li>The existence of automated decision making, including profiling and information about how decisions are made, their significance and their consequences.</li></ol><p>In addition to fines being imposed for non-compliance, they can also be imposed where a privacy notice is deemed unclear or misleading.</p>",
     "displayTitle": "Privacy notices",
     "title": "Privacy notices",
     "_isAvailable": true,
@@ -1104,7 +1104,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec7e4",
-    "body": "<p>GDPR requires everyone to&nbsp;process personal data lawfully, fairly and in a transparent manner.</p><p>There are 6 lawful basis outlined in GDPR at at least one must apply; without a lawful basis, it is illegal to collect and process the personal data.&nbsp;</p><p>Additionally, with the exception of consent, if&nbsp;you could reasonably perform your tasks without collecting the personal data then the lawful basis does not apply.</p>",
+    "body": "<p>GDPR requires everyone to&nbsp;process personal data lawfully, fairly and in a transparent manner.</p><p>There are 6 lawful bases outlined in GDPR. At least one must apply. Without a lawful basis, it is illegal to collect and process&nbsp;personal data.&nbsp;</p><p>Additionally, with the exception of consent, if&nbsp;you could reasonably perform your tasks without collecting&nbsp;personal data then the lawful basis does not apply. If you could provide the same service without collecting personal data, but still want to collect that data, you have to get consent.</p>",
     "displayTitle": "",
     "title": "Establishing the lawful basis for processing personal data",
     "_isAvailable": true,
@@ -1117,18 +1117,8 @@
     "instruction": "",
     "_items": [
       {
-        "title": "Consent",
-        "body": "<p>Under GDPR the consent can only be gained in order to use data for a specific purpose.</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not&nbsp;constitute&nbsp;clearly obtained consent under GDPR.</p><p>Additionally the individual must&nbsp;be able to withdraw his or her consent at any time and the process for withdrawing consent must be as easy as that for giving consent.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
         "title": "Performance of contract",
-        "body": "<p>The processing is necessary for a contract you have with the individual, or because they have asked you to take specific steps before entering into a contract.</p><p>For example in the obtaining of a quote for fitting double glazing on a house and the subsequent fitting.</p>",
+        "body": "<p>You can process personal data if you need to to fulfil a contract you have with the individual, or if they have asked you to take specific steps before entering into a contract.</p><p>For example, you can process personal data to provide a quote for fitting double glazing on a house and the subsequent fitting.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1138,7 +1128,7 @@
       },
       {
         "title": "Legal obligation",
-        "body": "<p>The processing is necessary for you to comply with the law (not including contractual obligations).</p><p>For example an employer needs to process personal data to comply with employment law. In financial services personal data can be legally processed in order to help detect fraud.&nbsp;</p><p>If you are processing on the basis of legal obligation, the individual has no right to data portability, or right to object.&nbsp;</p><p>This individual has a right to erasure if the legal basis has expired. For example if an individual left a company over 3 years ago then there is unlikely to be a legal obligation for the employee to keep hold of all of an individuals&nbsp;data (a very small quantity is required for longer).&nbsp;</p>",
+        "body": "<p>You can process personal data if you need to in order to comply with the law. Contractual obligations you have with third parties do not count as a legal basis for processing.</p><p>For example, an employer needs to process personal data to comply with employment law. In financial services, personal data can be legally processed to help detect fraud.&nbsp;</p><p>If you are processing personal data on the basis of a legal obligation, the individual has no right to data portability, or right to object.&nbsp;</p><p>An individual does have a right to erasure if the legal obligation has expired. For example, if someone left a company over 3 years ago then there is unlikely to be a legal obligation for the employer to keep hold of data about that person (a very small quantity is required for longer).&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1148,7 +1138,7 @@
       },
       {
         "title": "Vital interests",
-        "body": "<p>The processing is necessary to protect someone&rsquo;s life.</p><p>If you can reasonably protect the person&rsquo;s vital interests in another less intrusive way, this basis will not apply.</p><p>You cannot rely on vital interests for health data or other special category data if the individual is capable of giving consent.</p>",
+        "body": "<p>You can process personal data if it is necessary to protect someone&rsquo;s life.</p><p>This does not apply if you can reasonably protect the person&rsquo;s vital interests in another less intrusive way.</p><p>This lawful basis also does not apply for health data or other special category data if the individual is capable of giving consent.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1158,7 +1148,7 @@
       },
       {
         "title": "Public task",
-        "body": "<p>The processing is necessary for you to perform a task in the public interest or for your official functions, and the task or function has a clear basis in law.</p><p>Generally this only applies to an&nbsp;organisation who are&nbsp;exercising official authority or carrying out a specific task in the public interest.&nbsp;</p><p>For example, private water companies are likely to be able to rely on the public task basis even if they do not fall within the definition of a public authority.</p>",
+        "body": "<p>You can process personal data if it is necessary for you to perform a task in the public interest or for your official functions, where the task or function has a clear basis in law.</p><p>For example, private water companies are likely to be able to rely on the public task basis even if they do not fall within the definition of a public authority, because they have legal powers to provide clean water, which is in the public interest.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1168,7 +1158,17 @@
       },
       {
         "title": "Legitimate interests",
-        "body": "<p>Legitimate interests is the most flexible lawful basis for processing, but you cannot assume it will always be the most appropriate.</p><p>If you choose to rely on legitimate interests, you take on extra responsibility for ensuring people&rsquo;s rights and interests are fully considered and protected. You may need to carry out a <strong><em>balancing test</em>&nbsp;</strong>that looks at if the individual&rsquo;s interests override the legitimate interest.</p><p>Legitimate interests is most likely to be an appropriate basis where you use data in ways that people would reasonably expect and that have a minimal privacy impact. Where there is an impact on individuals, it may still apply if you can show there is an even more compelling benefit to the processing and the impact is justified. For example, if a customer could be offered a cheaper or better version of a product, then direct marketing may well be of legitimate interest to that individual.</p>",
+        "body": "<p>You can process personal data if doing so is in the legitimate interests of the individual, third parties, or society. Legitimate interests is the most flexible lawful basis for processing, but you cannot assume it will always be the most appropriate.</p><p>If you choose to rely on legitimate interests as the lawful basis for processing, you take on extra responsibility for ensuring people&rsquo;s rights and interests are fully considered and protected. You may need to carry out a balancing test that looks at if the individual&rsquo;s interests override the legitimate interest.</p><p>Legitimate interests is most likely to be an appropriate basis where you use data in ways that people would reasonably expect and that have a minimal privacy impact. Even where there is an impact on individuals, it may still apply if you can show there is an even more compelling benefit to the processing and the impact is justified. For example, if a customer could be offered a cheaper or better version of a product, then direct marketing may well be of legitimate interest to that individual.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Consent",
+        "body": "<p>Under GDPR, individuals must be informed about how personal data is going to be used and consent given for each use.&nbsp;You cannot ask for open-ended consent to use data however you want to.&nbsp;</p><p>A good example comes when performing a medical procedure on a patient. In this case, consent must granted in full knowledge of the possible consequences. This is a practice known as &#39;informed consent&#39;.</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under GDPR.</p><p>Additionally the individual must be able to withdraw his or her consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1201,7 +1201,7 @@
     "_items": [
       {
         "title": "Data protection officers",
-        "body": "<p>The GDPR requires the appointment a data protection officer (DPO) if you are a public authority, or if you carry out certain types of processing activities involving large scales of personal data or&nbsp;special categories of personal data.&nbsp;</p><p>DPOs assist you to monitor internal compliance, inform and advise on your data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p><p>The DPO must be independent, an expert in data protection, adequately resourced, and report to the highest management level.</p>",
+        "body": "<p>The GDPR requires the appointment a data protection officer (DPO) if you are a public authority&nbsp;or if you carry out certain types of processing activities involving large scales of personal data or&nbsp;special categories of personal data.&nbsp;Other organisations can appoint DPOs too.</p><p>DPOs&nbsp;monitor internal compliance, inform and advise on your data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p><p>The DPO must be independent, an expert in data protection, adequately resourced, and report to the highest management level.</p>",
         "_graphic": {
           "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
           "alt": "",
@@ -1211,7 +1211,7 @@
       },
       {
         "title": "Data breaches",
-        "body": "<p>GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the accidental or unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes breaches that are the result of both accidental and deliberate causes.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision-making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to &ldquo;result in a risk for the rights and freedoms of individuals&rdquo;</p><p>You must do this within 72 hours of becoming aware of the breach.&nbsp;</p><p>You must&nbsp;inform those individuals without undue delay.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
+        "body": "<p>GDPR introduces a duty on all organisations to report any serious data breach to the relevant supervisory authority.</p><p>A personal data breach means a breach of security leading to the&nbsp;unlawful destruction, loss, alteration, unauthorised disclosure of, or access to, personal data. This includes both accidental and deliberate breaches.</p><p>You should ensure you have robust breach detection, investigation and internal reporting procedures in place. This will facilitate decision making about whether or not you need to notify the relevant supervisory authority and the affected individuals.<br /><br />Breach notification is mandatory where a data breach is likely to result in a risk for the rights and freedoms of individuals. You must do this within 72 hours of becoming aware of the breach.&nbsp;You must also&nbsp;inform those affected individuals without undue delay.</p><p>You must also&nbsp;keep a record of any personal data breaches, regardless of whether you are required to notify.</p>",
         "_graphic": {
           "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
           "alt": "",
@@ -1221,7 +1221,7 @@
       },
       {
         "title": "Code of conduct",
-        "body": "<p>The GDPR endorses the use of approved codes of conduct and certification mechanisms to demonstrate compliance.</p><p>Governments and regulators can&nbsp;<strong>encourage</strong>&nbsp;the drawing up of codes of conduct. Codes of conduct may be created by trade associations or representative bodies.</p><p>Adhering to codes of conduct and certification schemes brings a number of benefits over and above demonstrating that you comply. It can:</p><ul><li>improve transparency and accountability.</li><li>provide mitigation against enforcement action.</li><li>improve standards by establishing best practice.</li></ul>",
+        "body": "<p>The GDPR endorses the use of approved codes of conduct and certification mechanisms to demonstrate compliance.</p><p>Governments and regulators can&nbsp;<strong>encourage</strong>&nbsp;organisations to draw&nbsp;up of codes of conduct. Codes of conduct may be created by trade associations or representative bodies.</p><p>Adhering to codes of conduct and certification schemes brings a number of benefits over and above demonstrating compliance with the GDPR. It can:</p><ul><li>improve transparency and accountability</li><li>provide mitigation against enforcement action</li><li>improve standards by establishing best practice</li></ul>",
         "_graphic": {
           "src": "course/en/assets/2bacbe4b513aa2b13154414cd4a171064b2d1637.png",
           "alt": "",
@@ -1250,7 +1250,7 @@
     "_items": [
       {
         "title": "1. Establish scope",
-        "body": "<p>Where and when do you handle personal data?</p><p>What types of personal data do you handle?</p><p>Who do you share that data with, inside or outside EU?</p><p>Are you a controller, processor or both?</p>",
+        "body": "<p>Where and when do you handle personal data?</p><p>What types of personal data do you handle?</p><p>Who do you share that data with, inside or outside the EU?</p><p>Are you a controller, a processor or both?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1270,7 +1270,7 @@
       },
       {
         "title": "3. Check your data lifecycle",
-        "body": "<p>Is privacy by design core to all your data processing activities involving personal data?</p><p>Have you carried out a Data Protection Impact Assessment where necessary?</p><p>Do you have appropriate contracts with data processors to ensure compliance?</p><p>Are your processes documented?</p><p>Do you have a tightly controlled&nbsp;data retention and deletion policy relating to the personal data?</p>",
+        "body": "<p>Is privacy by design core to all your data processing activities involving personal data?</p><p>Have you carried out a Data Protection Impact Assessment where necessary?</p><p>Do you have appropriate contracts with&nbsp;processors to ensure compliance?</p><p>Are your processes documented?</p><p>Do you have a tightly controlled&nbsp;data retention and deletion policy relating to&nbsp;personal data?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1279,8 +1279,8 @@
         "_classes": ""
       },
       {
-        "title": "4. Is the organisation ready to support GDPR?",
-        "body": "<p>Do you have/need to appoint a data protection officer?</p><p>Do you have procedures to rapidly identify and respond to data breaches?</p><p>Does your sector have/need a code of conduct to help with GDPR compliance?</p>",
+        "title": "4. Is the organisation ready to support the GDPR?",
+        "body": "<p>Do you have a data protection officer?</p><p>Do you have procedures to rapidly identify and respond to data breaches?</p><p>Does your sector have a code of conduct to help with GDPR compliance?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1290,67 +1290,7 @@
       },
       {
         "title": "5. Supporting individuals rights",
-        "body": "<p>Do you have a clear privacy notice that informs individuals about the use and rights over their data?</p><p>Do you have processes that support an individuals rights?</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      }
-    ],
-    "_shouldCollapseItems": true
-  },
-  {
-    "_id": "5abbbd82dceff123054ec85d",
-    "_layout": "left",
-    "_type": "component",
-    "_parentId": "5abbbd81dceff123054ec7f6",
-    "body": "<p>There are two different types of personal data that are in scope of GDPR.</p><p>1. Personal data - Any data relating to an identified or identifiable person.&nbsp;</p><p>2. Special categories of personal data - Particular categories of data that could create more significant risks to a person&#39;s fundamental rights and freedoms.</p>",
-    "displayTitle": "Personal data",
-    "title": "Personal data",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "_component": "accordion",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    },
-    "instruction": "Explore each of these in more detail below.",
-    "_items": [
-      {
-        "title": "Personal data",
-        "body": "<p><a href=\"http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf#page=33\">According to GDPR </a>&quot;personal data&quot;&nbsp;means any information relating to an identified or identifiable&nbsp;person.&nbsp;</p><p>This covers any piece of information that can result in the identification of a person, either&nbsp;directly or indirectly.</p><p>This could be via any identifier,&nbsp;such as a name, email, address, phone number, an identification number, an online identifier (including IP address)&nbsp;or factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.</p><p>However not all data might be personally identifiable. For example the name John Smith is very common, however when combined with other data, such as date of birth and address this then becomes identifiable. Remember that names are not needed to identify someone, you probably don&#39;t know the names of all your neighbours but you can identify them.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Special categories of personal data",
-        "body": "<p>Special categories of personal data (previously referred to as sensitive personal data) relates to how a person chooses to live their life or has to due to medical conditions. These categories of data could create more significant risks to a person&#39;s fundamental rights and freedoms and thus require greater levels of protection.</p><p>These categories include:</p><ul><li>Racial or ethnic origin</li><li>Political opinions</li><li>Religious or philosophical beliefs</li><li>Trade union membership</li><li>Genetic and biometric data (New in GDPR)</li><li>Physical or mental health or conditions</li><li>Sex life or sexual orientation</li><li><s>Information about criminal convictions</s></li></ul><p>Information about criminal convictions is still considered special&nbsp;however it is now covered by legislation that is separate from GDPR as outlined in the following section.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Criminal convictions data",
-        "body": "<p>Processing of personal data relating to criminal convictions and offences or related security measures can only&nbsp;be carried out:</p><ol><li>Under the control of official authority.</li><li>When the processing is authorised by Union or Member&nbsp;State law providing for appropriate safeguards for the rights and freedoms of data subjects.</li></ol><p>Any comprehensive register of criminal convictions shall be kept only under the control of official authority.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": "",
-          "attribution": ""
-        },
-        "_classes": ""
-      },
-      {
-        "title": "Child data",
-        "body": "<p>Where the individual&nbsp;is below the age of 16 years,&nbsp;consent is required from the authorised by the holder of parental responsibility over the child.</p><p>Member States may provide by law for a lower age for those purposes provided that such lower age is not below 13 years.</p><p>&nbsp;</p>",
+        "body": "<p>Do you have a clear privacy notice that informs individuals about the collection, use and rights over personal data?</p><p>Do you have processes that support an individual&rsquo;s rights?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1389,7 +1329,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec7f9",
-    "body": "<p>GDPR will apply to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p>GDPR will also apply to the processing of personal data in the EU by an organisation not established in the EU, where the activities relate to either:</p><ol><li>Offering goods or services within&nbsp;EU&nbsp;(irrespective of whether payment is required).</li><li>The monitoring of individuals&nbsp;behaviour as far as their behaviour takes place within the Union.</li></ol><p>This means that even if a company has no physical base in the EU that the GDPR may still apply if goods and services are offered to those residing within the EU.&nbsp;</p>",
+    "body": "<p>GDPR&nbsp;applies&nbsp;to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p>GDPR applies&nbsp;to the processing of personal data in the EU by an organisation not established in the EU, if they either:</p><ol><li>offer&nbsp;goods or services within&nbsp;EU&nbsp;(irrespective of whether payment is required)</li><li>monitor&nbsp;of individual&#39;s&nbsp;behaviour&nbsp;within the Union</li></ol><p>Even if a company has no physical base in the EU, the GDPR may still apply if goods and services are offered to those residing within the EU.&nbsp;</p>",
     "displayTitle": "Territorial scope",
     "title": "Territorial scope",
     "_isAvailable": true,
@@ -1423,7 +1363,7 @@
     "_layout": "left",
     "_parentId": "5abbbd81dceff123054ec7ea",
     "_type": "component",
-    "body": "<p dir=\"ltr\">GDPR replaces the existing data protection relations throughout Europe (including the Data Protection Act 1998).&nbsp;The GDPR is a new regulation that is designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.&nbsp;</p><p dir=\"ltr\">The GDPR will apply to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes to GDPR Is the addition of a number of individuals rights. These rights are particularly relevant if the legal basis for processing personal data is either through consent or contract.</p><p dir=\"ltr\">GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of GDPR.</p><p dir=\"ltr\">For more detail on GDPR beyond that covered here we recommend the dedicated <a href=\"https://www.eugdpr.org/article-summaries.html\" target=\"_blank\">EU GDPR website</a>. The most important aspects of chapters 1-4 have been covered in this lesson.&nbsp;</p>",
+    "body": "<p dir=\"ltr\">GDPR replaces the existing data protection relations throughout Europe.&nbsp;The GDPR is a new regulation that is designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.&nbsp;</p><p dir=\"ltr\">The GDPR will apply to the processing of all personal data by organisations in the EU, regardless of whether the processing takes place in the EU or not.</p><p dir=\"ltr\">Significant penalties and orders can be imposed on organisations who breach the GDPR, including fines of up to 20 million euros or 4% of a company&rsquo;s turnover (whichever is larger).</p><p dir=\"ltr\">One of main changes to GDPR Is the addition of a number of individuals rights. These rights are particularly relevant if the legal basis for processing personal data is either through consent or contract.</p><p dir=\"ltr\">GDPR requires everyone to process personal data lawfully and communicate this basis clearly. This is done through an organisations privacy notice; the most visible part of GDPR.</p><p dir=\"ltr\">For more detail on GDPR beyond that covered here we recommend the dedicated <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU GDPR website</a>. The most important aspects of chapters 1-4 have been covered in this lesson.&nbsp;If you reside in a member state, then you should also check additional data protection regulations, such as the Data Protection Bill in the UK.</p>",
     "displayTitle": "Summary",
     "title": "Summary",
     "_isAvailable": true,
@@ -1578,7 +1518,7 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec812",
-    "body": "<p>There are two main roles that organisations play in the processing of personal data.&nbsp;</p><p><strong>Controller</strong></p><p>A controller is any&nbsp;body which, alone or jointly with others, determines the purposes and means of the processing of personal data.</p><p><strong>Processor</strong></p><p>A processor is any body which processes personal data in behalf of the controller.&nbsp;</p>",
+    "body": "<p>There are two main roles that organisations play in the processing of personal data.&nbsp;</p><p><strong>Controller</strong></p><p>A controller is any&nbsp;body that,&nbsp;alone or jointly with others, determines the purposes and means of the processing of personal data.</p><p><strong>Processor</strong></p><p>A processor is any body that processes personal data in behalf of the controller.&nbsp;</p>",
     "displayTitle": "",
     "title": "Organisational roles",
     "_isAvailable": true,
@@ -1595,9 +1535,9 @@
     "_layout": "right",
     "_parentId": "5abbbd81dceff123054ec7e7",
     "_type": "component",
-    "body": "<p>One of main changes to GDPR Is the addition of a number of individuals rights. These rights are particularly relevant if the legal basis for processing personal data is either through consent or contract (see the next section).</p>",
-    "displayTitle": "Individuals rights",
-    "title": "Individuals rights",
+    "body": "<p>One of main changes to brought in by the GDPR Is the addition of a number of individual&nbsp;rights. These rights are particularly relevant if the legal basis for processing personal data is either through consent or contract.</p>",
+    "displayTitle": "Individual rights",
+    "title": "Individual rights",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -1609,7 +1549,7 @@
     "_items": [
       {
         "title": "Right to be informed",
-        "body": "<p>Individuals have the right to be informed about the collection and use of their personal data. This is a key transparency requirement under the GDPR.</p><p>This information should be presented to the individual at point of collection in clear, concise language and be easily accessible.&nbsp;</p><p>Such information should be presented in the privacy notice. You can read more in the later dedicated section on what must be contained within the privacy notice.</p>",
+        "body": "<p>Individuals have the right to be informed about how personal data about them is collected and used. This is a key transparency requirement under the GDPR.</p><p>This information should be presented in a privacy notice. This should be presented to the individual when data is collected, in clear, concise language and be easily accessible.&nbsp;</p><p>You can read more in the later dedicated section on what must be contained within the privacy notice.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1619,7 +1559,7 @@
       },
       {
         "title": "Right to access",
-        "body": "<p>GDPR give rights of access to individuals to obtain from the data controller confirmation as to whether or not personal data concerning them is being processed, where and for what purpose.</p><p>While rights to access are present in the Data Protection Act (DPA), GDPR makes the right to access for individuals free.</p><p>Further, the controller shall provide a copy of the personal data in an electronic format.<br />&nbsp;</p>",
+        "body": "<p>The GDPR gives people the right of access to get confirmation from controllers about whether or not personal data about them is being processed, in what territory and for what purpose.</p><p>While the right to access is present in the Data Protection Act (DPA), the GDPR makes organisations support the right to access without charge.</p><p>Further, the controller shall provide a copy of the personal data within a month of the request and in an electronic format where possible.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1629,7 +1569,7 @@
       },
       {
         "title": "Right to be forgotten",
-        "body": "<p dir=\"ltr\">The right to be forgotten (or the right to data erasure) entitles the data subject (where conditions permit)&nbsp;to have the data controller erase personal data concerning him or her,&nbsp;cease further sharing of the data, and potentially have third parties halt processing of the data.</p><p dir=\"ltr\">The conditions for erasure include the data no longer being relevant to original purposes for processing, no lawful basis&nbsp;existing for the data to be held&nbsp;and&nbsp;processed, or a data subject&nbsp;withdrawing consent (for example, by unsubscribing from all mailing lists).</p>",
+        "body": "<p>The right to be forgotten (or the right to data erasure) entitles an individual to have the controller erase personal data about him or her, cease further sharing of the data, and potentially have third parties halt processing of the data.</p><p>Data must be erased if it is no longer relevant to the original purpose for processing, no lawful basis exists for the data to be held and processed, or if a data subject withdraws consent (for example, by unsubscribing from all mailing lists).</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1639,7 +1579,7 @@
       },
       {
         "title": "Right to rectification",
-        "body": "<p>Individuals are entitled to have personal data rectified if it is inaccurate or incomplete.</p><p>Where necessary, controllers must also rectify any copies shared with others and the process should take no more than 2 months.&nbsp;</p>",
+        "body": "<p>Individuals have the right to have personal data corrected if it is inaccurate or incomplete. Where necessary, controllers must also correct any copies shared with others. The process should take no more than 2 months.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1649,7 +1589,7 @@
       },
       {
         "title": "Right to restrict processing",
-        "body": "<p>Individuals have a right to &lsquo;block&rsquo; or suppress processing of personal data.</p><p>Such rights can be exercised when:</p><ol><li>The accuracy of the personal data is contested.</li><li>Where the individual has objected to the processing (only in the case of performance of a public task or legitimate interest).</li><li>The processing is unlawful.</li><li>The data is no longer required.</li></ol><p>&nbsp;</p>",
+        "body": "<p>Individuals have a right to &lsquo;block&rsquo; or suppress processing of personal data.</p><p>Such rights can be exercised when:</p><ol><li>The accuracy of the personal data is contested.</li><li>Where the individual has objected to the processing (only in the case of performance of a public task or legitimate interest).</li><li>The processing is unlawful.</li><li>The data is needed for future reference but should no longer be processed.</li></ol><p>&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1659,7 +1599,7 @@
       },
       {
         "title": "Right to data portability",
-        "body": "<p>GDPR introduces data portability - the right for a data subject to receive the personal data they have provided to the controller. This must be provided&nbsp;in a &#39;commonly used and machine readable format&#39;. Additionally the individual has the right to transmit that data to another controller.</p>",
+        "body": "<p>The GDPR introduces a new data portability right - the right for an individual to receive personal data they have provided to the controller or that has been gathered automatically by the controller. This must be provided in a commonly used and machine readable format. Additionally the individual has the right to request that the data is transmitted directly to another controller.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1669,7 +1609,7 @@
       },
       {
         "title": "Right to withdraw consent (if applicable)",
-        "body": "<p>If the lawful basis for processing is based upon obtaining consent, then the individual has the right to withdraw consent at any time.&nbsp;</p><p>The process of withdrawing consent must be as easy as giving consent in the first place.</p>",
+        "body": "<p>If the lawful basis for processing is based on having consent, the individual has the right to withdraw that consent at any time.&nbsp;</p><p>The process of withdrawing consent must be as easy as giving consent in the first place.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1679,7 +1619,7 @@
       },
       {
         "title": "Right to object",
-        "body": "<p>The right to object is not an absolute right and it applies only in certain circumstances:</p><ol><li>When the processing of data falls in the category of direct marketing. In this case the right is absolute as a data subject can object at any time.</li><li>When data is used for research or statistical purposes. This time, objecting is not an absolute right as it can be overridden if the processing is&nbsp;necessary for the performance of a task carried out in the public interest.</li><li>The&nbsp;data is processed based on public or legitimate interests.&nbsp;In this case, the controller will need to demonstrate it has compelling legitimate interest to process the data that override the data subject&rsquo;s rights and freedoms.</li></ol>",
+        "body": "<p>People have the right to object to you processing data about them. The right to object is not an absolute right and it applies only in certain circumstances. If one of these circumstances is met, you must stop processing data about them. The valid circumstances are:</p><ol><li>When personal data is used for direct marketing. In this case the right is absolute as a data subject can object at any time.</li><li>When data is used for research or statistical purposes, unless the processing is necessary for the performance of a task carried out in the public interest.</li><li>The data is processed based on public or legitimate interests, in which case case you will need to demonstrate you have compelling legitimate interest to process the data that override the individual&rsquo;s rights and freedoms.</li></ol>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1689,7 +1629,7 @@
       },
       {
         "title": "Right to not be subject to solely automated decision making",
-        "body": "<p>Individuals have the right to not be&nbsp;subject to a decision based solely on automated processing, including profiling.</p><p>Processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual&rsquo;s explicit consent</li></ul><p>In all cases individuals must be informed about the processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
+        "body": "<p>Individuals have the right to not be&nbsp;subject to a decision based solely on automated processing, including profiling.</p><p>Automated processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual&rsquo;s explicit consent</li></ul><p>In all cases individuals must be informed about the automated processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1705,7 +1645,7 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec812",
-    "body": "<p>For example, if <strong>Company A</strong>&nbsp;sells products&nbsp;to consumers and uses a company like <strong>MailChimp</strong>&nbsp;to email consumers on their behalf and track their engagement activity, then <strong>Company A</strong>&nbsp;is the data controller, and <strong>MailChimp</strong>&nbsp;is the data processor.</p><p>Generally speaking, the GDPR treats the controller as the principal party responsible for the ensuring compliance with GDPR. Thus in turn controllers should only choose processors who provide&nbsp;sufficient guarantees that meet the requirements of GDPR.</p>",
+    "body": "<p>For example, if <strong>Company A</strong>&nbsp;sells products&nbsp;to consumers and uses a company like <strong>MailChimp</strong>&nbsp;to email consumers on their behalf and track their engagement activity, then <strong>Company A</strong>&nbsp;is the&nbsp;controller, and <strong>MailChimp</strong>&nbsp;is the&nbsp;processor.</p><p>Generally speaking, the GDPR treats the controller as the principal party responsible for the ensuring compliance with GDPR. In turn controllers should only choose processors who provide&nbsp;sufficient guarantees that meet the requirements of GDPR.</p>",
     "displayTitle": "",
     "title": "Component title",
     "_isAvailable": true,
@@ -1759,7 +1699,7 @@
     "_items": [
       {
         "title": "1. Create: Privacy by design",
-        "body": "<p>Privacy by design&nbsp;is a legal requirement. It requires organisations to consider individuals privacy from the start of the design of any system or service and not just bolted on at the end.</p><p>Where data processing is likely to result in high risk to individuals, GDPR makes a Data Protection Impact Assessment (DPIA) a legal requirement of this design process.</p><p>A DPIA helps you to:</p><ul><li>describe the nature, scope, context and purposes of the processing;</li><li>assess necessity, proportionality and compliance measures;</li><li>identify and assess risks to individuals; and</li><li>identify any additional measures to mitigate those risks.</li></ul>",
+        "body": "<p>Privacy by design is a legal requirement. It requires organisations to consider people&rsquo;s privacy from the start of the design of any system or service and not just bolt it on at the end.</p><p>Where data processing is likely to result in a high risk to individuals, GDPR makes a Data Protection Impact Assessment (DPIA) a legal requirement of this design process.</p><p>A DPIA helps you to:</p><ul><li>describe the nature, scope, context and purposes of the processing</li><li>assess necessity, proportionality and compliance measures</li><li>identify and assess risks to individuals</li><li>identify any additional measures to mitigate those risks</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1769,7 +1709,7 @@
       },
       {
         "title": "2: Store: Contracts with data processors",
-        "body": "<p>It is highly likely that a controller will use a number of processors to not just store but also collect and analyse data.</p><p>Whenever a controller uses a processor it needs to have a written contract in place.</p><p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and the rights of data subjects protected.</p><p>Processors must only act on the documented instructions of a controller. They will however have some direct responsibilities under the GDPR, such as notification of data breach,&nbsp;and&nbsp;be subject to fines or other sanctions if they don&rsquo;t comply.</p>",
+        "body": "<p>It is highly likely that a controller will use a number of processors to not just store but also collect and analyse data.</p><p>Whenever a controller uses a processor it needs to have a written contract in place with that processor.</p><p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and the people&rsquo;s rights protected.</p><p>Processors must only act on the documented instructions of a controller. They do however have some direct responsibilities under the GDPR, such as having to give notification of data breaches, and being subject to fines or other sanctions if they do not comply.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1779,7 +1719,7 @@
       },
       {
         "title": "3. Use: Records of processing",
-        "body": "<p>The GDPR contains explicit provisions about documenting your processing activities (what you do with the personal data).&nbsp;</p><p>Documenting your processing activities is important, not only because it is itself a legal requirement, but also because it can support good data governance and help you demonstrate your compliance with other aspects of the GDPR.</p><p>The amount documentation required varies depending on the size of your organisation and the activities carried out.&nbsp;</p><p>Documentation can help in many areas including:</p><ul><li>Establishing the extent of personal data your organisation holds</li><li>Establishing the lawful basis for processing personal data</li><li>Writing of clearer privacy statements</li><li>Fulfilling your obligations to share the data with others including data subjects</li><li>Records keeping including data locations (territorial), records of consent and Data Protection Impact Assessment reports.</li></ul>",
+        "body": "<p>The GDPR contains explicit provisions requiring you to document your processing activities (what you do with personal data).&nbsp;</p><p>As well as being a legal requirement, documenting your processing activities can support good data governance and help you demonstrate your compliance with other aspects of the GDPR.</p><p>The amount of documentation required depends on the size of your organisation and the activities it carries out.</p><p>Documentation can help in many areas including:</p><ul><li>Establishing the extent of personal data your organisation holds</li><li>Establishing the lawful basis for processing personal data</li><li>Writing clearer privacy statements</li><li>Fulfilling your obligations to share the data with others including those the data is about</li><li>Records keeping including which territory data is stored in, records of consent and Data Protection Impact Assessment reports</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1789,7 +1729,7 @@
       },
       {
         "title": "4. Share: Ensuring transfers are legitimate",
-        "body": "<p>The GDPR makes it much easier to transfer data withing the EU.</p><p>Transfers outside of the EU may be made:</p><ul><li>To locations&nbsp;the European Commission has decided an adequate level of protection is afforded.</li><li>To organisations where appropriate protection is afforded through contractual clauses.&nbsp;</li><li>With the individual&#39;s informed consent.</li><li>Where it is absolutely necessary for the fulfilment of the lawful basis.</li></ul>",
+        "body": "<p>The GDPR makes it much easier to transfer data within the EU than before.</p><p>Transfers outside of the EU may be made:</p><ul><li>To locations the European Commission say provide an adequate level of protection.</li><li>To organisations where appropriate protection is provided through contractual clauses.&nbsp;</li><li>With the individual&#39;s informed consent.</li><li>Where it is absolutely necessary to fulfil the lawful basis.</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1799,7 +1739,7 @@
       },
       {
         "title": "5. Archive: Data retention and security",
-        "body": "<p>The GDPR requires personal data to be processed in a manner that ensures its security. This includes protection against unauthorised or unlawful processing and against accidental loss, destruction or damage. It requires that appropriate technical or organisational measures are used.</p><p>Additionally GDPR requires that personal data only be retained while there is a lawful basis for doing so, such as proof of contract or employment. To do this is might not be necessary to keep the complete record, rather only a part. This is a practice known as data minimisation that can also help minimise risk (see next section).&nbsp;</p>",
+        "body": "<p>The GDPR requires personal data to be processed securely. This includes protection against unauthorised or unlawful processing and against accidental loss, destruction or damage. It requires that appropriate technical or organisational measures are used.</p><p>Additionally, the&nbsp;GDPR requires that personal data only be retained while there is a lawful basis for doing so, such as needing to have&nbsp;proof of a contract or employment. It might not be necessary to keep the complete record for this, rather only a part. This is a practice known as data minimisation that can also help minimise risk (see next section).&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1809,7 +1749,7 @@
       },
       {
         "title": "6. Destroy: Data minimisation",
-        "body": "<p>The practice of data minimisation is about&nbsp;limiting personal data collection, storage, and usage to only the data that is relevant, adequate, and absolutely necessary for carrying out the purpose for which the data is processed.</p><p>The same is true of the retention of personal data; if any aspect of the data is no longer required to fulfil a lawful basis then it should be destroyed.</p>",
+        "body": "<p>The practice of data minimisation is about&nbsp;limiting personal data collection, storage, usage and retention to only the data that is relevant and absolutely necessary for carrying out the purpose for which the data is processed.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -1825,9 +1765,9 @@
     "_layout": "left",
     "_type": "component",
     "_parentId": "5abbbd81dceff123054ec814",
-    "body": "<p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and the rights of data subjects protected.</p><p>Processors must only act on the documented instructions of a controller and&nbsp;shall not engage another processor without prior specific or general written authorisation of the controller. This said, processors are still required to comply with the law and contest any instruction from the controller that may result in illegal processing.</p><p>The processor must also fully comply with controllers instructions to delete or return all personal data to the controller at the end of the contract.&nbsp;</p>",
-    "displayTitle": "Obligations of the data processor",
-    "title": "Obligations of the data processor",
+    "body": "<p>Controllers are liable for their compliance with the GDPR and must only appoint processors who can provide &lsquo;sufficient guarantees&rsquo; that the requirements of the GDPR will be met and people&#39;s rights&nbsp;protected.</p><p>Processors must only act on the documented instructions of a controller and&nbsp;must not engage another processor without prior specific or general written authorisation of the controller. This said, processors are still required to comply with the law and contest any instruction from the controller that may result in illegal processing.</p><p>The processor must also fully comply with controllers instructions to delete or return all personal data to the controller at the end of the contract.&nbsp;</p>",
+    "displayTitle": "Obligations of the processor",
+    "title": "Obligations of the processor",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -2245,7 +2185,7 @@
     "_items": [
       {
         "title": "US visitors to the EU",
-        "body": "<p>A US citizen is on holiday in the EU and orders something from an online store&nbsp;&lsquo;established&rsquo; in the EU.</p><p>The site collects personal information.</p><p><strong>GDPR applies</strong></p>",
+        "body": "<p>A US citizen is on holiday in the EU and orders something from an online store&nbsp;for a company established in the EU.</p><p>The site collects personal information.</p><p><strong>GDPR applies</strong></p>",
         "_graphic": {
           "src": "course/en/assets/f84f4e376b456fe29023669ec13f5bf262941ca7.jpg",
           "alt": "",
@@ -2255,7 +2195,7 @@
       },
       {
         "title": "EU citizen orders from US online store",
-        "body": "<p>Someone &lsquo;in the Union&rsquo; orders online from a merchant based in the US, who has made no effort whatsoever to market/aim their services to anyone outside of the US. All payments must be in USD.</p><p>Just because they agree to ship the merchandise to the EU does not, by itself, put the merchant &lsquo;in-scope&rsquo; for GDPR, even if they do collect personal data.</p><p><strong>GDPR doesn&#39;t apply</strong></p>",
+        "body": "<p>A French citizen orders online from a merchant based in the US, who has made no effort&nbsp;to target&nbsp;their services to anyone outside of the US. All payments must be in USD.</p><p>Just because they agree to ship the merchandise to the EU does not, by itself, put the merchant in-scope&nbsp;for GDPR, even if they do collect personal data.</p><p><strong>GDPR doesn&#39;t apply</strong></p>",
         "_graphic": {
           "src": "course/en/assets/376f4f70ae8ee6db6860e56074fbfb98a44f6a32.jpeg",
           "alt": "",
@@ -2265,7 +2205,7 @@
       },
       {
         "title": "Individual interacts with organisation established in EU",
-        "body": "<p>A individual, including non-EU, is on holiday in the US and orders online from an e-commerce merchant &lsquo;established&rsquo; in the Union.</p><p><strong>GDPR applies.</strong></p>",
+        "body": "<p>A Nigerian citizen subscribes to an online service for a company established in the Union.</p><p><strong>GDPR applies.</strong></p>",
         "_graphic": {
           "src": "course/en/assets/65acb644d6960965f9074d27e3e90b861c833dac.jpg",
           "alt": "",
@@ -5253,5 +5193,65 @@
         "_classes": ""
       }
     ]
+  },
+  {
+    "_id": "5abbbd82dceff123054ec85d",
+    "_layout": "left",
+    "_type": "component",
+    "_parentId": "5abbbd81dceff123054ec7f6",
+    "body": "<p>There are two different types of personal data that are in scope of GDPR.</p><p>1. Personal data - Any data relating to an identified or identifiable person.&nbsp;</p><p>2. Special categories of personal data - Particular categories of data that could create more significant risks to a person&#39;s fundamental rights and freedoms.</p>",
+    "displayTitle": "Personal data",
+    "title": "Personal data",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore each of these in more detail below.",
+    "_items": [
+      {
+        "title": "Personal data",
+        "body": "<p><a href=\"http://ec.europa.eu/justice/data-protection/reform/files/regulation_oj_en.pdf#page=33\">According to GDPR </a>&quot;personal data&quot;&nbsp;means any information relating to an identified or identifiable&nbsp;person.&nbsp;</p><p>This covers any piece of information that can result in the identification of a person, either&nbsp;directly or indirectly.</p><p>This could be via any identifier,&nbsp;such as a name, email, address, phone number, an identification number, an online identifier (including IP address)&nbsp;or factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.</p><p>However data of these types might not always&nbsp;be personally identifiable. For example the name John Smith is very common, however when combined with other data, such as date of birth and address this then becomes identifiable. Remember that names are not needed to identify someone;&nbsp;you probably don&#39;t know the names of all your neighbours but you can identify them.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Special categories of personal data",
+        "body": "<p>Special categories of personal data (previously referred to as sensitive personal data) relates to how a person&nbsp;lives their life either through choice or&nbsp;due to medical conditions. These categories of data could create more significant risks to a person&#39;s fundamental rights and freedoms and thus require greater levels of protection.</p><p>These categories include:</p><ul><li>Racial or ethnic origin</li><li>Political opinions</li><li>Religious or philosophical beliefs</li><li>Trade union membership</li><li>Genetic and biometric data (new in GDPR)</li><li>Physical or mental health or conditions</li><li>Sex life or sexual orientation</li><li><s>Information about criminal convictions</s></li></ul><p>Information about criminal convictions is still considered special&nbsp;however it is now covered by legislation that is separate from GDPR as outlined in the following section.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Criminal convictions data",
+        "body": "<p>Processing of personal data relating to criminal convictions and offences or related security measures can only&nbsp;be carried out:</p><ol><li>Under the control of official authority.</li><li>When the processing is authorised by Union or Member&nbsp;State law providing for appropriate safeguards for people&#39;s rights and freedoms.</li></ol><p>Any comprehensive register of criminal convictions shall be kept only under the control of official authority.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Data about children",
+        "body": "<p>Data about children must be treated carefully as&nbsp;they may be less aware of the risks involved.&nbsp;</p><p>When consent is required for the use of data about someone under 16 years old, that consent needs to be given by a holder of parental responsibility for that child.</p><p>When they create their own data protection laws (such as the UK), member States may specify a lower age instead, but it cannot be less than 13 years.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
   }
 ]
