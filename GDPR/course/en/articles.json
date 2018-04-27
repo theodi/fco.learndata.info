@@ -1,7 +1,43 @@
 [
   {
-    "_id": "5abbbd81dceff123054ec7d7",
-    "_parentId": "5abbbd81dceff123054ec7d3",
+    "_id": "5ae34ebe7f0f6d130536029b",
+    "_type": "article",
+    "_parentId": "5ae34ebe7f0f6d1305360296",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Article title",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": 1
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
+    }
+  },
+  {
+    "_id": "5ae351d47f0f6d130536052c",
+    "_parentId": "5ae351d47f0f6d130536052b",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
@@ -36,44 +72,8 @@
     }
   },
   {
-    "_id": "5ad75c937f0f6d130535eecd",
-    "_type": "article",
-    "_parentId": "5ad75c937f0f6d130535eec1",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title",
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "5abbbd81dceff123054ec7d9",
-    "_parentId": "5abbbd81dceff123054ec7d4",
+    "_id": "5ae34ebe7f0f6d1305360298",
+    "_parentId": "5ae34ebe7f0f6d1305360297",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
@@ -82,34 +82,34 @@
     "displayTitle": "",
     "title": "Article title",
     "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
+      "_isEnabled": false,
+      "_id": "",
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
       },
       "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+        "_isEnabled": false,
+        "_blockCount": 1
       },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       },
-      "_id": "",
-      "_isEnabled": false
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
     }
   },
   {
-    "_id": "5ad75c937f0f6d130535eecc",
-    "_parentId": "5ad75c937f0f6d130535eec1",
+    "_id": "5ae34ebe7f0f6d130536029a",
+    "_parentId": "5ae34ebe7f0f6d1305360296",
     "_type": "article",
     "_isAvailable": true,
     "_isOptional": false,
@@ -144,9 +144,9 @@
     }
   },
   {
-    "_id": "5abbbd81dceff123054ec7da",
-    "_parentId": "5abbbd81dceff123054ec7d4",
+    "_id": "5ae34ebe7f0f6d130536029c",
     "_type": "article",
+    "_parentId": "5ae34ebe7f0f6d1305360296",
     "_isAvailable": true,
     "_isOptional": false,
     "_classes": "",
@@ -154,137 +154,29 @@
     "displayTitle": "",
     "title": "Article title",
     "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": true,
-      "_scoreToPass": 60,
-      "_isPercentageBased": true,
-      "_questions": {
-        "_canShowModelAnswer": true,
-        "_canShowMarking": true,
-        "_canShowFeedback": true,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "GDPR_Opportunities",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "5ad75c937f0f6d130535eece",
-    "_type": "article",
-    "_parentId": "5ad75c937f0f6d130535eec1",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title",
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
+      "_isEnabled": false,
       "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "5abbbd81dceff123054ec7d8",
-    "_parentId": "5abbbd81dceff123054ec7d3",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title",
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
       },
       "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+        "_isEnabled": false,
+        "_blockCount": 1
       },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "5abbbd81dceff123054ec7db",
-    "_parentId": "5abbbd81dceff123054ec7d4",
-    "_type": "article",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_classes": "",
-    "body": "",
-    "displayTitle": "",
-    "title": "Article title",
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
       "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
+        "_resetType": "soft",
         "_canShowFeedback": false,
-        "_resetType": "soft"
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
       },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
+      "_isPercentageBased": false,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_isResetOnRevisit": false,
+      "_attempts": -1
     }
   }
 ]

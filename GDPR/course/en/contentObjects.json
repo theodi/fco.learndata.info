@@ -1,9 +1,9 @@
 [
   {
-    "_id": "5abbbd81dceff123054ec7d3",
+    "_id": "5ae34ebe7f0f6d1305360297",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/920b06ed7712901d594c675160503549989b5d65.jpeg"
+      "src": ""
     },
     "_parentId": "course",
     "_type": "page",
@@ -13,115 +13,27 @@
     "duration": "",
     "linkText": "View",
     "_classes": "",
-    "body": "<p>This lesson provides an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations.</p><p>By the end of the lesson you should&nbsp;able to work more confidently with the requirements of the GDPR.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
-    "displayTitle": "Introduction to the General Data Protection Regulation",
-    "title": "Introduction to the General Data Protection Regulation",
+    "body": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
+    "displayTitle": "Introduction",
+    "title": "Introduction",
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "outcome": "Describe what the GDPR is and why it is needed",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Identify the scope of the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Explain the different organisational obligations",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Identify the legal basis for processing of personal data and its implications",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Explain the fundamental rights of individuals outlined in the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Analyse acceptable privacy notices",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Create a plan for ensuring compliance with the GDPR",
-          "credits": 5,
-          "level": "strategist"
-        }
-      ]
-    },
-    "_aboutPage": {
-      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>",
-      "SL_text": "",
-      "_items": []
-    },
-    "_ODILicence": {
-      "_items": []
-    }
-  },
-  {
-    "_id": "5abbbd81dceff123054ec7d4",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/36d1de1b054024e2de84107d77635ba99e5e732d.jpg"
-    },
-    "_parentId": "course",
-    "_type": "page",
-    "_isAvailable": true,
-    "_isOptional": false,
-    "_lockedBy": [],
-    "duration": "",
-    "linkText": "View",
-    "_classes": "",
-    "body": "<p>GDPR is first and foremost about guaranteeing strong data protection principles for individuals.<br /><br />However, it shouldn&rsquo;t just be seen as a matter of compliance. Adherence to GDPR also offers many opportunities for the public sector such as strengthening relationships with citizens and enhance service provision.&nbsp;</p><p>This lesson explores some of the opportunities and looks at how GDPR can be turned from a compliance exercise into an opportunity.&nbsp;<br />&nbsp;</p>",
-    "displayTitle": "The opportunities of GDPR",
-    "title": "The opportunities of GDPR",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true
-    },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "level": "strategist",
-          "credits": 5,
-          "outcome": "Describe how other sectors are embracing the opportunities offered by GDPR"
-        },
-        {
-          "outcome": "List the 5 key opportunities offered by GDPR for the public sector",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "outcome": "Understand how to position GDPR as an opportunity (rather than a compliance issue) in your organisation",
-          "credits": 5,
-          "level": "strategist"
-        }
-      ]
     },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
     },
-    "_ODILicence": {
+    "_FooterLink": {
       "_items": []
     }
   },
   {
-    "_id": "5ad75c937f0f6d130535eec1",
+    "_id": "5ae351d47f0f6d130536052b",
     "_graphic": {
       "alt": "",
-      "src": "course/assets/45083b2d4a10e472cf4c73eda3735f8009b5c2e7.png"
+      "src": ""
     },
     "_parentId": "course",
     "_type": "page",
@@ -130,7 +42,37 @@
     "_lockedBy": [],
     "duration": "",
     "linkText": "View",
-    "_classes": "hidden",
+    "_classes": "",
+    "body": "<p>This module gives an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations. After completion, you should able to work more confidently with the requirements of the GDPR.</p>",
+    "displayTitle": "Introduction to the General Data Protection Regulation",
+    "title": "Introduction to the General Data Protection Regulation",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5ae34ebe7f0f6d1305360296",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
     "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
     "displayTitle": "The GDPR: Test your knowledge",
     "title": "The GDPR: Test your knowledge",
@@ -138,15 +80,12 @@
       "_isEnabled": true,
       "_showPageCompletion": true
     },
-    "_skillsFramework": {
-      "_skills": []
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
       "_items": []
     },
-    "_ODILicence": {
+    "_FooterLink": {
       "_items": []
     }
   }

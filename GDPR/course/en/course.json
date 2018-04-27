@@ -62,17 +62,13 @@
         "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
         "optionalContent": "Optional Content"
       },
-      "_skillsFramework": {
-        "linkText": "Outcomes",
-        "titleText": "Learning outcomes"
-      },
       "_aboutPage": {
         "linkText": "About",
         "titleText": "About",
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "<p>Developed for FCO&nbsp;by the&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+        "SL_text": "<p>&copy; Foreign &amp; Commonwealth Office&nbsp;/ The Open Data Institute</p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -81,56 +77,58 @@
         "SL_twitter": "",
         "SL_vimeo": "",
         "SL_youtube": ""
-      },
-      "_ODILicence": {
-        "linkText": "Licence",
-        "titleText": "Licence"
       }
     }
   },
   "_start": {
-    "_isEnabled": false,
-    "_startIds": [],
-    "_force": false,
+    "_isEnabled": true,
+    "_startIds": [
+      {
+        "_id": "5ae34ebe7f0f6d1305360297",
+        "_skipIfComplete": false,
+        "_className": ""
+      }
+    ],
+    "_force": true,
     "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",
   "_classes": "",
   "_buttons": {
-    "_submit": {
-      "buttonText": "Submit",
-      "ariaLabel": "Submit"
-    },
-    "_reset": {
-      "buttonText": "Reset",
-      "ariaLabel": "Reset"
-    },
-    "_showCorrectAnswer": {
-      "buttonText": "Show correct answer",
-      "ariaLabel": "Show correct answer"
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
     },
     "_hideCorrectAnswer": {
-      "buttonText": "Hide correct answer",
-      "ariaLabel": "Hide correct answer"
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
     },
-    "_showFeedback": {
-      "buttonText": "Show feedback",
-      "ariaLabel": "Show feedback"
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
     },
-    "remainingAttemptsText": "remaining attempts",
-    "remainingAttemptText": "final attempt",
-    "disabledAriaLabel": "This button is disabled at the moment"
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
   },
-  "_latestTrackingId": 63,
-  "body": "<p>On the 25th May 2018, existing data protection regulations in the European Union will be replaced by the General Data Protection Regulation (GDPR).&nbsp;</p><p>The GDPR is a new regulation that is designed to provide&nbsp;a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><p>However, it shouldn&rsquo;t just be seen as a matter of compliance. Adherence to GDPR also offers many opportunities for the public sector.&nbsp;</p><p>Find out more with these two lessons from the Open Data Institute.</p><p>&nbsp;</p>",
-  "displayTitle": "The General Data Protect Regulation: Obligations and opportunities",
-  "title": "FCO (GDPR)",
+  "_latestTrackingId": 48,
+  "body": "",
+  "displayTitle": "FCO (GDPR) - Lesson 1",
+  "title": "FCO (GDPR) - Lesson 1",
   "_assessment": {
-    "_postTotalScoreToLms": true,
+    "_postTotalScoreToLms": false,
     "_isPercentageBased": false,
-    "_scoreToPass": 8,
-    "_requireAssessmentPassed": true
+    "_scoreToPass": 60,
+    "_requireAssessmentPassed": false
   },
   "_pageLevelProgress": {
     "_isEnabled": true,
@@ -139,72 +137,28 @@
   "_aboutPage": {
     "_items": [
       {
-        "title": "ODI Training Team",
-        "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;training team.</p>",
         "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/logo-small.png"
-        }
+          "src": "adapt/css/assets/logo-small.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge, learning expertise and&nbsp;content development provided by the by the&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>.</p>",
+        "title": "The Open Data Institute"
       },
       {
-        "title": "Adapt learning",
-        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
         "_graphic": {
-          "alt": "",
-          "src": "adapt/css/assets/adapt.png"
-        }
+          "src": "adapt/css/assets/adapt.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
+        "title": "Adapt learning"
       }
     ]
   },
-  "_ODILicence": {
+  "_FooterLink": {
     "_items": [
       {
-        "title": "",
-        "description": "<p>FCO eLearning&nbsp;by&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
-        "_graphic": {
-          "alt": "",
-          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
-        }
-      },
-      {
-        "title": "Attribution requirements",
-        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" target=\"_blank\">here</a>.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Content usage",
-        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Exclusions",
-        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "Non-endorsement",
-        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
-      },
-      {
-        "title": "No warranty",
-        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the FCO&nbsp;are liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
-        "_graphic": {
-          "alt": "",
-          "src": ""
-        }
+        "title": "Terms and Conditions",
+        "link": "https://www.fcoservices.gov.uk/terms-and-conditions/"
       }
     ]
   }
