@@ -2081,7 +2081,7 @@
     "_layout": "right",
     "_parentId": "5ae350957f0f6d130536051b",
     "_type": "component",
-    "body": "<p dir=\"ltr\">All staff must apply the GDPR globally when processing any personal data (eg staff information and that of external/customers) - wherever you are based or whatever the nationality of the individual whose data you are processing.</p><p>Even if you&rsquo;re in a department or post that does not process large amounts of personal data, it&rsquo;s likely that at some point you&rsquo;ll handle personal data &ndash; such as receiving appraisals as a member of a hiring panel or compiling a guest list/sending out invitations for an event.</p>",
+    "body": "<p dir=\"ltr\">All staff must apply the GDPR globally when processing any personal data (eg staff information and that of external/customers) - wherever you are based or whatever the nationality of the individual whose data you are processing.</p><p>Even if you are in a department or post that does not process large amounts of personal data, it is likely that at some point you will handle personal data &ndash; such as receiving appraisals as a member of a hiring panel or compiling a guest list/sending out invitations for an event.</p>",
     "displayTitle": "Who needs to apply the GDPR?",
     "title": "Who needs to apply the GDPR?",
     "_isAvailable": true,
@@ -3362,7 +3362,7 @@
     "_layout": "left",
     "_parentId": "5ae350b07f0f6d1305360521",
     "_type": "component",
-    "body": "<p dir=\"ltr\">The new Data Protection bill which includes the GDPR, comes into UK law on 25 May 2018. Retaining a GDPR-equivalent standard on data protection after the UK leaves the EU will:</p><ul dir=\"ltr\"><li>ensure a gold standard on individual rights around their data: and</li><li>support the continued free flow of data which is critical to our digital economy.</li></ul>",
+    "body": "<p dir=\"ltr\">The new Data Protection bill that&nbsp;includes the GDPR, comes into UK law on 25 May 2018. Retaining a GDPR-equivalent standard on data protection after the UK leaves the EU will:</p><ul dir=\"ltr\"><li>ensure a gold standard on individual rights around their data;&nbsp;and</li><li>support the continued free flow of data which is critical to our digital economy.</li></ul>",
     "displayTitle": "What happens when we Brexit?",
     "title": "What happens when we Brexit?",
     "_isAvailable": true,
@@ -3516,7 +3516,7 @@
     "_items": [
       {
         "title": "Data Protection Officer",
-        "body": "<p>he GDPR requires public authorities to appointment a Data Protection Officer (DPO). &nbsp;The FCO&rsquo;s DPO operates independently of our internal hierarchy and reports to the PUS.&nbsp;</p><p>DPOs monitor internal compliance, inform and advise on data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p>",
+        "body": "<p>The GDPR requires public authorities to appointment a Data Protection Officer (DPO). &nbsp;The FCO&rsquo;s DPO operates independently of our internal hierarchy and reports to the PUS.&nbsp;</p><p>DPOs monitor internal compliance, inform and advise on data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p>",
         "_graphic": {
           "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
           "alt": "",
@@ -3638,7 +3638,7 @@
       },
       {
         "title": "Right to data portability",
-        "body": "<p>The GDPR introduces a new data portability right &ndash; the right for an individual to receive personal data they have provided to the FCO or that has been gathered automatically by us. This must be provided in a commonly-used and machine readable format. Additionally the individual has the right to request that the data is transmitted directly to another organisation.</p>",
+        "body": "<p>The GDPR introduces a new data portability right &ndash; the right for an individual to receive personal data they have provided to the FCO or that has been gathered automatically by us. This must be provided in a commonly-used and machine readable format. Additionally the individual has the right to request that the data is transmitted directly to another organisation.</p><p>The &quot;improving data quality&quot; module (available in GLO as part of the FCO data skills course) contains&nbsp;further&nbsp;information on providing data in the correct format.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
