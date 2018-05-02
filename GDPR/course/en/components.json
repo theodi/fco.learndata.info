@@ -141,9 +141,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/e0a67603c92c095934fa00f0787306bac2d672e1.jpg",
+      "small": "course/en/assets/e0a67603c92c095934fa00f0787306bac2d672e1.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -938,7 +938,7 @@
         "feedback": ""
       },
       {
-        "text": "Very small print",
+        "text": "Too short",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -2897,7 +2897,7 @@
         "feedback": ""
       },
       {
-        "text": "It should ask for printed name as well as signature",
+        "text": "Not enough use of colour",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -2980,12 +2980,12 @@
         "feedback": ""
       },
       {
-        "text": "It should ask for printed name as well as signature",
+        "text": "Too short",
         "_shouldBeSelected": false,
         "feedback": ""
       },
       {
-        "text": "The company address must be included",
+        "text": "A link to this training should be included",
         "_shouldBeSelected": false,
         "feedback": ""
       }
@@ -3058,7 +3058,7 @@
         "feedback": ""
       },
       {
-        "text": "Any EU country or third country approved by the EU as being GDPR compliant",
+        "text": "Any third country approved by the European Commission that offers an adequate level of data protection",
         "_shouldBeSelected": true,
         "feedback": ""
       },
@@ -3834,9 +3834,9 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "small": "course/en/assets/647bc36a181b6051c7606c3f90d785a03671901c.png",
-      "attribution": "<a href=\"https://www.nexor.com/wp/wp-content/uploads/2017/03/Enabling-Secure-Information-Exchange-in-Cloud-environments-white-paper-diagram-1.png\" target=\"_blank\">Nexor</a> <span class='assetLicence'>[All rights reserved]</span>"
+      "large": "course/en/assets/e0a67603c92c095934fa00f0787306bac2d672e1.jpg",
+      "small": "course/en/assets/e0a67603c92c095934fa00f0787306bac2d672e1.jpg",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
