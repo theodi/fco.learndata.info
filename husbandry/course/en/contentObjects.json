@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Better decisions | Increased privacy",
+    "displayTitle": "Better decisions | Increased privacy",
+    "body": "<p>With the introduction of the GDPR, there are still many questions about how personal data can be shared and used within the FCO. The FCO operates in many different countries where there are different approaches to personal data protection &ndash; so there is still the need to understand how to minimise the risk to personal data, while being able to make better use of other data to support FCO activities. &nbsp; &nbsp; &nbsp;</p><p>This module will enable learners to make better and wider use of data whilst ensuring compliance with data protection legislation.&nbsp;</p>",
+    "_classes": "",
+    "pageBody": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c40838345b2a405475b2752",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/36d1de1b054024e2de84107d77635ba99e5e732d.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Describe how other sectors are embracing the opportunities offered by GDPR",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "List the 5 key opportunities offered by GDPR for the public sector"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Understand how to position GDPR as an opportunity (rather than a compliance issue) in your organisation"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    }
+  }
+]

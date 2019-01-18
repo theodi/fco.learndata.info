@@ -1,0 +1,998 @@
+[
+  {
+    "_component": "media-autoplay",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming our fears",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40c2d945b2a405475b281d",
+    "_parentId": "5c40c2d845b2a405475b281b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/f1642b030cb4459ace80d932c8e8c6272d817705.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_autoPlay": true,
+    "_autoPlayOnce": true,
+    "_useClosedCaptions": false,
+    "_showCaptionsButton": false,
+    "_closedCaptionsIcon": "icon-cc",
+    "closedCaptionsNoneButton": "None",
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_showReplayOverlay": true,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_videoInstruction": {
+      "_isEnabled": false,
+      "_position": 75,
+      "_hideOnRevisit": false,
+      "_first": {
+        "start": "",
+        "end": ""
+      },
+      "_revisit": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "_transcript": {
+      "_isEnabled": false,
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptTitle": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": {
+      "defaultVideoHeight": 480,
+      "autoRewind": false,
+      "features": [],
+      "enableKeyboard": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The value of a good data infrastructure for FCO",
+    "displayTitle": "The value of a good data infrastructure for FCO",
+    "body": "<p>In December 2017, the UK National Infrastructure Commission <a href=\"https://theodi.org/article/odi-welcomes-uk-national-infrastructure-commission-recognition-that-data-is-infrastructure/\" target=\"_blank\">recognised data as part of the UK&rsquo;s key infrastructure</a>. Data is as important as our road, railway and energy networks and should be treated as such.</p><p>Data also plays an important role within a modern diplomatic service. &nbsp;Good knowledge management is important for generating insights and intelligence, designing better public-facing services (eg up to date travel advice), ensuring proper resourcing, and informing better decisions.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c40838345b2a405475b2763",
+    "_layout": "left",
+    "_parentId": "5c40838345b2a405475b2756",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming our fears (hoarding)",
+    "displayTitle": "",
+    "body": "<p>To overcome fears of hoarding we advocate&nbsp;for and support applying an <strong>open culture</strong> to the three pillars of how data is used. An open culture can be supported through:</p><ul><li>A data infrastructure that is as open as possible</li><li>Data literacy and capability for all</li><li>Taking an open approach to innovation</li></ul>",
+    "instruction": "",
+    "_id": "5c40c1ff45b2a405475b2817",
+    "_parentId": "5c40c1ff45b2a405475b2816",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "media-autoplay",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when we hoard data?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40b83245b2a405475b2806",
+    "_parentId": "5c40895745b2a405475b27fa",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/7b7e12ae196093fe2c76171c76ad7450fa5092f1.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_autoPlay": true,
+    "_autoPlayOnce": true,
+    "_useClosedCaptions": false,
+    "_showCaptionsButton": false,
+    "_closedCaptionsIcon": "icon-cc",
+    "closedCaptionsNoneButton": "None",
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_showReplayOverlay": true,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_videoInstruction": {
+      "_isEnabled": false,
+      "_position": 75,
+      "_hideOnRevisit": false,
+      "_first": {
+        "start": "",
+        "end": ""
+      },
+      "_revisit": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "_transcript": {
+      "_isEnabled": false,
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptTitle": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": {
+      "defaultVideoHeight": 480,
+      "autoRewind": false,
+      "features": [],
+      "enableKeyboard": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Are you ready to make better and wider use of data?",
+    "displayTitle": "Are you ready to make better and wider use of data?",
+    "body": "<p><a class=\"button\" href=\"#\">Test your knowledge of what you have learnt with this short quiz.</a></p>",
+    "instruction": "",
+    "_id": "5c418e19b772300531e3683c",
+    "_parentId": "5c418de5b772300531e3683b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "media-autoplay",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming our fears (hoarding)",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40c1ff45b2a405475b2818",
+    "_parentId": "5c40c1ff45b2a405475b2816",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/feadefc9b3b879c6b16e71342b38e262a563207f.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_autoPlay": true,
+    "_autoPlayOnce": true,
+    "_useClosedCaptions": false,
+    "_showCaptionsButton": false,
+    "_closedCaptionsIcon": "icon-cc",
+    "closedCaptionsNoneButton": "None",
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_showReplayOverlay": true,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_videoInstruction": {
+      "_isEnabled": false,
+      "_position": 75,
+      "_hideOnRevisit": false,
+      "_first": {
+        "start": "",
+        "end": ""
+      },
+      "_revisit": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "_transcript": {
+      "_isEnabled": false,
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptTitle": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": {
+      "defaultVideoHeight": 480,
+      "autoRewind": false,
+      "features": [],
+      "enableKeyboard": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>For many, GDPR is perceived as being all about compliance. Rather it should be seen as an opportunity to address concerns and lead to better stewardship of all data, not just personal data. It provides an opportunity for organisations to assess their data strategy and implement policies that maximise value.&nbsp;</p><p>Using GDPR as a lever to improve the way we manage data will help overcome concerns about sharing data while at the same time moving away from the oil field. GDPR provides rights to individuals that will help you engage and inform people about what is being done with personal data, thus building trust and overcoming fears. The FCO informs people how it handles their personal data through the publication of <a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/personal-information-charter\" target=\"_blank\">Privacy Notices</a> on our .gov.uk pages.&nbsp;</p><p>Using GDPR as a catalyst for change can lead to opportunities to future proof data management and IT of all data (not just personal).&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c417e1db772300531e36830",
+    "_parentId": "5c417d17b772300531e3682e",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Are you ready to make better and wider use of data?",
+    "displayTitle": "",
+    "body": "<p>You can create impact from data through its positive use. This can be to help create products and services, analyses and insights, or stories and visualisations. Importantly this use can lead us to better decisions and policy-making.&nbsp;</p><p>All of these uses rely on the good management, stewarding and sharing of data as openly as possible. The FCO has a role in each of these activities and should act in ways that lead to the best social and economic gains for everyone.&nbsp;</p><ul></ul>",
+    "instruction": "",
+    "_id": "5c40838345b2a405475b2775",
+    "_layout": "left",
+    "_parentId": "5c40838345b2a405475b275f",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when we hoard data?",
+    "displayTitle": "",
+    "body": "<p>A lack of cultural willingness to share the data, even in instances where the government and FCO are already committed leads to data hoarding.&nbsp;</p><p>We call this scenario the <strong>oil field</strong> because data is treated like oil. Its value is only realised by a few organisations and there are negative side-effects from its use that can affect society as a whole.</p><p>The desired cultural change takes time, but there are levers than can help.</p><p>Before discovering these lets look at another challenge...</p>",
+    "instruction": "",
+    "_id": "5c40898145b2a405475b27fc",
+    "_parentId": "5c40895745b2a405475b27fa",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data management: practical steps",
+    "displayTitle": "",
+    "body": "<p>Good data management starts with understanding the size of the task. To do this we can go back to the definition of <a href=\"https://theodi.org/topic/data-infrastructure/\" target=\"_blank\">data infrastructure</a>. &nbsp;A strong data infrastructure consists of three main parts:</p><ul><li><strong>data assets</strong> e.g. datasets collected and created, and analysis carried out on them</li><li>the <strong>organisations</strong> that operate and maintain those assets and technologies</li><li>the <strong>technologies and processes</strong> that allow those assets to be accessed, used and shared by those who could benefit.</li></ul>",
+    "instruction": "",
+    "_id": "5c418438b772300531e3683a",
+    "_parentId": "5c418203b772300531e36838",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c418e32b772300531e3683d",
+    "_parentId": "5c418de5b772300531e3683b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when we fear data?",
+    "displayTitle": "",
+    "body": "<p>There is a danger that unaddressed fears arising from legitimate concerns &ndash; such as who has access to data, the quality of the data and fears over&nbsp;how it might be used &ndash; prevent us from realising its full benefits.</p><p>We call this scenario the <strong>wasteland</strong> because we end up lacking the data that could support legitimate and valuable uses. Data is an incredibly useful commodity and we can all benefit when it is used well but will need to overcome our fears.&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c40be0845b2a405475b2810",
+    "_parentId": "5c40be0745b2a405475b280f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Focusing on positive impacts",
+    "displayTitle": "",
+    "body": "<p>You can create an impact from data by:&nbsp;</p><p>●&nbsp;&nbsp; &nbsp;collecting it, maintaining it and sharing it</p><p>●&nbsp;&nbsp; &nbsp;creating information from that data &ndash; in the form of products and services, analyses and insights, or stories and visualisations</p><p>●&nbsp;&nbsp; &nbsp;using it for decisions and policy-making&nbsp;</p><p>The FCO has a role in each of these activities. It is an important steward of data, holding a huge range of data assets from successful programmes and projects to data on the public-facing services we provide (eg Consular).&nbsp;</p><p>To maximise value from data, we should act in ways that lead to the best social and economic outcomes for everyone. Part of this will involve the sharing of data with others.&nbsp;</p><p>First however there are challenges to be overcome.</p><p>Click right to find out more</p>",
+    "instruction": "",
+    "_id": "5c40893345b2a405475b27f9",
+    "_parentId": "5c4088fd45b2a405475b27f7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "media-autoplay",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Focusing on positive impacts",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40b8ea45b2a405475b2809",
+    "_parentId": "5c4088fd45b2a405475b27f7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/92a3c74fcb12f50411f1cbc33fc7261018d9c386.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "course/en/assets/039cd0c4af13db04edb1312be83c8817419a9e77.png",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_autoPlay": true,
+    "_autoPlayOnce": true,
+    "_useClosedCaptions": false,
+    "_showCaptionsButton": false,
+    "_closedCaptionsIcon": "icon-cc",
+    "closedCaptionsNoneButton": "None",
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_showReplayOverlay": true,
+    "_startVolume": null,
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_videoInstruction": {
+      "_isEnabled": false,
+      "_position": 75,
+      "_hideOnRevisit": false,
+      "_first": {
+        "start": "",
+        "end": ""
+      },
+      "_revisit": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "_transcript": {
+      "_isEnabled": false,
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptTitle": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": {
+      "defaultVideoHeight": 480,
+      "autoRewind": false,
+      "features": [],
+      "enableKeyboard": false,
+      "hideVideoControlsOnPause": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_id": "5c40838345b2a405475b2762",
+    "_layout": "right",
+    "_parentId": "5c40838345b2a405475b2760",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "ticks",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Better decisions | Increased privacy",
+    "displayTitle": "",
+    "body": "<p>With the introduction of the GDPR, there are still many questions about how personal data can be shared and used within the FCO. The FCO operates in many different countries where there are different approaches to personal data protection &ndash; so there is still the need to understand how to minimise the risk to personal data, while being able to make better use of other data to support FCO activities. &nbsp; &nbsp; &nbsp;</p><p>This module will enable learners to make better and wider use of data whilst ensuring compliance with data protection legislation. &nbsp;</p><p>This lesson explores:</p><ul><li>The value of a good data infrastructure for FCO</li><li>How impact is created from data and what the challenges are</li><li>How GDPR is an opportunity, not just a compliance exercise</li><li>How data can be made as open as possible</li><li>Addressing privacy and ethical concerns</li><li>Practical next steps</li></ul>",
+    "instruction": "",
+    "_id": "5c40838345b2a405475b2761",
+    "_layout": "left",
+    "_parentId": "5c40838345b2a405475b2760",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c41e3d0b772300531e36850",
+    "_parentId": "5c417d17b772300531e3682e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "small": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How data can be made as open as possible",
+    "displayTitle": "",
+    "body": "<p>The GDPR helps by providing a standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EU. The first step to the FCO sharing data more widely is understanding the data assets we hold and how they are used. For personal data, we do this through data mapping which helps us understand how we can share data in the right way. For other data we need to share data in a number of ways, including;</p><ul><li>internally, so the right teams have the information they need</li><li>with other UK government departments</li><li>globally, with other governments across the world</li><li>with external partners</li><li>with the public</li></ul>",
+    "instruction": "",
+    "_id": "5c417e6ab772300531e36831",
+    "_parentId": "5c417de9b772300531e3682f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "media-autoplay",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when we fear data?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40be0845b2a405475b2811",
+    "_parentId": "5c40be0745b2a405475b280f",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_media": {
+      "mp4": "course/en/assets/9820e008015beb25b977e4f805211bac53720fa5.mov",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_autoPlay": true,
+    "_autoPlayOnce": true,
+    "_useClosedCaptions": false,
+    "_showCaptionsButton": false,
+    "_closedCaptionsIcon": "icon-cc",
+    "closedCaptionsNoneButton": "None",
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_showReplayOverlay": true,
+    "_startVolume": "0%",
+    "_allowFullScreen": false,
+    "_playsinline": false,
+    "_videoInstruction": {
+      "_isEnabled": false,
+      "_position": 75,
+      "_hideOnRevisit": false,
+      "_first": {
+        "start": "",
+        "end": ""
+      },
+      "_revisit": {
+        "start": "",
+        "end": ""
+      }
+    },
+    "_transcript": {
+      "_isEnabled": false,
+      "_setCompletionOnView": false,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptTitle": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": {
+      "defaultVideoHeight": 480,
+      "autoRewind": false,
+      "features": [],
+      "enableKeyboard": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>There are challenges to this, be it regulatory, cultural or based on legitimate fears. Regulatory requirements, such as the GDPR, also represent opportunities for better management of all data, not just personal data.&nbsp;</p><p>The FCO already has in place policies that ensure data is as open as possible as well as educational materials that can help you understand topics including:</p><ul><li>&nbsp;Openness and transparency in the FCO</li><li>The role of data in the FCO</li><li>Getting started with publishing sustainable open data</li><li>Improving the quality of data</li></ul>",
+    "instruction": "",
+    "_id": "5c41e1aeb772300531e3684b",
+    "_parentId": "5c40838345b2a405475b275f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": " Addressing privacy and ethical concerns",
+    "displayTitle": " Addressing privacy and ethical concerns",
+    "body": "",
+    "instruction": "",
+    "_id": "5c41810db772300531e36835",
+    "_parentId": "5c418043b772300531e36833",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Privacy by design",
+        "body": "<p>The GDPR makes it much easier to share and transfer data within the EU than before. The Privacy by Design aspect of GDPR is a good opportunity to embed some of this thinking and consideration into existing FCO processes. &nbsp;A variety of factors should be incorporated into the decision making on what FCO shares and with whom. Factors include whether FCO has the right to share the data (intellectual property), whether there is any personal or sensitive data that needs protecting or whether there is a risk to national security.</p>",
+        "_graphic": {
+          "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/132053576@N03/17765606909/\" target=\"_blank\">Owen Moore</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Privacy by design"
+      },
+      {
+        "title": "Data ethics",
+        "body": "<p>Tools like the <a href=\"https://theodi.org/article/data-ethics-canvas/\" target=\"_blank\">data ethics canvas</a> from the Open Data Institute are designed to help identify potential ethical issues associated with a data project or activity. It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically. One such example is where the balancing test, considering which ethical factors outweigh others, preventing the sharing of data between the NHS and Home Office in order to&nbsp;<a href=\"https://www.independent.co.uk/news/health/nhs-patient-data-immigrant-uk-government-hostile-environment-information-a8343681.html\" target=\"_blank\">trace minor immigration infractions</a>. &nbsp;The data ethics canvas can also help to show where the positives of sharing a particular dataset can outweigh the perceived negative effects.</p>",
+        "_graphic": {
+          "src": "course/en/assets/0046371e600da47ea29e4084115c22e8d2ab92de.png",
+          "alt": "",
+          "attribution": "ODI <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Data ethics canvas"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c40838345b2a405475b2764",
+    "_layout": "right",
+    "_parentId": "5c40838345b2a405475b2756",
+    "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
+      "small": "course/en/assets/91627e27077a28d5edb249153a308ab66f3af1b0.png",
+      "attribution": "<a href=\"https://www.flickr.com/photos/aigle_dore/5849712695\" target=\"_blank\">Moyan Brenn</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming our fears",
+    "displayTitle": "",
+    "body": "<p>Data is an incredibly useful commodity and we can all benefit when it is used well. This can be achieved by putting in place practices that ensure the way data is collected and used is trustworthy and just.</p><p>These include:</p><p>●&nbsp;&nbsp; &nbsp;building in ethical considerations to data collection, management and use</p><p>●&nbsp;&nbsp; &nbsp;ensuring that there is equity around who accesses, uses and benefits from data</p><p>●&nbsp;&nbsp; &nbsp;engaging widely with people and organisations who are affected.</p>",
+    "instruction": "",
+    "_id": "5c40c2d845b2a405475b281c",
+    "_parentId": "5c40c2d845b2a405475b281b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Data management: practical steps",
+    "displayTitle": "",
+    "body": "<p>A practical way to do this is to follow the principals outlined in the sections below.</p>",
+    "instruction": "",
+    "_id": "5c418238b772300531e36839",
+    "_parentId": "5c418203b772300531e36838",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Think about what...",
+        "body": "<p><strong>data do you have?</strong></p><p>Everything starts here, we need to know what data is held before it is possible to think about how it should be managed.</p><p><strong>mechanisms allow this data to be discovered?</strong></p><p>Is there a well managed data catalogues? Can both internal actors as well as the public access the required parts of the catalogue?</p><p><strong>legal rights and obligations you have?</strong></p><p>Does the FCO already have obligations relating to this data? Are there any third party rights or individual rights in the data? What is the lawful basis under the GDPR for holding and processing the data? If outside of the scope of the GDPR what are the data protection regulations and are they as strong as the GDPR (<a href=\"https://www.dlapiperdataprotection.com/index.html\" target=\"_blank\">this handy tool</a>&nbsp;compares data protection regulations around the world)?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Think about who...",
+        "body": "<p><strong>needs the data, and for what</strong></p><p>If the data is about&nbsp;individuals then a lawful basis will be required for its collection and processing.&nbsp;</p><p>You might need to carry out a number of balancing tests to evaluate the benefits and risks of processing and sharing the data.&nbsp;</p><p><strong>is responsible for the data?&nbsp;</strong></p><p>Who resources it&rsquo;s collection or signs off on sharing? Who is responsible for the&nbsp;data protection impact assessment?</p><p><strong>could be impacted by your processing or sharing the data?</strong></p><p>Even if the data is non personal, there could be ethical issues related to the collection, sharing and use of the data.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Think about when...",
+        "body": "<p><strong>you need to update the data</strong></p><p>Are there any requirements to update the data, for example through a monthly publication? Does the data meet requirements of guidelines and standards relating to the data? Does the data need updating to ensure longevity of use?&nbsp;Are new regulations affecting the way data should be stored and processed?&nbsp;&nbsp;</p><p><strong>you can publish the data</strong></p><p>What is the earliest point the data can be published? Can this be automated and make part of the business as usual process?</p><p><strong>you need to delete the data</strong></p><p>Are there regulations and guidelines that dictate how long data can be retained? Does the data have a lifecycle? Following a data minimisation approach, as encouraged by the GDPR, if the data is personal and no longer required then it should be deleted.</p><p><strong>you will need to train staff</strong></p><p>Are there regular opportunities for staff to improve their data literacy? Is time allocated for staff to apply learning in their roles?</p><p><strong>you will audit how you are managing the data</strong></p><p><strong>you need to review and update your policies</strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Think about how...",
+        "body": "<p><strong>long you need to keep the data for</strong></p><p>There may be legal obligations relating both to the retaining and disposal of data. If not, what data retention policy will be applied to the data?</p><p><strong>you store the data</strong></p><p>Where is the data stored physically? What security provisions are there that allow the correct access&nbsp;to the data? Are backups taken and tested regularly?&nbsp;</p><p>What formats and standards are used to store and share the data? Are these monitored to ensure future proofing?</p><p><strong>you ensure it is shared as widely as possible while still protecting people from harmful impacts</strong></p><p>Is the data as open as possible (the <a href=\"https://theodi.org/about-the-odi/the-data-spectrum/\" target=\"_blank\">ODI Data Spectrum</a> can help here)? Can personal data be anonymised so it can be shared more widely while reducing risk?</p><p><strong>you describe the data&nbsp;</strong></p><p>Can others understand why it is collected and how it is currently processed (and managed)? Can others understand what it is and isn&#39;t suitable for? Is the quality of the data well described? Are there any other caveats relating to the data?</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "<p>The FCO publishes the following data under core corporate commitments that are common to all central government departments. &nbsp;</p>",
+    "instruction": "",
+    "_id": "5c417f4eb772300531e36832",
+    "_parentId": "5c417de9b772300531e3682f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "title": "Financial and Procurement datasets",
+        "body": "<p>Monthly spend transactions over &pound;25k</p><p>Monthly GPC transactions over &pound;500&nbsp;</p><p>All tenders over &pound;10,000&nbsp;</p><p>All Contracts, tender opportunities and contract award notices over &pound;10k</p><p>Annual Major Projects data</p><p>Quarterly Spend Control data (exceptions and exemptions reporting)</p><p>Quarterly Prompt Payment and Performance data</p><p>FCO Overseas Development Aid</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Proprietary and Ethics Publications",
+        "body": "<p>FCO Ministers Overseas Travel</p><p>FCO Ministers Hospitality received</p><p>FCO Ministers gifts received over the value of &pound;140</p><p>FCO Ministers Meetings with External Organisations</p><p>FCO Special Adviser&rsquo;s Meetings with Newspaper and other Media Proprietors, Editors and Senior Executives</p><p>FCO Special Adviser&rsquo;s Hospitality Received</p><p>FCO Special Adviser&rsquo;s Gifts Received</p><p>FCO Permanent Under Secretary Meetings with External Organisations</p><p>FCO Senior Staff Travel and Expenses</p><p>FCO Senior Staff Hospitality Received and Given</p><p>FCO Senior Staff Gifts Received</p><p>FCO Business Appointment Rules Decisions</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Management Information",
+        "body": "<p>HR Management Information</p><p>FCO Organogram</p><p>Non-consolidated performance related payments</p><p>Diversity and Equality Report data</p><p>FCO Counter Fraud Loses</p><p>Trade Union Facility Time Publication Regulations Data</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false
+  }
+]
