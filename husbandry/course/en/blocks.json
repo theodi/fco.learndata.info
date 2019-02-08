@@ -23,18 +23,18 @@
     }
   },
   {
-    "title": "How GDPR is an opportunity, not just a compliance exercise",
-    "displayTitle": "How GDPR is an opportunity, not just a compliance exercise",
+    "title": "Infrastructure question",
+    "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
+    "_classes": "inverted color-one",
     "_trackingId": 2,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5c417d17b772300531e3682e",
-    "_parentId": "5c417d17b772300531e3682d",
+    "_id": "5c5d884a4b35e4052cb8a960",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -69,11 +69,80 @@
     }
   },
   {
+    "title": "Results",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "footer inverted ",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5dadf34b35e4052cb8a990",
+    "_parentId": "5c5dadf34b35e4052cb8a98f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Test your knowledge",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5dacff4b35e4052cb8a989",
+    "_parentId": "5c5dacfe4b35e4052cb8a988",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Section header",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "section-banner color-two inverted",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5d8b424b35e4052cb8a968",
+    "_parentId": "5c417d17b772300531e3682d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "Focusing on positive impacts",
     "displayTitle": "Focusing on positive impacts",
     "body": "",
     "_classes": "",
-    "_trackingId": 4,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -92,18 +161,41 @@
     }
   },
   {
-    "title": "How data can be made as open as possible",
-    "displayTitle": "How data can be made as open as possible",
+    "title": "Using GDPR as an opportunity",
+    "displayTitle": "Using GDPR as an opportunity",
     "body": "",
-    "_classes": "color-one",
-    "_trackingId": 5,
+    "_classes": "color-two",
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5c417de9b772300531e3682f",
+    "_id": "5c417d17b772300531e3682e",
     "_parentId": "5c417d17b772300531e3682d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Overcoming fears questions",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5d888a4b35e4052cb8a963",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -119,7 +211,7 @@
     "displayTitle": "What happens when we hoard data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 6,
+    "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -142,7 +234,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "inverted color-one",
-    "_trackingId": 7,
+    "_trackingId": 11,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -161,11 +253,57 @@
     }
   },
   {
+    "title": "Understanding what infrastructure you manage",
+    "displayTitle": "Understanding what infrastructure you manage",
+    "body": "",
+    "_classes": "color-two inverted",
+    "_trackingId": 12,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c417de9b772300531e3682f",
+    "_parentId": "5c417d17b772300531e3682d",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Overcoming hoarding question",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "inverted color-one",
+    "_trackingId": 13,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5d88a74b35e4052cb8a964",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": "What happens when we fear data?",
     "displayTitle": "What happens when we fear data?",
     "body": "",
     "_classes": "",
-    "_trackingId": 8,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -184,11 +322,34 @@
     }
   },
   {
+    "title": "Benefits of GDPR question",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 15,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5d88bc4b35e4052cb8a965",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
     "title": " Addressing privacy and ethical concerns",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
-    "_trackingId": 9,
+    "_classes": "color-two",
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -207,34 +368,11 @@
     }
   },
   {
-    "title": "Data management: practical steps",
-    "displayTitle": "Data management: practical steps",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 10,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5c418203b772300531e36838",
-    "_parentId": "5c417d17b772300531e3682d",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
     "title": "Overcoming our fears",
     "displayTitle": "Overcoming our fears",
     "body": "",
     "_classes": "",
-    "_trackingId": 11,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -253,17 +391,40 @@
     }
   },
   {
-    "title": "Are you ready?",
+    "title": "Tools question",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-two inverted section-banner",
-    "_trackingId": 12,
+    "_classes": "inverted color-two",
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5c418de5b772300531e3683b",
+    "_id": "5c5d8aef4b35e4052cb8a967",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Building a strong data infrastructure: practical steps",
+    "displayTitle": "Building a strong data infrastructure: practical steps",
+    "body": "",
+    "_classes": "inverted color-two",
+    "_trackingId": 19,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c418203b772300531e36838",
     "_parentId": "5c417d17b772300531e3682d",
     "_type": "block",
     "_onScreen": {
@@ -280,7 +441,7 @@
     "displayTitle": "Combatting hoarding",
     "body": "",
     "_classes": "",
-    "_trackingId": 13,
+    "_trackingId": 20,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -288,6 +449,52 @@
     "_isVisible": true,
     "_id": "5c40c1ff45b2a405475b2816",
     "_parentId": "5c4088fd45b2a405475b27f6",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Parts of an infrastructure question",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c5d8e5b4b35e4052cb8a972",
+    "_parentId": "5c5d884a4b35e4052cb8a95f",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Are you ready?",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-two section-banner",
+    "_trackingId": 22,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_id": "5c418de5b772300531e3683b",
+    "_parentId": "5c417d17b772300531e3682d",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,

@@ -92,106 +92,146 @@ Handlebars.registerPartial("state", Handlebars.template({"1":function(container,
     + "</div>";
 },"useData":true}));
 
-Handlebars.registerPartial("buttons", Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=container.lambda;
+Handlebars.registerPartial("devtoolsMapMenu", Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, options, buffer = "";
 
-  return "<button class=\"base button submit\">\n    <span>  \n        "
-    + ((stack1 = alias1(((stack1 = (depth0 != null ? depth0._buttons : depth0)) != null ? stack1.submit : stack1), depth0)) != null ? stack1 : "")
-    + " \n    </span>\n</button>\n<button class=\"base button reset\">\n    <span>\n        "
-    + ((stack1 = alias1(((stack1 = (depth0 != null ? depth0._buttons : depth0)) != null ? stack1.reset : stack1), depth0)) != null ? stack1 : "")
-    + " \n    </span>\n</button> \n<button class=\"base button model\">\n    <span> \n        "
-    + ((stack1 = alias1(((stack1 = (depth0 != null ? depth0._buttons : depth0)) != null ? stack1.showCorrectAnswer : stack1), depth0)) != null ? stack1 : "")
-    + " \n    </span>\n</button>\n<button class=\"base button user\">\n    <span>\n        "
-    + ((stack1 = alias1(((stack1 = (depth0 != null ? depth0._buttons : depth0)) != null ? stack1.hideCorrectAnswer : stack1), depth0)) != null ? stack1 : "")
-    + " \n    </span>\n</button>\n";
-},"useData":true}));
-
-Handlebars.registerPartial("component", Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
-
-  return "        <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-title component-title\">\n            <div role=\"heading\" tabindex=\"0\" class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-title-inner component-title-inner\"  aria-level=\"4\">\n                "
-    + ((stack1 = ((helper = (helper = helpers.displayTitle || (depth0 != null ? depth0.displayTitle : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"displayTitle","hash":{},"data":data}) : helper))) != null ? stack1 : "")
-    + "\n            </div>\n        </div>\n";
-},"3":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
-
-  return "        <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-body component-body\">\n            <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-body-inner component-body-inner\">\n                "
-    + ((stack1 = (helpers.a11y_text || (depth0 && depth0.a11y_text) || alias2).call(alias1,(depth0 != null ? depth0.body : depth0),{"name":"a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n            </div>\n        </div>\n";
-},"5":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
-
-  return "        <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-instruction component-instruction\">\n            <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-instruction-inner component-instruction-inner\">\n                "
-    + ((stack1 = (helpers.a11y_text || (depth0 && depth0.a11y_text) || alias2).call(alias1,(depth0 != null ? depth0.instruction : depth0),{"name":"a11y_text","hash":{},"data":data})) != null ? stack1 : "")
-    + "\n            </div>\n        </div>\n";
-},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
-    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=container.escapeExpression;
-
-  return "<div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-header component-header\">\n    <div class=\""
-    + alias4(((helper = (helper = helpers._component || (depth0 != null ? depth0._component : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_component","hash":{},"data":data}) : helper)))
-    + "-header-inner component-header-inner\">\n\n"
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.displayTitle : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "        \n"
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.body : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "        \n"
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0.instruction : depth0),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "\n    </div>\n</div>\n";
-},"useData":true}));
-
-Handlebars.registerPartial("state", Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.escapeExpression;
-
-  return "		<span tabindex=\"0\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-complete\">"
-    + alias2((helpers.a11y_normalize || (depth0 && depth0.a11y_normalize) || helpers.helperMissing).call(alias1,(depth0 != null ? depth0.displayTitle : depth0),{"name":"a11y_normalize","hash":{},"data":data}))
-    + " "
-    + alias2(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.complete : stack1), depth0))
-    + " "
-    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._isQuestionType : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
-    + "</span>\n";
+  stack1 = ((helper = (helper = helpers.isMenu || (depth0 != null ? depth0.isMenu : depth0)) != null ? helper : helpers.helperMissing),(options={"name":"isMenu","hash":{},"fn":container.program(2, data, 0),"inverse":container.program(9, data, 0),"data":data}),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),options) : helper));
+  if (!helpers.isMenu) { stack1 = helpers.blockHelperMissing.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  return buffer;
 },"2":function(container,depth0,helpers,partials,data) {
-    var stack1;
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3=container.escapeExpression;
 
-  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._canShowFeedback : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
+  return "		<div class=\"devtools-map-menu"
+    + ((stack1 = helpers["if"].call(alias1,(data && data.last),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n			<a href=\"#"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "\" class=\"devtools-map-menu-title"
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isComplete",{"name":"when","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isOptional",{"name":"when","hash":{},"fn":container.program(7, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n				<span class=\"devtools-map-abc-id\">"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n	            <span class=\"devtools-map-abc-label\">"
+    + alias3(((helper = (helper = helpers.getTitle || (depth0 != null ? depth0.getTitle : depth0)) != null ? helper : alias2),(typeof helper === "function" ? helper.call(alias1,{"name":"getTitle","hash":{},"data":data}) : helper)))
+    + "</span>\n			</a>\n			<div class=\"devtools-map-menu-items\">\n"
+    + ((stack1 = container.invokePartial(partials.devtoolsMapMenu,depth0,{"name":"devtoolsMapMenu","data":data,"indent":"\t\t\t\t","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "			</div>\n		</div>\n";
 },"3":function(container,depth0,helpers,partials,data) {
+    return " last";
+},"5":function(container,depth0,helpers,partials,data) {
+    return " devtools-map-completed";
+},"7":function(container,depth0,helpers,partials,data) {
+    return " devtools-map-optional";
+},"9":function(container,depth0,helpers,partials,data) {
     var stack1;
 
-  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isCorrect : depth0),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.program(6, data, 0),"data":data})) != null ? stack1 : "");
-},"4":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.correct : stack1), depth0));
-},"6":function(container,depth0,helpers,partials,data) {
-    var stack1;
-
-  return container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.incorrect : stack1), depth0));
-},"8":function(container,depth0,helpers,partials,data) {
-    var stack1, alias1=container.escapeExpression;
-
-  return "		<span tabindex=\"0\" role=\"region\" class=\"aria-label a11y-ignore-focus prevent-default\" id=\"buttons-aria-label-incomplete\">"
-    + alias1((helpers.a11y_normalize || (depth0 && depth0.a11y_normalize) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.displayTitle : depth0),{"name":"a11y_normalize","hash":{},"data":data}))
-    + " "
-    + alias1(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.incomplete : stack1), depth0))
-    + "</span>\n";
+  return ((stack1 = container.invokePartial(partials.devtoolsMapPage,depth0,{"name":"devtoolsMapPage","data":data,"indent":"\t\t","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "");
 },"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, options;
+
+  stack1 = ((helper = (helper = helpers.eachChild || (depth0 != null ? depth0.eachChild : depth0)) != null ? helper : helpers.helperMissing),(options={"name":"eachChild","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data}),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),options) : helper));
+  if (!helpers.eachChild) { stack1 = helpers.blockHelperMissing.call(depth0,stack1,options)}
+  if (stack1 != null) { return stack1; }
+  else { return ''; }
+},"usePartial":true,"useData":true}));
+
+Handlebars.registerPartial("devtoolsMapPage", Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    return " last";
+},"3":function(container,depth0,helpers,partials,data) {
+    return " devtools-map-completed";
+},"5":function(container,depth0,helpers,partials,data) {
+    return " devtools-map-optional";
+},"7":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, options, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3=container.escapeExpression, alias4="function", alias5=helpers.blockHelperMissing, buffer = 
+  "			<div class=\"devtools-map-article"
+    + ((stack1 = helpers["if"].call(alias1,(data && data.last),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n	            <a href=\"#"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "\" class=\"devtools-map-article-title"
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isComplete",{"name":"when","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isOptional",{"name":"when","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n	            	<div class=\"devtools-map-article-header\">\n	            		<span class=\"devtools-map-abc-id\">"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n	            		";
+  stack1 = ((helper = (helper = helpers.isTrickled || (depth0 != null ? depth0.isTrickled : depth0)) != null ? helper : alias2),(options={"name":"isTrickled","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data}),(typeof helper === alias4 ? helper.call(alias1,options) : helper));
+  if (!helpers.isTrickled) { stack1 = alias5.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  buffer += "\n	            	</div\n	            	<span class=\"devtools-map-abc-label\">"
+    + alias3(((helper = (helper = helpers.getTitle || (depth0 != null ? depth0.getTitle : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"getTitle","hash":{},"data":data}) : helper)))
+    + "</span>\n	            </a>\n	            <div class=\"devtools-map-article-blocks\">\n";
+  stack1 = ((helper = (helper = helpers.eachChild || (depth0 != null ? depth0.eachChild : depth0)) != null ? helper : alias2),(options={"name":"eachChild","hash":{},"fn":container.program(10, data, 0),"inverse":container.noop,"data":data}),(typeof helper === alias4 ? helper.call(alias1,options) : helper));
+  if (!helpers.eachChild) { stack1 = alias5.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  return buffer + "	            </div>\n		    </div>\n";
+},"8":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"trickled\"></div>";
+},"10":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, options, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3="function", alias4=helpers.blockHelperMissing, alias5=container.escapeExpression, buffer = 
+  "		                <div class=\"devtools-map-block"
+    + ((stack1 = helpers["if"].call(alias1,(data && data.last),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "");
+  stack1 = ((helper = (helper = helpers.isTrickled || (depth0 != null ? depth0.isTrickled : depth0)) != null ? helper : alias2),(options={"name":"isTrickled","hash":{},"fn":container.program(11, data, 0),"inverse":container.noop,"data":data}),(typeof helper === alias3 ? helper.call(alias1,options) : helper));
+  if (!helpers.isTrickled) { stack1 = alias4.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  buffer += "\">\n		                    <a href=\"#"
+    + alias5((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "\" class=\"devtools-map-block-title"
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isComplete",{"name":"when","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isOptional",{"name":"when","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n		                        <span class=\"devtools-map-abc-id\">"
+    + alias5((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n		                    </a>\n		                    <div class=\"devtools-map-block-components\">\n";
+  stack1 = ((helper = (helper = helpers.eachChild || (depth0 != null ? depth0.eachChild : depth0)) != null ? helper : alias2),(options={"name":"eachChild","hash":{},"fn":container.program(13, data, 0),"inverse":container.noop,"data":data}),(typeof helper === alias3 ? helper.call(alias1,options) : helper));
+  if (!helpers.eachChild) { stack1 = alias4.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  return buffer + "		                	</div>\n		                </div>\n";
+},"11":function(container,depth0,helpers,partials,data) {
+    return " trickled";
+},"13":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3=container.escapeExpression, alias4="function";
+
+  return "				                	<a href=\"#"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "\" class=\"devtools-map-component"
+    + ((stack1 = helpers["if"].call(alias1,(data && data.last),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " devtools-map-component-"
+    + alias3(((helper = (helper = helpers.index || (data && data.index)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"index","hash":{},"data":data}) : helper)))
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isComplete",{"name":"when","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isOptional",{"name":"when","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " "
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isSubmitted",{"name":"when","hash":{},"fn":container.program(14, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n				                        <span class=\"devtools-map-abc-id\">"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n				                        <div class=\"devtools-map-component-info\">\n				                        	<span class=\"devtools-map-component-type\">"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_component",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n				                        	<span class=\"devtools-map-component-mark\"></span>\n				                    	</div>\n				                        <span class=\"devtools-map-component-label\">"
+    + alias3(((helper = (helper = helpers.getTitle || (depth0 != null ? depth0.getTitle : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"getTitle","hash":{},"data":data}) : helper)))
+    + "</span>\n				                    </a>\n";
+},"14":function(container,depth0,helpers,partials,data) {
     var stack1;
 
-  return "<div class=\"accessibility-state\">\n"
-    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isComplete : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.program(8, data, 0),"data":data})) != null ? stack1 : "")
-    + "</div>";
+  return ((stack1 = (helpers.when || (depth0 && depth0.when) || helpers.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),"_isCorrect",{"name":"when","hash":{},"fn":container.program(15, data, 0),"inverse":container.program(17, data, 0),"data":data})) != null ? stack1 : "");
+},"15":function(container,depth0,helpers,partials,data) {
+    return "correct";
+},"17":function(container,depth0,helpers,partials,data) {
+    return "incorrect";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, options, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing, alias3=container.escapeExpression, alias4="function", buffer = 
+  "<div class=\"devtools-map-content-object"
+    + ((stack1 = helpers["if"].call(alias1,(data && data.last),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n	<a href=\"#"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "\" class=\"devtools-map-content-object-title"
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isComplete",{"name":"when","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ((stack1 = (helpers.when || (depth0 && depth0.when) || alias2).call(alias1,"_isOptional",{"name":"when","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n		<span class=\"devtools-map-abc-id\">"
+    + alias3((helpers.getProp || (depth0 && depth0.getProp) || alias2).call(alias1,"_id",{"name":"getProp","hash":{},"data":data}))
+    + "</span>\n	    <span class=\"devtools-map-abc-label\">"
+    + alias3(((helper = (helper = helpers.getTitle || (depth0 != null ? depth0.getTitle : depth0)) != null ? helper : alias2),(typeof helper === alias4 ? helper.call(alias1,{"name":"getTitle","hash":{},"data":data}) : helper)))
+    + "</span>\n	</a>\n	<div class=\"devtools-map-article-container\">\n";
+  stack1 = ((helper = (helper = helpers.eachChild || (depth0 != null ? depth0.eachChild : depth0)) != null ? helper : alias2),(options={"name":"eachChild","hash":{},"fn":container.program(7, data, 0),"inverse":container.noop,"data":data}),(typeof helper === alias4 ? helper.call(alias1,options) : helper));
+  if (!helpers.eachChild) { stack1 = helpers.blockHelperMissing.call(depth0,stack1,options)}
+  if (stack1 != null) { buffer += stack1; }
+  return buffer + "    </div>\n</div>";
 },"useData":true}));
 
 this["Handlebars"]["templates"]["article"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
@@ -521,6 +561,31 @@ this["Handlebars"]["templates"]["accordion"] = Handlebars.template({"1":function
     + "    </div>\n</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["assessmentResults"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
+
+  return "        <div class=\"results-retry component-feedback\">\n            <div class=\"results-retry-inner component-feedback-inner\">\n                "
+    + ((stack1 = (helpers.compile_a11y_text || (depth0 && depth0.compile_a11y_text) || helpers.helperMissing).call(alias1,(depth0 != null ? depth0.retryFeedback : depth0),{"name":"compile_a11y_text","hash":{},"data":data})) != null ? stack1 : "")
+    + "\n            </div>\n            <div class=\"results-retry-button\">\n                <button>"
+    + ((stack1 = helpers["if"].call(alias1,((stack1 = (depth0 != null ? depth0._retry : depth0)) != null ? stack1.button : stack1),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.program(4, data, 0),"data":data})) != null ? stack1 : "")
+    + "</button>\n            </div>\n        </div>\n";
+},"2":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return container.escapeExpression(container.lambda(((stack1 = (depth0 != null ? depth0._retry : depth0)) != null ? stack1.button : stack1), depth0));
+},"4":function(container,depth0,helpers,partials,data) {
+    return "Retry";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {});
+
+  return container.escapeExpression(((helper = (helper = helpers.import_globals || (depth0 != null ? depth0.import_globals : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"import_globals","hash":{},"data":data}) : helper)))
+    + "\n<div class=\"results-inner component-inner\">\n"
+    + ((stack1 = container.invokePartial(partials.component,depth0,{"name":"component","data":data,"indent":"    ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "    <div class=\"results-widget component-widget\">\n"
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._isRetryEnabled : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "    </div>\n</div>\n";
+},"usePartial":true,"useData":true});
+
 this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return " graphic-widget-attribution";
 },"3":function(container,depth0,helpers,partials,data) {
@@ -558,6 +623,70 @@ this["Handlebars"]["templates"]["graphic"] = Handlebars.template({"1":function(c
     + ((stack1 = helpers["if"].call(alias3,((stack1 = (depth0 != null ? depth0._graphic : depth0)) != null ? stack1.attribution : stack1),{"name":"if","hash":{},"fn":container.program(7, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
     + "</div>\n";
 },"usePartial":true,"useData":true});
+
+this["Handlebars"]["templates"]["matching"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    return "tabindex=\"0\"";
+},"3":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return " disabled "
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isInteractionComplete : depth0),{"name":"if","hash":{},"fn":container.program(4, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " ";
+},"4":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return " complete submitted show-user-answer "
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isCorrect : depth0),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " ";
+},"5":function(container,depth0,helpers,partials,data) {
+    return "correct";
+},"7":function(container,depth0,helpers,partials,data,blockParams,depths) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=helpers.helperMissing;
+
+  return "    <div class=\"matching-item item "
+    + ((stack1 = helpers.unless.call(alias1,(depths[1] != null ? depths[1]._isEnabled : depths[1]),{"name":"unless","hash":{},"fn":container.program(8, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + " item-"
+    + container.escapeExpression(((helper = (helper = helpers.index || (data && data.index)) != null ? helper : alias2),(typeof helper === "function" ? helper.call(alias1,{"name":"index","hash":{},"data":data}) : helper)))
+    + "\">\n      <div class=\"matching-item-title\">"
+    + ((stack1 = (helpers.a11y_text || (depth0 && depth0.a11y_text) || alias2).call(alias1,(depth0 != null ? depth0.text : depth0),{"name":"a11y_text","hash":{},"data":data})) != null ? stack1 : "")
+    + "</div>\n      <div class=\"matching-select-container component-item-color\">\n        <div class=\"matching-select-state\">\n          <div class=\"matching-select-icon component-text-color matching-correct-icon icon icon-tick\"></div>\n          <div class=\"matching-select-icon component-text-color matching-incorrect-icon icon icon-cross\"></div>\n        </div>\n        <select class=\"matching-select component-text-color\" style=\"width:100%\">\n          <option></option>\n"
+    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0._options : depth0),{"name":"each","hash":{},"fn":container.program(12, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "        </select>\n      </div>\n    </div>\n";
+},"8":function(container,depth0,helpers,partials,data,blockParams,depths) {
+    var stack1;
+
+  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depths[1] != null ? depths[1]._canShowMarking : depths[1]),{"name":"if","hash":{},"fn":container.program(9, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "");
+},"9":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0._isCorrect : depth0),{"name":"if","hash":{},"fn":container.program(5, data, 0),"inverse":container.program(10, data, 0),"data":data})) != null ? stack1 : "");
+},"10":function(container,depth0,helpers,partials,data) {
+    return "incorrect";
+},"12":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {});
+
+  return "          <option "
+    + ((stack1 = helpers["if"].call(alias1,(depth0 != null ? depth0._isSelected : depth0),{"name":"if","hash":{},"fn":container.program(13, data, 0),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ">\n            "
+    + container.escapeExpression(((helper = (helper = helpers.text || (depth0 != null ? depth0.text : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(alias1,{"name":"text","hash":{},"data":data}) : helper)))
+    + "\n          </option>\n";
+},"13":function(container,depth0,helpers,partials,data) {
+    return "selected";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data,blockParams,depths) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {});
+
+  return "<div class=\"matching-inner component-inner\" role=\"region\" aria-label=\""
+    + container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._matching : stack1)) != null ? stack1.ariaRegion : stack1), depth0))
+    + "\" "
+    + ((stack1 = helpers["if"].call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._components : stack1)) != null ? stack1._matching : stack1)) != null ? stack1.ariaRegion : stack1),{"name":"if","hash":{},"fn":container.program(1, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + ">\n"
+    + ((stack1 = container.invokePartial(partials.component,depth0,{"name":"component","data":data,"indent":"  ","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "  <div class=\"matching-widget component-widget "
+    + ((stack1 = helpers.unless.call(alias1,(depth0 != null ? depth0._isEnabled : depth0),{"name":"unless","hash":{},"fn":container.program(3, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "\">\n"
+    + ((stack1 = helpers.each.call(alias1,(depth0 != null ? depth0._items : depth0),{"name":"each","hash":{},"fn":container.program(7, data, 0, blockParams, depths),"inverse":container.noop,"data":data})) != null ? stack1 : "")
+    + "  </div>\n  <div class=\"buttons\">\n  </div>\n</div>\n";
+},"usePartial":true,"useData":true,"useDepths":true});
 
 this["Handlebars"]["templates"]["mcq"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     return "tabindex=\"0\"";
@@ -1120,6 +1249,36 @@ this["Handlebars"]["templates"]["pageLevelProgressNavigation"] = Handlebars.temp
   return "<div class=\"page-level-progress-navigation-completion\">\n    <div class=\"page-level-progress-navigation-bar\"></div>\n</div>\n<span class=\"tooltip\">"
     + container.escapeExpression(container.lambda(((stack1 = ((stack1 = ((stack1 = (depth0 != null ? depth0._globals : depth0)) != null ? stack1._accessibility : stack1)) != null ? stack1._ariaLabels : stack1)) != null ? stack1.progress : stack1), depth0))
     + "</span>\n";
+},"useData":true});
+
+this["Handlebars"]["templates"]["devtools"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"devtools-button-container\">\n    <div class=\"section-general\">\n        <span>General</span>\n    </div>\n    <div class=\"drawer-item toggle hinting\">\n        <input type=\"checkbox\" id=\"toggle-hinting\"/>\n        <label for=\"toggle-hinting\">\n            <div class=\"toggle-state\">\n                <div class=\"checkbox icon\"></div>\n            </div>\n            <div class=\"toggle-inner h5\">Question hinting</div>\n        </label>\n    </div>\n    <div class=\"drawer-item toggle auto-correct\">\n        <input type=\"checkbox\" id=\"toggle-auto-correct\"/>\n        <label for=\"toggle-auto-correct\">\n            <div class=\"toggle-state\">\n                <div class=\"checkbox icon\"></div>\n            </div>\n            <div class=\"toggle-inner h5\">Auto correct</div>\n        </label>\n    </div>\n    <div class=\"drawer-item tip auto-correct\"><em>ctrl+click submit to correctly answer questions (ctrl+shift+click for incorrect answer)</em></div>\n    <div class=\"drawer-item toggle feedback\">\n        <input type=\"checkbox\" id=\"toggle-feedback\"/>\n        <label for=\"toggle-feedback\">\n            <div class=\"toggle-state\">\n                <div class=\"checkbox icon\"></div>\n            </div>\n            <div class=\"toggle-inner h5\">Tutor</div>\n        </label>\n    </div>\n    <div class=\"drawer-item toggle alt-text\">\n        <input type=\"checkbox\" id=\"toggle-alt-text\"/>\n        <label for=\"toggle-alt-text\">\n            <div class=\"toggle-state\">\n                <div class=\"checkbox icon\"></div>\n            </div>\n            <div class=\"toggle-inner h5\">Show alt text</div>\n        </label>\n    </div>\n    <button class=\"drawer-item unlock\">Unlock</button>\n    <div>\n        <button class=\"drawer-item open-map\"><span>Course map</span><span class=\"devtools-alpha\">ALPHA</span></button>\n        <button class=\"drawer-item open-spoor-log\"><span>Spoor log</span></button>\n        <div style=\"clear:both;\"></div>\n    </div>\n    <div class=\"section-page\">\n        <span>Page</span>\n    </div>\n    <div class=\"drawer-item toggle banking\">\n        <input type=\"checkbox\" id=\"toggle-banking\"/>\n        <label for=\"toggle-banking\">\n            <div class=\"toggle-state\">\n                <div class=\"checkbox icon\"></div>\n            </div>\n            <div class=\"toggle-inner h5\">Question banks <em>(this page)</em></div>\n        </label>\n    </div>\n    <button class=\"drawer-item end-trickle\">Untrickle</button>\n    <button class=\"drawer-item complete-page\">Complete page</button>\n    <div class=\"drawer-item tip pass-half-fail\"></div>\n    <div class=\"pass-half-fail-container clearfix\">\n        <button class=\"drawer-item pass\">Pass</button>\n        <button class=\"drawer-item half\">Half</button>\n        <button class=\"drawer-item fail\">Fail</button>\n    </div>\n    <div class=\"section-menu\">\n        <span>Menu</span>\n    </div>\n    <button class=\"drawer-item complete-menu\">Complete menu</button>\n    <div class=\"devtools-extended-settings\">\n        <div class=\"drawer-item toggle trace-focus\">\n            <input type=\"checkbox\" id=\"toggle-trace-focus\"/>\n            <label for=\"toggle-trace-focus\">\n                <div class=\"toggle-state\">\n                    <div class=\"checkbox icon\"></div>\n                </div>\n                <div class=\"toggle-inner h5\">Trace focus</div>\n            </label>\n        </div>\n    </div>\n    <div class=\"drawer-item tip\"><em>Dev tip: control-click to reveal models</em></div>\n</div>\n";
+},"useData":true});
+
+this["Handlebars"]["templates"]["devtoolsAnnotation"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var helper;
+
+  return container.escapeExpression(((helper = (helper = helpers.text || (depth0 != null ? depth0.text : depth0)) != null ? helper : helpers.helperMissing),(typeof helper === "function" ? helper.call(depth0 != null ? depth0 : (container.nullContext || {}),{"name":"text","hash":{},"data":data}) : helper)));
+},"3":function(container,depth0,helpers,partials,data) {
+    return "No alt text/aria-label";
+},"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "<span class=\"devtools-annotation\"><em class=\"annotation-text\">"
+    + ((stack1 = helpers["if"].call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? depth0.text : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.program(3, data, 0),"data":data})) != null ? stack1 : "")
+    + "</em></span>";
+},"useData":true});
+
+this["Handlebars"]["templates"]["devtoolsMap"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1;
+
+  return "<div class=\"devtools-map-container\">\n"
+    + ((stack1 = container.invokePartial(partials.devtoolsMapMenu,(depth0 != null ? depth0.course : depth0),{"name":"devtoolsMapMenu","data":data,"indent":"\t","helpers":helpers,"partials":partials,"decorators":container.decorators})) != null ? stack1 : "")
+    + "</div>";
+},"usePartial":true,"useData":true});
+
+this["Handlebars"]["templates"]["devtoolsNavigation"] = Handlebars.template({"compiler":[7,">= 4.0.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<a href=\"#\" class=\"base devtools-navigation-drawer-toggle-button icon icon-cog\">\n</a>\n";
 },"useData":true});
 
 this["Handlebars"]["templates"]["boxmenu-item"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {

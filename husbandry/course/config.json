@@ -29,6 +29,9 @@
     "_level": null,
     "_console": false
   },
+  "_devtools": {
+    "_isEnabled": true
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -65,11 +68,15 @@
       "adapt-contrib-tutor",
       "adapt-contrib-spoor",
       "adapt-articleBlockSlider",
+      "adapt-devtools",
       "adapt-contrib-text",
       "adapt-media-autoplay",
+      "adapt-contrib-mcq",
       "adapt-contrib-graphic",
       "adapt-contrib-accordion",
-      "adapt-contrib-narrative"
+      "adapt-contrib-narrative",
+      "adapt-contrib-assessmentResults",
+      "adapt-contrib-matching"
     ]
   }
 }

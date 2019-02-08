@@ -102,6 +102,102 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming our fears",
+    "displayTitle": "Overcoming our fears",
+    "body": "<p>There is a danger that unaddressed fears arising from legitimate concerns &ndash; such as who has access to data, the quality of the data and fears over&nbsp;how it might be used &ndash; prevent us from realising its full benefits.&nbsp;</p><p>What practices can be put in place to help increase our trust in data?</p>",
+    "instruction": "Select three answers and click submit",
+    "_id": "5c5d8fdd4b35e4052cb8a974",
+    "_parentId": "5c5d888a4b35e4052cb8a963",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Tightning control on data and restricting those who can have access",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Building in ethical considerations to data collection, management and use",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Ensuring that there is equity around who accesses, uses and benefits from data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Engaging widely with people and organisations who are affected by the data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Limit the number of people who even know the data exists",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data is an incredibly useful commodity and we can all benefit when it is used well. This can be achieved by putting in place practices that ensure the way data is collected and used is trustworthy and just.</p><p>These include:</p><p>●&nbsp;&nbsp; &nbsp;building in ethical considerations to data collection, management and use</p><p>●&nbsp;&nbsp; &nbsp;ensuring that there is equity around who accesses, uses and benefits from data</p><p>●&nbsp;&nbsp; &nbsp;engaging widely with people and organisations who are affected.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>&nbsp;</p><p>Data is an incredibly useful commodity and we can all benefit when it is used well. This can be achieved by putting in place practices that ensure the way data is collected and used is trustworthy and just.</p><p>These include:</p><p>●&nbsp;&nbsp; &nbsp;building in ethical considerations to data collection, management and use</p><p>●&nbsp;&nbsp; &nbsp;ensuring that there is equity around who accesses, uses and benefits from data</p><p>●&nbsp;&nbsp; &nbsp;engaging widely with people and organisations who are affected.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -212,10 +308,34 @@
     "_isVisible": true,
     "title": "Are you ready to make better and wider use of data?",
     "displayTitle": "Are you ready to make better and wider use of data?",
-    "body": "<p><a class=\"button\" href=\"#\">Test your knowledge of what you have learnt with this short quiz.</a></p>",
+    "body": "<p><a class=\"button\" href=\"#/id/5c5d884a4b35e4052cb8a95e\" style=\"color:white;\">Test your knowledge of what you have learnt with this short quiz.</a></p>",
     "instruction": "",
     "_id": "5c418e19b772300531e3683c",
     "_parentId": "5c418de5b772300531e3683b",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Building a strong data infrastructure",
+    "displayTitle": "Building a strong data infrastructure",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d8b6c4b35e4052cb8a969",
+    "_parentId": "5c5d8b424b35e4052cb8a968",
     "_type": "component",
     "_layout": "left",
     "_onScreen": {
@@ -306,13 +426,139 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Building a strong data infrastructure: practical steps",
+    "displayTitle": "Building a strong data infrastructure: practical steps",
+    "body": "<p>A strong data infrastructure consists of many parts, how many can you identify from the list below?</p>",
+    "instruction": "Select three answers and then click submit",
+    "_id": "5c5d8e634b35e4052cb8a973",
+    "_parentId": "5c5d8e5b4b35e4052cb8a972",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Communities",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Guidance and policies",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data assets",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A blockchain",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Paper records in a desk drawer",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data infrastructure consists of 5 key parts:</p><ul><li><strong>The d</strong><strong>ata assets&nbsp;</strong>such as datasets, identifiers and registers.</li><li>The&nbsp;<strong>standards</strong>&nbsp;and&nbsp;<strong>technologies&nbsp;</strong>used to curate, maintain and provide access to those data assets,</li><li>The&nbsp;<strong>guidance and policies</strong>&nbsp;that inform the use and management of data assets,</li><li>The&nbsp;<strong>organisations&nbsp;</strong>that govern the data infrastructure.</li><li>The&nbsp;<strong>communities&nbsp;</strong>involved in contributing and/or maintaining, as well as those impacted by decisions that are made using it.</li></ul><p>Trustworthy data infrastructure is sustainably funded and is directed to maximise data use and value, meeting society&rsquo;s needs.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data infrastructure consists of 5 key parts:</p><ul><li><strong>The d</strong><strong>ata assets&nbsp;</strong>such as datasets, identifiers and registers.</li><li>The&nbsp;<strong>standards</strong>&nbsp;and&nbsp;<strong>technologies&nbsp;</strong>used to curate, maintain and provide access to those data assets,</li><li>The&nbsp;<strong>guidance and policies</strong>&nbsp;that inform the use and management of data assets,</li><li>The&nbsp;<strong>organisations&nbsp;</strong>that govern the data infrastructure.</li><li>The&nbsp;<strong>communities&nbsp;</strong>involved in contributing and/or maintaining, as well as those impacted by decisions that are made using it.</li></ul><p>Trustworthy data infrastructure is sustainably funded and is directed to maximise data use and value, meeting society&rsquo;s needs.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d8b6f4b35e4052cb8a96a",
+    "_parentId": "5c5d8b424b35e4052cb8a968",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "How GDPR is an opportunity, not just a compliance exercise",
+    "title": "Using GDPR as an opportunity",
     "displayTitle": "",
     "body": "<p>For many, GDPR is perceived as being all about compliance. Rather it should be seen as an opportunity to address concerns and lead to better stewardship of all data, not just personal data. It provides an opportunity for organisations to assess their data strategy and implement policies that maximise value.&nbsp;</p><p>Using GDPR as a lever to improve the way we manage data will help overcome concerns about sharing data while at the same time moving away from the oil field. GDPR provides rights to individuals that will help you engage and inform people about what is being done with personal data, thus building trust and overcoming fears. The FCO informs people how it handles their personal data through the publication of <a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/personal-information-charter\" target=\"_blank\">Privacy Notices</a> on our .gov.uk pages.&nbsp;</p><p>Using GDPR as a catalyst for change can lead to opportunities to future proof data management and IT of all data (not just personal).&nbsp;</p>",
     "instruction": "",
@@ -327,6 +573,36 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d887b4b35e4052cb8a962",
+    "_parentId": "5c5d884a4b35e4052cb8a960",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/7b0189443d53d1379793bc1c20941af900d9252f.jpg",
+      "small": "course/en/assets/7b0189443d53d1379793bc1c20941af900d9252f.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1010276&term=data\" target=\"_blank\">Freepik / ODI</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -351,6 +627,102 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": true
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "What happens when we hoard data?",
+    "displayTitle": "What happens when we hoard data?",
+    "body": "<p>A lack of cultural willingness to share the data, even in instances where the government and FCO are already committed leads to data hoarding.&nbsp;</p><p>To overcome fears of hoarding we advocate&nbsp;for and support applying an&nbsp;<strong>open culture</strong>&nbsp;to the three pillars of how data is used. An open culture can be supported through:</p>",
+    "instruction": "Select three answer then click submit",
+    "_id": "5c5d8ff04b35e4052cb8a975",
+    "_parentId": "5c5d88a74b35e4052cb8a964",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "A data infrastructure that is as open as possible",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Data literacy and capability for all",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Taking an open approach to innovation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Announcing new data collection activities",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Teaching everyone to code",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>An open culture can be supported through:</p><ul><li>A data infrastructure that is as open as possible</li><li>Data literacy and capability for all</li><li>Taking an open approach to innovation</li></ul>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>An open culture can be supported through:</p><ul><li>A data infrastructure that is as open as possible</li><li>Data literacy and capability for all</li><li>Taking an open approach to innovation</li></ul>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
     }
   },
   {
@@ -384,9 +756,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Data management: practical steps",
+    "title": "Building a strong data infrastructure: practical steps",
     "displayTitle": "",
-    "body": "<p>Good data management starts with understanding the size of the task. To do this we can go back to the definition of <a href=\"https://theodi.org/topic/data-infrastructure/\" target=\"_blank\">data infrastructure</a>. &nbsp;A strong data infrastructure consists of three main parts:</p><ul><li><strong>data assets</strong> e.g. datasets collected and created, and analysis carried out on them</li><li>the <strong>organisations</strong> that operate and maintain those assets and technologies</li><li>the <strong>technologies and processes</strong> that allow those assets to be accessed, used and shared by those who could benefit.</li></ul>",
+    "body": "<p>Good data management starts with understanding the size of the task. To do this we can go back to the definition of <a href=\"https://theodi.org/topic/data-infrastructure/\" target=\"_blank\">data infrastructure</a>.&nbsp; A strong data infrastructure consists of 5 key parts:</p><ul><li><strong>The d</strong><strong>ata assets&nbsp;</strong>such as datasets, identifiers and registers.</li><li>The&nbsp;<strong>standards</strong>&nbsp;and&nbsp;<strong>technologies&nbsp;</strong>used to curate, maintain and provide access to those data assets,</li><li>The&nbsp;<strong>guidance and policies</strong>&nbsp;that inform the use and management of data assets,</li><li>The&nbsp;<strong>organisations&nbsp;</strong>that govern the data infrastructure.</li><li>The&nbsp;<strong>communities&nbsp;</strong>involved in contributing and/or maintaining, as well as those impacted by decisions that are made using it.</li></ul><p>Trustworthy data infrastructure is sustainably funded and is directed to maximise data use and value, meeting society&rsquo;s needs.</p>",
     "instruction": "",
     "_id": "5c418438b772300531e3683a",
     "_parentId": "5c418203b772300531e36838",
@@ -412,6 +784,36 @@
     "displayTitle": "",
     "body": "",
     "instruction": "",
+    "_id": "5c5d916f4b35e4052cb8a984",
+    "_parentId": "5c5d8e5b4b35e4052cb8a972",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "color-one",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
     "_id": "5c418e32b772300531e3683d",
     "_parentId": "5c418de5b772300531e3683b",
     "_type": "component",
@@ -426,9 +828,33 @@
     },
     "_graphic": {
       "alt": "",
-      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
-      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
       "attribution": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Test your knowledge",
+    "displayTitle": "Test your knowledge",
+    "body": "<p>Are you ready to make better and wider use of data?</p><p>Test your knowledge with the short quiz below.</p>",
+    "instruction": "",
+    "_id": "5c5dad1f4b35e4052cb8a98a",
+    "_parentId": "5c5dacff4b35e4052cb8a989",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
     }
   },
   {
@@ -453,6 +879,66 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "Component title",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d90aa4b35e4052cb8a97b",
+    "_parentId": "5c5d88bc4b35e4052cb8a965",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "small": "course/en/assets/469b24274a5ae4bbee6dd0806dd9640e3dbfbde3.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/businessman-hand-stop-dominoes-continuous-toppled-or-risk-with-copyspace_1202140.htm#term=change&page=1&position=9\" target=\"_blank\">snowing / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Overcoming hoarding",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5dbb524b35e4052cb8a997",
+    "_parentId": "5c5d88a74b35e4052cb8a964",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c8a41bb2b7a603ca4f024ee34015d73278ca05be.png",
+      "small": "course/en/assets/c8a41bb2b7a603ca4f024ee34015d73278ca05be.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -649,7 +1135,7 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "How data can be made as open as possible",
+    "title": "Understanding what infrastructure you manage",
     "displayTitle": "",
     "body": "<p>The GDPR helps by providing a standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EU. The first step to the FCO sharing data more widely is understanding the data assets we hold and how they are used. For personal data, we do this through data mapping which helps us understand how we can share data in the right way. For other data we need to share data in a number of ways, including;</p><ul><li>internally, so the right teams have the information they need</li><li>with other UK government departments</li><li>globally, with other governments across the world</li><li>with external partners</li><li>with the public</li></ul>",
     "instruction": "",
@@ -742,6 +1228,36 @@
       "autoRewind": false,
       "features": [],
       "enableKeyboard": false
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Component title",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d90ba4b35e4052cb8a97f",
+    "_parentId": "5c5d8aef4b35e4052cb8a967",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "small": "course/en/assets/b43dbd109cd4cf914faeecdf5f3ee5af207b949c.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/carpenter-s-tools-with-isometric-style_1322632.htm\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
     }
   },
   {
@@ -848,6 +1364,148 @@
     }
   },
   {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "The value of good data infrastructure for FCO",
+    "displayTitle": "The value of good data infrastructure for FCO",
+    "body": "<p>In December 2017, the UK National Infrastructure Commission&nbsp;<a href=\"https://theodi.org/article/odi-welcomes-uk-national-infrastructure-commission-recognition-that-data-is-infrastructure/\" target=\"_blank\">recognised data as part of the UK&rsquo;s key infrastructure</a>. Why is this important to a modern diplomatic service.</p>",
+    "instruction": "Select all answers that apply and click submit",
+    "_id": "5c5d88784b35e4052cb8a961",
+    "_parentId": "5c5d884a4b35e4052cb8a960",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Generating insights and intelligence",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Designing better public-facing services",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Informing better decisions",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All of the above",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Data&nbsp;plays an important role within a modern diplomatic service. &nbsp;Good knowledge management is important for generating insights and intelligence, designing better public-facing services (eg up to date travel advice), ensuring proper resourcing, and informing better decisions.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>Data&nbsp;plays an important role within a modern diplomatic service. &nbsp;Good knowledge management is important for generating insights and intelligence, designing better public-facing services (eg up to date travel advice), ensuring proper resourcing, and informing better decisions.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "How did you do?",
+    "displayTitle": "How did you do?",
+    "body": "<p>Complete the assessment to see your result here.</p>",
+    "instruction": "",
+    "_id": "5c5dae154b35e4052cb8a991",
+    "_parentId": "5c5dadf34b35e4052cb8a990",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_isVisibleBeforeCompletion": true,
+    "_assessmentId": "fco_assessment",
+    "_retry": {
+      "button": "Retry Assessment",
+      "feedback": ""
+    },
+    "_completionBody": "<p>{{{feedback}}}</p>",
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "<p style=\"font-size: 3em;\">{{scoreAsPercent}}%</p><p><br /><strong>Could do better!</strong><br /><br />A result of at least 80% is required to pass.<br /><br />The lessons would be really valuable to you. Perhaps think about going through the practical lessons before retaking the quiz.</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 50,
+        "feedback": "<p style=\"font-size: 3em;\">{{scoreAsPercent}}%</p><p><br /><strong>Could do better!</strong><br /><br />A result of at least 80% is required to pass.<br /><br />You have some good knowledge but need to brush up in a few areas. Take a look back at the practical lessons to help fill the gaps in your knowledge.&nbsp;</p>",
+        "_allowRetry": true,
+        "_classes": ""
+      },
+      {
+        "_score": 80,
+        "feedback": "<p style=\"font-size: 3em;\">{{scoreAsPercent}}%</p><p><br /><strong>You passed, well done!</strong><br /><br />You have now completed the assessment and can close this window/tab.</p>",
+        "_allowRetry": false,
+        "_classes": ""
+      }
+    ]
+  },
+  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -869,6 +1527,152 @@
     },
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Using GDPR as an opportunity",
+    "displayTitle": "Using GDPR as an opportunity",
+    "body": "<p>For many, GDPR is perceived as being all about compliance. In what way&nbsp;is GDPR actually an opportunity for organisations to boost the trust that individuals have in organisations handling of personal data.</p>",
+    "instruction": "Select your answers and click submit",
+    "_id": "5c5d8ac94b35e4052cb8a966",
+    "_parentId": "5c5d88bc4b35e4052cb8a965",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_items": [
+      {
+        "text": "Provides rights to individuals that will help you engage and inform people about what is being done with personal data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Provides a standard set of data protection regulations for everyone",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Provides a means for organisations to collect more data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>GDPR provides rights to individuals that will help you engage and inform people about what is being done with personal data, thus building trust and overcoming fears. The FCO informs people how it handles their personal data through the publication of&nbsp;<a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/personal-information-charter\" target=\"_blank\">Privacy Notices</a>&nbsp;on our .gov.uk pages.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>GDPR provides rights to individuals that will help you engage and inform people about what is being done with personal data, thus building trust and overcoming fears. The FCO informs people how it handles their personal data through the publication of&nbsp;<a href=\"https://www.gov.uk/government/organisations/foreign-commonwealth-office/about/personal-information-charter\" target=\"_blank\">Privacy Notices</a>&nbsp;on our .gov.uk pages.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "intro-logo",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "FCO logo",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5dad224b35e4052cb8a98b",
+    "_parentId": "5c5dacff4b35e4052cb8a989",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/68facb8622cf540b1e87f3a26af90538e84e97a4.png",
+      "small": "course/en/assets/68facb8622cf540b1e87f3a26af90538e84e97a4.png",
+      "attribution": "<a href=\"https://en.wikipedia.org/wiki/File:Foreign_and_Commonwealth_Office_Logo.svg\" target=\"_blank\">British Crown Copyright</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Over coming fears",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_id": "5c5d90614b35e4052cb8a97a",
+    "_parentId": "5c5d888a4b35e4052cb8a963",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/8484d3a867d4fa223258505d279b542c4c0b82aa.png",
+      "small": "course/en/assets/8484d3a867d4fa223258505d279b542c4c0b82aa.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
     }
   },
   {
@@ -897,7 +1701,7 @@
     "_items": [
       {
         "title": "Think about what...",
-        "body": "<p><strong>data do you have?</strong></p><p>Everything starts here, we need to know what data is held before it is possible to think about how it should be managed.</p><p><strong>mechanisms allow this data to be discovered?</strong></p><p>Is there a well managed data catalogues? Can both internal actors as well as the public access the required parts of the catalogue?</p><p><strong>legal rights and obligations you have?</strong></p><p>Does the FCO already have obligations relating to this data? Are there any third party rights or individual rights in the data? What is the lawful basis under the GDPR for holding and processing the data? If outside of the scope of the GDPR what are the data protection regulations and are they as strong as the GDPR (<a href=\"https://www.dlapiperdataprotection.com/index.html\" target=\"_blank\">this handy tool</a>&nbsp;compares data protection regulations around the world)?</p>",
+        "body": "<p><strong>data&nbsp;you have?</strong></p><p>Everything starts here, we need to know what data is held before it is possible to think about how it should be managed.</p><p><strong>mechanisms allow this data to be discovered?</strong></p><p>Is there a well managed data catalogues? Can both internal actors as well as the public access the required parts of the catalogue?</p><p><strong>legal rights and obligations you have?</strong></p><p>Does the FCO already have obligations relating to this data? Are there any third party rights or individual rights in the data? What is the lawful basis under the GDPR for holding and processing the data? If outside of the scope of the GDPR what are the data protection regulations and are they as strong as the GDPR (<a href=\"https://www.dlapiperdataprotection.com/index.html\" target=\"_blank\">this handy tool</a>&nbsp;compares data protection regulations around the world)?</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -994,5 +1798,128 @@
       }
     ],
     "_shouldCollapseItems": false
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "title": "Tools to help build a strong data infrastucture",
+    "displayTitle": "Tools to help build a strong data infrastucture",
+    "body": "<p>The FCO recommends the&nbsp;use of a number of tools and approaches to help build a strong data infrastructure. Can you match each problem to the tool?&nbsp;</p>",
+    "instruction": "Choose which tool is suitable in each of cases below.",
+    "_id": "5c5db2fb4b35e4052cb8a992",
+    "_parentId": "5c5d8aef4b35e4052cb8a967",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldResetAllAnswers": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_questionWeight": 1,
+    "_recordInteraction": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "Understanding the data assets we hold and how they are used",
+        "_options": [
+          {
+            "text": "Data mapping",
+            "_isCorrect": true
+          },
+          {
+            "text": "Data protection impact assessment",
+            "_isCorrect": false
+          },
+          {
+            "text": "ODI data ethics canvas",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Establishing the risk to an individual",
+        "_options": [
+          {
+            "text": "Data mapping",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data protection impact assessment",
+            "_isCorrect": true
+          },
+          {
+            "text": "ODI data ethics canvas",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Understanding the wider impact of data collection and use",
+        "_options": [
+          {
+            "text": "Data mapping",
+            "_isCorrect": false
+          },
+          {
+            "text": "Data protection impact assessment",
+            "_isCorrect": false
+          },
+          {
+            "text": "ODI data ethics canvas",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR makes it much easier to share and transfer data within the EU than before. It mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR makes it much easier to share and transfer data within the EU than before. It mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]

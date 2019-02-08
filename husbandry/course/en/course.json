@@ -3,7 +3,7 @@
   "displayTitle": "FCO - Better decisions | Increased privacy",
   "body": "<p>With the introduction of the GDPR, there are still many questions about how personal data can be shared and used within the FCO. The FCO operates in many different countries where there are different approaches to personal data protection &ndash; so there is still the need to understand how to minimise the risk to personal data, while being able to make better use of other data to support FCO activities.</p><p>This module will enable learners to make <strong>better</strong> and <strong>wider</strong> use of data whilst ensuring compliance with data protection legislation. &nbsp;</p>",
   "description": "",
-  "_latestTrackingId": 13,
+  "_latestTrackingId": 22,
   "_buttons": {
     "disabledAriaLabel": "This button is disabled at the moment",
     "remainingAttemptText": "final attempt",
@@ -90,6 +90,9 @@
         "transcriptButton": "Alternatively you can select the link below for the transcript.",
         "ariaTranscriptLabel": "Transcript",
         "ariaCaptionsLabel": "Subtitles"
+      },
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
       }
     },
     "_extensions": {
