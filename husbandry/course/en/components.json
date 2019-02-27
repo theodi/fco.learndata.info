@@ -126,7 +126,7 @@
     },
     "_items": [
       {
-        "text": "Tightning control on data and restricting those who can have access",
+        "text": "Tightening control on data and restricting those who can have access",
         "_shouldBeSelected": false,
         "feedback": ""
       },
@@ -1313,7 +1313,7 @@
     "_items": [
       {
         "title": "Privacy by design",
-        "body": "<p>The GDPR makes it much easier to share and transfer data within the EU than before. The Privacy by Design aspect of GDPR is a good opportunity to embed some of this thinking and consideration into existing FCO processes. &nbsp;A variety of factors should be incorporated into the decision making on what FCO shares and with whom. Factors include whether FCO has the right to share the data (intellectual property), whether there is any personal or sensitive data that needs protecting or whether there is a risk to national security.</p>",
+        "body": "<p>The Privacy by Design aspect of GDPR is a good opportunity to embed some of this thinking and consideration into existing FCO processes. &nbsp;A variety of factors should be incorporated into the decision making on what FCO shares and with whom. Factors include whether FCO has the right to share the data (intellectual property), whether there is any personal or sensitive data that needs protecting or whether there is a risk to national security.</p>",
         "_graphic": {
           "src": "course/en/assets/eb7c7b7bfff664aef851578a795efa612ea1a806.jpg",
           "alt": "",
@@ -1514,7 +1514,7 @@
     "_isVisible": true,
     "title": "Overcoming our fears",
     "displayTitle": "",
-    "body": "<p>Data is an incredibly useful commodity and we can all benefit when it is used well. This can be achieved by putting in place practices that ensure the way data is collected and used is trustworthy and just.</p><p>These include:</p><p>●&nbsp;&nbsp; &nbsp;building in ethical considerations to data collection, management and use</p><p>●&nbsp;&nbsp; &nbsp;ensuring that there is equity around who accesses, uses and benefits from data</p><p>●&nbsp;&nbsp; &nbsp;engaging widely with people and organisations who are affected.</p>",
+    "body": "<p>Using data well can be achieved by ensuring the way it is collected and used is trustworthy and just.</p><p>This includes:</p><p>●&nbsp;&nbsp; &nbsp;building in ethical considerations to data collection, management and use</p><p>●&nbsp;&nbsp; &nbsp;ensuring that there is equity around who accesses, uses and benefits from data</p><p>●&nbsp;&nbsp; &nbsp;engaging widely with people and organisations who are affected.</p>",
     "instruction": "",
     "_id": "5c40c2d845b2a405475b281c",
     "_parentId": "5c40c2d845b2a405475b281b",
@@ -1887,9 +1887,9 @@
     ],
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That&#39;s right!</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR makes it much easier to share and transfer data within the EU than before. It mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR&nbsp;mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR makes it much easier to share and transfer data within the EU than before. It mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The first step in building any data infrastructure is understanding the assets we hold and how they are used.&nbsp;For personal data, we do this through <strong>data mapping</strong> which helps us understand how we can share data in the right way.&nbsp;</p><p>The GDPR mandates a&nbsp;Privacy by Design approach and the use of <strong>data protection impact assessments</strong>&nbsp;(DPIA) to evaluate the risks to individuals of collecting, using and sharing data.</p><p>Beyond the impact on individuals, there may be wider ethical impacts not considered in a DPIA. The ODI data ethics canvas can help here.&nbsp;It promotes understanding and debate around the foundation, intention and potential impact of any piece of work, and helps identify the steps needed to act ethically.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {

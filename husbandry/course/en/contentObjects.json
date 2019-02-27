@@ -24,25 +24,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_skillsFramework": {
-      "_skills": [
-        {
-          "outcome": "Describe how other sectors are embracing the opportunities offered by GDPR",
-          "credits": 5,
-          "level": "strategist"
-        },
-        {
-          "level": "strategist",
-          "credits": 5,
-          "outcome": "List the 5 key opportunities offered by GDPR for the public sector"
-        },
-        {
-          "level": "strategist",
-          "credits": 5,
-          "outcome": "Understand how to position GDPR as an opportunity (rather than a compliance issue) in your organisation"
-        }
-      ]
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -54,6 +35,9 @@
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true
+    },
+    "_FooterLink": {
+      "_items": []
     }
   },
   {
@@ -81,9 +65,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_skillsFramework": {
-      "_skills": []
-    },
     "_aboutPage": {
       "aboutCredit": "",
       "SL_text": "",
@@ -95,6 +76,9 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_showPageCompletion": false
+    },
+    "_FooterLink": {
+      "_items": []
     }
   }
 ]

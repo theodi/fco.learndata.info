@@ -60,7 +60,6 @@
     "includes": [
       "adapt-theme-fco",
       "adapt-contrib-boxMenu",
-      "adapt-skillsFramework",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-assessment",
       "adapt-odi-licence",
@@ -69,6 +68,7 @@
       "adapt-contrib-spoor",
       "adapt-articleBlockSlider",
       "adapt-devtools",
+      "adapt-odi-footerLink",
       "adapt-contrib-text",
       "adapt-media-autoplay",
       "adapt-contrib-mcq",

@@ -81,25 +81,17 @@
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
-      "_media": {
-        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
-        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      "_matching": {
+        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
       },
       "_media-autoplay": {
         "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
         "transcriptButton": "Alternatively you can select the link below for the transcript.",
         "ariaTranscriptLabel": "Transcript",
         "ariaCaptionsLabel": "Subtitles"
-      },
-      "_matching": {
-        "ariaRegion": "This question component requires you to select the matching answer from a drop down list below. When you have selected your answers select the submit button."
       }
     },
     "_extensions": {
-      "_skillsFramework": {
-        "linkText": "Outcomes",
-        "titleText": "Learning outcomes"
-      },
       "_aboutPage": {
         "linkText": "About",
         "titleText": "About",
@@ -211,6 +203,14 @@
         },
         "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the FCO&nbsp;are liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
         "title": "No warranty"
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy notice",
+        "link": "https://www.gov.uk/government/publications/foreign-and-commonwealth-office-privacy-notice-consular-services-in-the-uk-and-at-british-embassies-high-commissions-and-consulates-overseas"
       }
     ]
   },
