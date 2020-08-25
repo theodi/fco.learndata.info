@@ -1,9 +1,42 @@
 {
+  "title": "FCDO (GDPR) - Lesson 1",
+  "displayTitle": "FCDO (GDPR) - Lesson 1",
+  "body": "",
+  "description": "",
+  "_latestTrackingId": 49,
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "",
   "_id": "course",
   "_globals": {
     "_accessibility": {
       "accessibilityToggleTextOn": "Turn accessibility on?",
       "accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
       "_accessibilityInstructions": {
         "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
         "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
@@ -11,17 +44,12 @@
       },
       "_ariaLabels": {
         "navigation": "Course navigation bar",
+        "skipNavigation": "Skip Navigation",
         "menuLoaded": "Menu loaded",
-        "menu": "Menu",
-        "menuItem": "Menu item",
-        "menuViewButton": "Select here to enter",
         "page": "Page",
         "pageLoaded": "Page loaded",
         "previous": "Back",
-        "navigationBack": "Navigate back",
         "navigationDrawer": "Open course resources and search",
-        "closeResources": "Close resources",
-        "drawerBack": "Back to drawer",
         "drawer": "Side drawer",
         "closePopup": "Close popup",
         "next": "Next",
@@ -29,11 +57,11 @@
         "complete": "Complete",
         "incomplete": "Incomplete",
         "correct": "Correct",
+        "incorrect": "Incorrect",
         "locked": "Locked",
         "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
         "feedbackPopUp": "Popup opened",
         "visited": "Visited",
-        "menuBack": "Back to menu",
         "menuIndicatorHeading": "Menu item heading "
       }
     },
@@ -44,31 +72,61 @@
       "_text": {
         "ariaRegion": ""
       },
+      "_hotgraphic": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPopupLabel": "Hotgraphic popup"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_jsonschema": {
+        "ariaRegion": "This question requires you to input your answer in the codebox provided. When you have done so, select the submit button below."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_notify-imagegrid": {
+        "ariaRegion": "This component contains images laid out in a flexible grid."
+      },
+      "_slider": {
+        "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
+        "labelStart": "Start of the scale",
+        "labelEnd": "End of the scale"
       },
       "_narrative": {
         "ariaRegion": "This component displays an image gallery with accompanying text. Use the next and back navigation controls to work through the narrative."
       },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      "_media": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript."
+      },
+      "_media-autoplay": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "transcriptButton": "Alternatively you can select the link below for the transcript.",
+        "ariaTranscriptLabel": "Transcript",
+        "ariaCaptionsLabel": "Subtitles"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit."
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below."
       }
     },
     "_extensions": {
-      "_pageLevelProgress": {
-        "pageLevelProgress": "Page sections",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "optionalContent": "Optional Content"
-      },
       "_aboutPage": {
         "linkText": "About",
         "titleText": "About",
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
         "aboutCredit": "",
-        "SL_text": "<p>&copy; Foreign &amp; Commonwealth Office&nbsp;/ The Open Data Institute</p>",
+        "SL_text": "<p>© Foreign, Commonwealth &amp; Development Office&nbsp;/<br />The Open Data Institute</p>",
         "SL_facebook": "",
         "SL_flickr": "",
         "SL_github": "",
@@ -77,6 +135,13 @@
         "SL_twitter": "",
         "SL_vimeo": "",
         "SL_youtube": ""
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
       }
     }
   },
@@ -84,82 +149,95 @@
     "_isEnabled": true,
     "_startIds": [
       {
-        "_id": "5ae34ebe7f0f6d1305360297",
+        "_className": "",
         "_skipIfComplete": false,
-        "_className": ""
+        "_id": "5ae34ebe7f0f6d1305360297"
       }
     ],
     "_force": true,
     "_isMenuDisabled": false
   },
   "_type": "course",
-  "_lockType": "",
-  "_classes": "",
-  "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
+  "themeVariables": {
+    "_paddings": {
+      "hide-nav": false,
+      "max-width": "1400px",
+      "device-width-small": "520px",
+      "device-width-medium": "520px",
+      "device-width-large": "900px"
     },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
+    "_fonts": {
+      "font-family": "'Open Sans', Helvetica, Arial, sans-serif"
     },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
-    },
-    "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
-    },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
+    "_colors": {
+      "menu-color-count": "3",
+      "color-one": "#3099ff",
+      "primary-color-inverted": "#ffffff",
+      "color-two": "#666666",
+      "secondary-color-inverted": "#ffffff",
+      "color-three": "#7d82be",
+      "tertiary-color-inverted": "#4b4e4f",
+      "color-four": "#ff9000",
+      "color-four-inverted": "#ffffff",
+      "color-five": "#de4a8d",
+      "color-five-inverted": "#ffffff",
+      "color-six": "#ff6600",
+      "color-six-inverted": "#ffffff",
+      "color-seven": "#333666",
+      "color-seven-inverted": "#ffffff",
+      "color-eight": "#006699",
+      "color-eight-inverted": "#ffffff",
+      "color-nine": "#006633",
+      "color-nine-inverted": "#ffffff",
+      "color-ten": "#000000",
+      "color-ten-inverted": "#ffffff",
+      "quaternary-color": "#37474f",
+      "quaternary-color-inverted": "#ffffff",
+      "foreground-color": "#000000",
+      "background-color": "#ffffff",
+      "foreground-color-inverted": "#ffffff",
+      "background-color-inverted": "#999999",
+      "validation-error": "#f26c4f",
+      "validation-success": "#82ca9c",
+      "disabled-color": "#727272",
+      "disabled-color-inverted": "#cccccc"
     }
-  },
-  "_latestTrackingId": 48,
-  "body": "",
-  "displayTitle": "FCO (GDPR) - Lesson 1",
-  "title": "FCO (GDPR) - Lesson 1",
-  "_assessment": {
-    "_postTotalScoreToLms": false,
-    "_isPercentageBased": false,
-    "_scoreToPass": 60,
-    "_requireAssessmentPassed": false
-  },
-  "_pageLevelProgress": {
-    "_isEnabled": true,
-    "_showPageCompletion": true
   },
   "_aboutPage": {
     "_items": [
       {
-        "_graphic": {
-          "src": "adapt/css/assets/logo-small.png",
-          "alt": ""
-        },
+        "title": "The Open Data Institute",
         "description": "<p>Expert knowledge, learning expertise and&nbsp;content development provided by the by the&nbsp;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>.</p>",
-        "title": "The Open Data Institute"
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/logo-small.png"
+        }
       },
       {
-        "_graphic": {
-          "src": "adapt/css/assets/adapt.png",
-          "alt": ""
-        },
+        "title": "Adapt learning",
         "description": "<p>Open source learning platform developed by <a href=\"https://www.adaptlearning.org/\" target=\"_blank\">Adapt learning</a>.</p>",
-        "title": "Adapt learning"
+        "_graphic": {
+          "alt": "",
+          "src": "adapt/css/assets/adapt.png"
+        }
       }
     ]
   },
   "_FooterLink": {
     "_items": [
       {
-        "title": "Terms and Conditions",
-        "link": "https://www.fcoservices.gov.uk/terms-and-conditions/"
+        "link": "https://www.fcoservices.gov.uk/terms-and-conditions/",
+        "title": "Terms and Conditions"
       }
     ]
+  },
+  "_assessment": {
+    "_postTotalScoreToLms": false,
+    "_isPercentageBased": false,
+    "_scoreToPass": 60
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
   }
 }

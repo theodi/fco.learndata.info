@@ -4,67 +4,78 @@
   "_questionWeight": 1,
   "_generateSourcemap": false,
   "_forceRouteLocking": true,
-  "screenSize": {
-    "large": 1024,
-    "medium": 640,
-    "small": 640
+  "_id": "5ae34ebf7f0f6d1305360339",
+  "__v": 0,
+  "_accessibility": {
+    "_isEnabled": false,
+    "_isEnabledOnTouchDevices": false,
+    "_shouldSupportLegacyBrowsers": true,
+    "_isTextProcessorEnabled": false,
+    "_isSkipNavigationEnabled": false
   },
+  "_courseId": "5ae34ebe7f0f6d1305360295",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
     "_showEasing": "easeOutQuart"
   },
-  "_courseId": "5ae34ebe7f0f6d1305360295",
-  "_accessibility": {
-    "_isTextProcessorEnabled": false,
-    "_shouldSupportLegacyBrowsers": true,
-    "_isDisabledOnTouchDevices": false,
+  "screenSize": {
+    "large": 1024,
+    "medium": 640,
+    "small": 640
+  },
+  "_logging": {
+    "_isEnabled": false,
+    "_level": null,
+    "_console": false
+  },
+  "_inview": {
+    "_allowScrollOver": true
+  },
+  "_devtools": {
     "_isEnabled": false
   },
-  "__v": 0,
-  "_id": "5ae34ebf7f0f6d1305360339",
   "_spoor": {
-    "_advancedSettings": {
-      "_commitOnVisibilityChangeHidden": true,
-      "_suppressErrors": true,
-      "_commitRetryDelay": 2000,
-      "_maxCommitRetries": 5,
-      "_timedCommitFrequency": 10,
-      "_commitOnStatusChange": true,
-      "_showDebugWindow": false
+    "_isEnabled": true,
+    "_tracking": {
+      "_requireCourseCompleted": false,
+      "_requireAssessmentPassed": true,
+      "_shouldSubmitScore": true,
+      "_shouldStoreResponses": true,
+      "_shouldRecordInteractions": false
     },
     "_reporting": {
-      "_resetStatusOnLanguageChange": false,
+      "_onTrackingCriteriaMet": "completed",
       "_onAssessmentFailure": "failed",
-      "_onTrackingCriteriaMet": "completed"
+      "_resetStatusOnLanguageChange": false
     },
-    "_tracking": {
-      "_shouldStoreResponses": true,
-      "_shouldSubmitScore": true,
-      "_requireAssessmentPassed": true,
-      "_requireCourseCompleted": false
-    },
-    "_isEnabled": true
-  },
-  "_tutor": {
-    "_isEnabled": false
+    "_advancedSettings": {
+      "_showDebugWindow": false,
+      "_commitOnStatusChange": true,
+      "_timedCommitFrequency": 10,
+      "_maxCommitRetries": 5,
+      "_commitRetryDelay": 2000,
+      "_suppressErrors": true,
+      "_commitOnVisibilityChangeHidden": true
+    }
   },
   "build": {
     "includes": [
-      "adapt-theme-fco",
       "adapt-contrib-boxMenu",
+      "579b741bf399990a1aefebe2",
+      "adapt-contrib-mcq",
+      "adapt-contrib-graphic",
+      "adapt-contrib-text",
+      "adapt-contrib-assessmentResults",
+      "adapt-contrib-accordion",
+      "adapt-contrib-narrative",
       "adapt-odi-footerLink",
       "adapt-contrib-tutor",
       "adapt-contrib-aboutPage",
       "adapt-contrib-assessment",
       "adapt-contrib-pageLevelProgress",
       "adapt-contrib-spoor",
-      "adapt-contrib-mcq",
-      "adapt-contrib-graphic",
-      "adapt-contrib-text",
-      "adapt-contrib-assessmentResults",
-      "adapt-contrib-accordion",
-      "adapt-contrib-narrative"
+      "adapt-devtools"
     ]
   }
 }
