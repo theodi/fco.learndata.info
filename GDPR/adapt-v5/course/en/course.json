@@ -235,7 +235,7 @@
     "_nav": {
       "nav": "#000000",
       "nav-inverted": "#ffffff",
-      "hide-nav": false,
+      "hide-nav": true,
       "nav-icon": "#000000",
       "nav-icon-inverted": "#ffffff",
       "nav-icon-hover": "#000000",
