@@ -3593,9 +3593,33 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
+    "title": "More information",
+    "displayTitle": "More information",
+    "body": "<p>For more internal guidance see <a href=\"https://fcogovuk.sharepoint.com/sites/ktd-guidance/SitePages/Data-Protection-Default.aspx\" target=\"_blank\">here</a>. Contact <a href=\"mailto:data.protection@fcdo.gov.uk\">data.protection@fcdo.gov.uk</a> with any queries. The&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office</a>&nbsp;also has a lot of useful information.</p>",
+    "_id": "5ae35af67f0f6d1305360745",
+    "_layout": "full",
+    "_parentId": "5ae35af67f0f6d130536071d",
+    "_type": "component",
+    "instruction": "",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
     "title": "What is the GDPR and why is it needed?",
     "displayTitle": "What is the GDPR and why is it needed?",
-    "body": "<p>The world we live in today is vastly different from that of 1995 when data protection laws in the European Union were last updated (1998 in the case of the Data Protection Act in the UK). The GDPR is a new regulation that is designed to provide a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><ol dir=\"ltr\"></ol>",
+    "body": "<p>The world we live in today is vastly different from that of 1995 when data protection laws in the European Union were last updated (1998 in the case of the Data Protection Act in the UK). The GDPR provides a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency.</p><ol dir=\"ltr\"></ol>",
     "_id": "5ae351d57f0f6d1305360545",
     "_layout": "left",
     "_parentId": "5ae351d47f0f6d130536052e",
@@ -3711,7 +3735,7 @@
       },
       {
         "title": "Consent",
-        "body": "<p>Under GDPR, individuals must be informed about how personal data is going to be used and consent given for each use. You cannot ask for open-ended consent to use data however you want to.&nbsp;</p><p>A good example comes when performing a medical procedure on a patient. In this case, consent must granted in full knowledge of the possible consequences. This is a practice known as 'informed consent'.&nbsp;</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under GDPR.</p><p>Additionally the individual must be able to withdraw his or her consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p><p><strong>FCDO example:</strong></p><p><strong>Consular Assistance Casework Data&nbsp;</strong><br /><br />The Consular Customer Insight Team use data collected by various methods, to be passed to their partner research agency (IFF Research) for purposes of contacting the customer for feedback. Where data has been collected by online methods (Emergency Travel Documents, Legalisation and CABS) this data is retained as a result of active consent.&nbsp;</p>",
+        "body": "<p>Under GDPR, individuals must be informed about how personal data is going to be used and consent given for each use. You cannot ask for open-ended consent to use data however you want to.&nbsp;</p><p>Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under GDPR.</p><p>Additionally the individual must be able to withdraw his or her consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p><p><strong>FCDO example:</strong></p><p><strong>Consular Assistance Casework Data&nbsp;</strong><br /><br />The Consular Customer Insight Team use data collected by various methods, to be passed to their partner research agency (IFF Research) for purposes of contacting the customer for feedback. Where data has been collected by online methods (Emergency Travel Documents, Legalisation and CABS) this data is retained as a result of active consent.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3930,9 +3954,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "Privacy notices",
-    "displayTitle": "Privacy notices",
-    "body": "<p>The GDPR requires everyone to process personal data lawfully and communicate this basis clearly with the individual. Privacy notices are one of the most visible aspects that demonstrate compliance with the GDPR.&nbsp;The FCDO’s Privacy Notice is on our .gov.uk page. The staff Privacy Notice is on the intranet.</p><p>Individuals must be informed clearly about what data is collected, exactly what it is used for and how they can exercise their rights over the data. This information must be presented to the individual as near to the point of data collection as possible.&nbsp;</p><p>In addition to fines being imposed for non-compliance, they can also be imposed where a privacy notice is deemed unclear or misleading.</p><p>&nbsp;</p>",
+    "title": "Privacy Notices",
+    "displayTitle": "Privacy Notices",
+    "body": "<p>The GDPR requires everyone to process personal data lawfully and communicate this basis clearly with the individual. Privacy notices are one of the most visible aspects that demonstrate compliance with the GDPR.&nbsp;. The FCDO’s Privacy Notices are on our .gov.uk page. The footer which appears on the bottom of all our external emails directs recipients to this page. The staff Privacy Notice is on the Intranet.</p><p>Individuals must be informed clearly about what data is collected, exactly what it is used for and how they can exercise their rights over the data. This information must be presented to the individual as near to the point of data collection as possible.&nbsp;</p><p>In addition to fines being imposed for non-compliance, they can also be imposed where a privacy notice is deemed unclear or misleading.</p><p>&nbsp;</p>",
     "_id": "5ae351d67f0f6d13053605af",
     "_layout": "right",
     "_parentId": "5ae351d47f0f6d1305360533",
@@ -4019,30 +4043,6 @@
       "small": "course/en/assets/1fb4a3759a8a5087246e7f4aebcb78bfe8ca7e67.jpeg",
       "large": "course/en/assets/1fb4a3759a8a5087246e7f4aebcb78bfe8ca7e67.jpeg",
       "alt": ""
-    }
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "title": "More information",
-    "displayTitle": "More information",
-    "body": "<p>For more details see the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office guide</a>. You can also check additional data protection regulations in the UK’s <a href=\"https://www.legislation.gov.uk/ukpga/2018/12/contents/enacted/data.htm\" target=\"_blank\">Data Protection Act</a>.</p>",
-    "_id": "5ae35af67f0f6d1305360745",
-    "_layout": "full",
-    "_parentId": "5ae35af67f0f6d130536071d",
-    "_type": "component",
-    "instruction": "",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true
     }
   },
   {
@@ -4341,8 +4341,8 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "title": "What happens at the end of the Transition Period?",
-    "displayTitle": "What happens at the end of the Transition Period?",
+    "title": "What happens at the end of the EU Exit Transition Period?",
+    "displayTitle": "What happens at the end of the EU Exit Transition Period?",
     "body": "<p>From 1 January 2021, the government intends to incorporate the GDPR into UK data protection law.</p>",
     "_id": "5f44c3072a9faf0531936ec2",
     "_parentId": "5ae350b07f0f6d1305360521",
@@ -4370,7 +4370,7 @@
       },
       {
         "title": "UK to EU/EEA data flows",
-        "body": "<p>The UK has legislated so that personal data for general processing can flow freely, on a transitional basis, from the UK to the 30 EEA States, as well as EU and EEA Institutions. This means that personal data for general processing can continue to flow freely <strong>from the UK to the EU/EEA. </strong>&nbsp;​As legally required by UK law, the government will review the ‘adequacy’ of these arrangements by 1 January 2025.</p>",
+        "body": "<p>The UK has legislated so that personal data for general processing can flow freely, on a transitional basis, from the UK to the 30 EEA States. This means that personal data for general processing can continue to flow freely <strong>from the UK to the EU/EEA. </strong>&nbsp;​As legally required by UK law, the government will review the ‘adequacy’ of these arrangements by 1 January 2025.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
