@@ -51,12 +51,16 @@
     "_isEnabled": false,
     "_limitToSelector": ""
   },
+  "_devtools": {
+    "_isEnabled": false
+  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
       "_shouldSubmitScore": true,
       "_shouldStoreResponses": true,
-      "_shouldRecordInteractions": false
+      "_shouldStoreAttempts": false,
+      "_shouldRecordInteractions": true
     },
     "_reporting": {
       "_onTrackingCriteriaMet": "completed",
@@ -66,17 +70,15 @@
     "_advancedSettings": {
       "_showDebugWindow": false,
       "_commitOnStatusChange": true,
+      "_commitOnAnyChange": false,
       "_timedCommitFrequency": 10,
       "_maxCommitRetries": 5,
       "_commitRetryDelay": 2000,
       "_suppressErrors": true,
       "_commitOnVisibilityChangeHidden": true,
-      "_manifestIdentifier": "adapt_manifest",
+      "_manifestIdentifier": "fco_gdpr_1",
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }
-  },
-  "_devtools": {
-    "_isEnabled": false
   }
 }
