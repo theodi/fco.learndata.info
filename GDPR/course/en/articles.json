@@ -9,47 +9,10 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d130536029b",
-    "_type": "article",
-    "_parentId": "5ae34ebe7f0f6d1305360296",
-    "_assessment": {
-      "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
-      "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
-      "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
-      },
-      "_banks": {
-        "_randomisation": false,
-        "_split": "",
-        "_isEnabled": false
-      },
-      "_id": "",
-      "_isEnabled": false
-    }
-  },
-  {
-    "title": "Article title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae351d47f0f6d130536052c",
-    "_parentId": "5ae351d47f0f6d130536052b",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af935",
+    "_parentId": "60cef69dbe3a3800899af933",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -81,19 +44,25 @@
     "title": "Article title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one invert-odd",
+    "_classes": "color-one invert-even",
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d1305360298",
-    "_parentId": "5ae34ebe7f0f6d1305360297",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af936",
+    "_parentId": "60cef69dbe3a3800899af932",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "_assessment": {
       "_isEnabled": false,
@@ -121,6 +90,82 @@
         "_canShowMarking": false,
         "_canShowModelAnswer": false
       }
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
+    }
+  },
+  {
+    "title": "Intro",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af937",
+    "_parentId": "60cef69dbe3a3800899af934",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      }
     }
   },
   {
@@ -133,33 +178,58 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d130536029a",
-    "_parentId": "5ae34ebe7f0f6d1305360296",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af938",
+    "_parentId": "60cef69dbe3a3800899af934",
     "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
+      "_isEnabled": true,
+      "_id": "assessment",
       "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": true,
-      "_scoreToPass": 80,
       "_isPercentageBased": true,
-      "_questions": {
-        "_canShowModelAnswer": true,
-        "_canShowMarking": true,
-        "_canShowFeedback": true,
-        "_resetType": "soft"
-      },
+      "_scoreToPass": 80,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": true,
+      "_allowResetIfPassed": false,
       "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+        "_isEnabled": false,
+        "_blockCount": 1
       },
       "_banks": {
-        "_randomisation": false,
+        "_isEnabled": true,
         "_split": "1,1,1,1,1,1,1,1,1,1",
-        "_isEnabled": true
+        "_randomisation": false
       },
-      "_id": "assessment",
-      "_isEnabled": true
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": true,
+        "_canShowMarking": true,
+        "_canShowModelAnswer": true
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "repeat",
+        "_backgroundSize": "auto",
+        "_backgroundPosition": "left top"
+      }
     }
   },
   {
@@ -172,33 +242,58 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d130536029c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af939",
     "_type": "article",
-    "_parentId": "5ae34ebe7f0f6d1305360296",
+    "_parentId": "60cef69dbe3a3800899af934",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
       "_attempts": -1,
-      "_isResetOnRevisit": false,
-      "_assessmentWeight": 1,
-      "_includeInTotalScore": false,
-      "_scoreToPass": 60,
       "_isPercentageBased": false,
-      "_questions": {
-        "_canShowModelAnswer": false,
-        "_canShowMarking": false,
-        "_canShowFeedback": false,
-        "_resetType": "soft"
-      },
+      "_scoreToPass": 60,
+      "_includeInTotalScore": false,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
       "_randomisation": {
-        "_blockCount": 1,
-        "_isEnabled": false
+        "_isEnabled": false,
+        "_blockCount": 1
       },
       "_banks": {
-        "_randomisation": false,
+        "_isEnabled": false,
         "_split": "",
-        "_isEnabled": false
+        "_randomisation": false
       },
-      "_id": "",
-      "_isEnabled": false
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "repeat",
+        "_backgroundSize": "auto",
+        "_backgroundPosition": "left top"
+      }
     }
   }
 ]

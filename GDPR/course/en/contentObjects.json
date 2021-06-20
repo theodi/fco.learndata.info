@@ -4,7 +4,10 @@
     "displayTitle": "Introduction",
     "body": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -13,7 +16,9 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d1305360297",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af932",
     "_graphic": {
       "src": "",
       "alt": ""
@@ -34,11 +39,14 @@
     }
   },
   {
-    "title": "Introduction to the General Data Protection Regulation",
-    "displayTitle": "Introduction to the General Data Protection Regulation",
-    "body": "<p>This module gives an overview of the General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations. After completion, you should able to work more confidently with the requirements of the GDPR.</p>",
+    "title": "Introduction to the UK General Data Protection Regulation",
+    "displayTitle": "Introduction to the UK General Data Protection Regulation",
+    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (GDPR) and the key differences from the existing data protection regulations. After completion, you should able to work more confidently with the requirements of the UK GDPR.</p>",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -47,32 +55,76 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d130536052b",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af933",
     "_graphic": {
-      "src": "",
-      "alt": ""
+      "alt": "",
+      "src": ""
     },
     "_parentId": "course",
     "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office</a>&nbsp;(UK).</p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_FooterLink": {
       "_items": []
     },
-    "_aboutPage": {
-      "_items": [],
-      "SL_text": "",
-      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner&#39;s Office</a>&nbsp;(UK).</p>"
+    "_boxMenu": {
+      "_renderAsGroup": false
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   },
   {
-    "title": "The GDPR: Test your knowledge",
-    "displayTitle": "The GDPR: Test your knowledge",
-    "body": "<p>Are you ready for the GDPR? Test your knowledge with this quiz, Get 8/10 to pass.</p>",
+    "title": "The UK GDPR: Test your knowledge",
+    "displayTitle": "The UK GDPR: Test your knowledge",
+    "body": "<p>Test your knowledge of the UK GDPR with the 10 questions below.&nbsp;Get 8/10 to pass.</p><p><strong>Warning</strong>: Do not leave your assessment session as you will not be able to resume your assessment.</p><p>&nbsp;</p>",
     "_classes": "",
+    "subtitle": "",
     "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
@@ -81,24 +133,65 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d1305360296",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69dbe3a3800899af934",
     "_graphic": {
-      "src": "",
-      "alt": ""
+      "alt": "",
+      "src": ""
     },
     "_parentId": "course",
     "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_FooterLink": {
       "_items": []
     },
-    "_aboutPage": {
-      "_items": [],
-      "SL_text": "",
-      "aboutCredit": ""
+    "_boxMenu": {
+      "_renderAsGroup": false
     },
-    "_pageLevelProgress": {
-      "_showPageCompletion": true,
-      "_isEnabled": true
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   }
 ]

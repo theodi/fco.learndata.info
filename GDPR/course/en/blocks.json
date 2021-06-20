@@ -3,36 +3,47 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-one",
+    "_classes": "color-one",
     "_trackingId": 1,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602ae",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93a",
     "_type": "block",
+    "_parentId": "60cef69dbe3a3800899af937",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
       "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 2,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b4",
-    "_type": "block",
-    "_parentId": "5ae34ebe7f0f6d130536029b",
-    "_assessment": {
-      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -40,22 +51,71 @@
     "displayTitle": "",
     "body": "",
     "_classes": "summary footer",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93b",
+    "_type": "block",
+    "_parentId": "60cef69dbe3a3800899af939",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Introduction to the UK General Data Protection Regulation",
+    "displayTitle": "Introduction to the UK General Data Protection Regulation",
+    "body": "",
+    "_classes": "color-one",
     "_trackingId": 3,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602d0",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93c",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
-    "_parentId": "5ae34ebe7f0f6d130536029c",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
-    "title": "Introduction to the General Data Protection Regulation",
-    "displayTitle": "Introduction to the General Data Protection Regulation",
+    "title": "Introduction",
+    "displayTitle": "",
     "body": "",
     "_classes": "color-one",
     "_trackingId": 4,
@@ -64,8 +124,10 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d57f0f6d1305360542",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93d",
+    "_parentId": "60cef69dbe3a3800899af936",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -77,18 +139,20 @@
     }
   },
   {
-    "title": "Introduction",
+    "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
+    "_classes": "inverted color-one",
     "_trackingId": 5,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae350777f0f6d1305360515",
-    "_parentId": "5ae34ebe7f0f6d1305360298",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93e",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -97,6 +161,28 @@
     },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
@@ -110,26 +196,10 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b5",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-one",
-    "_trackingId": 7,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae351d47f0f6d130536052e",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af93f",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -145,14 +215,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one inverted",
-    "_trackingId": 8,
+    "_trackingId": 7,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5f44c1d52a9faf0531936ebb",
-    "_parentId": "5ae34ebe7f0f6d1305360298",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af940",
+    "_parentId": "60cef69dbe3a3800899af936",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -167,16 +239,18 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "",
-    "_trackingId": 9,
+    "_classes": "inverted color-one",
+    "_trackingId": 8,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae354527f0f6d13053606e1",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af941",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
-    "_parentId": "5ae351d47f0f6d130536052c",
     "_assessment": {
       "_quizBankID": 1
     }
@@ -185,18 +259,114 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "inverted color-one",
+    "_classes": "color-one",
+    "_trackingId": 9,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af942",
+    "_type": "block",
+    "_parentId": "60cef69dbe3a3800899af935",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "What this means for personal data processing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-one",
     "_trackingId": 10,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b6",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af943",
+    "_parentId": "60cef69dbe3a3800899af936",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four",
+    "_trackingId": 11,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af944",
+    "_parentId": "60cef69dbe3a3800899af938",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 2
     }
   },
   {
@@ -204,38 +374,22 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 11,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae350957f0f6d130536051b",
-    "_parentId": "5ae34ebe7f0f6d1305360298",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "inverted color-one",
     "_trackingId": 12,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b7",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af945",
+    "_parentId": "60cef69dbe3a3800899af936",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
       "_quizBankID": 1
     }
@@ -251,32 +405,11 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360538",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af946",
     "_type": "block",
-    "_parentId": "5ae351d47f0f6d130536052c",
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "What happens at the end of the Transition Period?",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one inverted",
-    "_trackingId": 14,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae350b07f0f6d1305360521",
-    "_parentId": "5ae34ebe7f0f6d1305360298",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
+    "_parentId": "60cef69dbe3a3800899af935",
     "_assessment": {
       "_quizBankID": 1
     }
@@ -286,14 +419,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-four",
-    "_trackingId": 15,
+    "_trackingId": 14,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602bb",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af947",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 2
@@ -304,14 +439,16 @@
     "displayTitle": "Establishing the lawful basis for processing personal data",
     "body": "",
     "_classes": "color-nine",
-    "_trackingId": 16,
+    "_trackingId": 15,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360530",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af948",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 1
@@ -322,14 +459,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
-    "_trackingId": 17,
+    "_trackingId": 16,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae352fa7f0f6d13053606d9",
-    "_parentId": "5ae34ebe7f0f6d1305360298",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af949",
+    "_parentId": "60cef69dbe3a3800899af936",
     "_type": "block",
     "_onScreen": {
       "_isEnabled": false,
@@ -345,14 +484,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-four",
-    "_trackingId": 18,
+    "_trackingId": 17,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602bc",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94a",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 2
@@ -363,50 +504,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-nine inverted",
-    "_trackingId": 19,
+    "_trackingId": 18,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360532",
-    "_parentId": "5ae351d47f0f6d130536052c",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-four",
-    "_trackingId": 20,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602bd",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 2
-    }
-  },
-  {
-    "title": "Privacy notices",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-six",
-    "_trackingId": 21,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360533",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94b",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 1
@@ -417,14 +524,56 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-four inverted",
-    "_trackingId": 22,
+    "_trackingId": 19,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602be",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94c",
+    "_parentId": "60cef69dbe3a3800899af938",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 3
+    }
+  },
+  {
+    "title": "Privacy notices",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-six",
+    "_trackingId": 20,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94d",
+    "_parentId": "60cef69dbe3a3800899af935",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four inverted",
+    "_trackingId": 21,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94e",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 3
@@ -435,51 +584,17 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-six inverted",
-    "_trackingId": 23,
+    "_trackingId": 22,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae35c197f0f6d1305360747",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af94f",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-four inverted",
-    "_trackingId": 24,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602bf",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 3
-    }
-  },
-  {
-    "title": "GDPR by default",
-    "displayTitle": "GDPR by default",
-    "body": "<p>Protection of personal data is critical during every stage of its processing. The GDPR adds some key requirements to each stage.</p>",
-    "_classes": "color-four",
-    "_trackingId": 25,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae351d57f0f6d130536053c",
-    "_type": "block",
-    "_parentId": "5ae351d47f0f6d130536052c",
     "_assessment": {
       "_quizBankID": 1
     }
@@ -489,53 +604,207 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
+    "_trackingId": 23,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af950",
+    "_parentId": "60cef69dbe3a3800899af938",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 4
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "UK GDPR by default",
+    "displayTitle": "UK GDPR by default",
+    "body": "<p>Protection of personal data is critical during every stage of its processing. The UK GDPR adds some key requirements to each stage.</p>",
+    "_classes": "color-four",
+    "_trackingId": 24,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af951",
+    "_type": "block",
+    "_parentId": "60cef69dbe3a3800899af935",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "International transfers",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-three inverted",
+    "_trackingId": 25,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af952",
+    "_parentId": "60cef69dbe3a3800899af938",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_quizBankID": 5
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
+    }
+  },
+  {
+    "title": "UK GDPR-specific roles",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four inverted",
     "_trackingId": 26,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c0",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af953",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_assessment": {
-      "_quizBankID": 4
+      "_quizBankID": 1
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-four inverted",
+    "_classes": "color-four",
     "_trackingId": 27,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360531",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af954",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-three inverted",
-    "_trackingId": 28,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602cd",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 5
+      "_quizBankID": 6
     }
   },
   {
@@ -543,143 +812,233 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-one",
+    "_trackingId": 28,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af955",
+    "_parentId": "60cef69dbe3a3800899af935",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "Block title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "color-four",
     "_trackingId": 29,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d57f0f6d1305360541",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af956",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 1
+      "_quizBankID": 6
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-three inverted",
+    "_classes": "color-ten inverted section-banner",
     "_trackingId": 30,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602ce",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af957",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
-      "_quizBankID": 5
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-ten inverted",
+    "_classes": "color-four",
     "_trackingId": 31,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae35af67f0f6d130536071d",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af958",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 1
+      "_quizBankID": 6
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-three inverted",
+    "_classes": "color-ten inverted section-banner",
     "_trackingId": 32,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602cf",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af959",
+    "_parentId": "60cef69dbe3a3800899af935",
     "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
-      "_quizBankID": 5
+      "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-ten inverted",
+    "_classes": "color-one inverted",
     "_trackingId": 33,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae351d47f0f6d1305360534",
-    "_parentId": "5ae351d47f0f6d130536052c",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69ebe3a3800899af95a",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 1
+      "_quizBankID": 7
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-four",
+    "_classes": "color-one inverted",
     "_trackingId": 34,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b0",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af95b",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 6
+      "_quizBankID": 7
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-four",
+    "_classes": "color-one inverted",
     "_trackingId": 35,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c2",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af95c",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 6
+      "_quizBankID": 7
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-four",
+    "_classes": "color-one inverted",
     "_trackingId": 36,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c3",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af95d",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 6
+      "_quizBankID": 7
     }
   },
   {
@@ -693,8 +1052,10 @@
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602af",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af95e",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 7
@@ -704,177 +1065,117 @@
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
+    "_classes": "color-one",
     "_trackingId": 38,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c7",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af95f",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 7
+      "_quizBankID": 8
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
+    "_classes": "color-one",
     "_trackingId": 39,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c8",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af960",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 7
+      "_quizBankID": 8
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
+    "_classes": "color-one",
     "_trackingId": 40,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c9",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af961",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 7
+      "_quizBankID": 8
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one inverted",
+    "_classes": "color-four inverted",
     "_trackingId": 41,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602ca",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af962",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 7
+      "_quizBankID": 9
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
+    "_classes": "color-four inverted",
     "_trackingId": 42,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602b1",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af963",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
-      "_quizBankID": 8
+      "_quizBankID": 9
     }
   },
   {
     "title": "Block title",
     "displayTitle": "",
     "body": "",
-    "_classes": "color-one",
+    "_classes": "color-four inverted",
     "_trackingId": 43,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602cb",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 8
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-one",
-    "_trackingId": 44,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebf7f0f6d13053602cc",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 8
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-four inverted",
-    "_trackingId": 45,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c4",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 9
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-four inverted",
-    "_trackingId": 46,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c5",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
-    "_type": "block",
-    "_assessment": {
-      "_quizBankID": 9
-    }
-  },
-  {
-    "title": "Block title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "color-four inverted",
-    "_trackingId": 47,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_id": "5ae371567f0f6d1305360785",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af964",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 9
@@ -885,14 +1186,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 48,
+    "_trackingId": 44,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae34ebe7f0f6d13053602c6",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af965",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 10
@@ -903,14 +1206,16 @@
     "displayTitle": "",
     "body": "",
     "_classes": "color-three",
-    "_trackingId": 49,
+    "_trackingId": 45,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
-    "_id": "5ae3729c7f0f6d13053607cf",
-    "_parentId": "5ae34ebe7f0f6d130536029a",
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "60cef69fbe3a3800899af966",
+    "_parentId": "60cef69dbe3a3800899af938",
     "_type": "block",
     "_assessment": {
       "_quizBankID": 10
