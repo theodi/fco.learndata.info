@@ -114,8 +114,8 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "",
+    "title": "The UK General Data Protection Regulation (UK GDPR) ",
+    "displayTitle": "The UK General Data Protection Regulation (UK GDPR) ",
     "body": "",
     "_classes": "color-one",
     "_trackingId": 4,
@@ -134,8 +134,30 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_assessment": {
       "_quizBankID": 1
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_minimumHeights": {
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_isDividerBlock": false
     }
   },
   {

@@ -51,7 +51,7 @@
     "_limitToSelector": ""
   },
   "_devtools": {
-    "_isEnabled": false
+    "_isEnabled": true
   },
   "_spoor": {
     "_isEnabled": true,

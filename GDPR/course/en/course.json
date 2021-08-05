@@ -326,14 +326,6 @@
       "shadow-inverted": "#ffffff"
     }
   },
-  "_FooterLink": {
-    "_items": [
-      {
-        "link": "https://www.fcoservices.gov.uk/terms-and-conditions/",
-        "title": "Terms and Conditions"
-      }
-    ]
-  },
   "_aboutPage": {
     "_items": [
       {
@@ -354,15 +346,24 @@
       }
     ]
   },
-  "_assessment": {
-    "_isPercentageBased": false,
-    "_scoreToPass": 60
-  },
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": true,
     "_isCompletionIndicatorEnabled": false,
     "_isShownInNavigationBar": true
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "link": "https://www.fcoservices.gov.uk/terms-and-conditions/",
+        "title": "Terms and Conditions"
+      }
+    ]
+  },
+  "_assessment": {
+    "_isPercentageBased": true,
+    "_scoreToPass": 80,
+    "_correctToPass": 60
   },
   "_spoor": {
     "_messages": ""

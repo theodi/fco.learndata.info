@@ -295,9 +295,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Who does the UK GDPR apply to and where? ",
-    "displayTitle": "Who does the UK GDPR apply to and where? ",
-    "body": "<p>The UK GDPR applies to&nbsp;<strong>the processing of all personal data</strong>&nbsp;by organisations in the UK regardless of whether the processing takes place in the UK or&nbsp;not.</p><p>This means that all FCDO staff in the UK and the overseas network must apply the UK GDPR, regardless of the location of post or nationality of the person whose data they are dealing with.</p><p>Processing personal data covers the following, irrespective of how the data is collected: collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p><p><strong>Complying with the EU GDPR</strong></p><p>There are certain circumstances under which we will still need to apply the EU GDPR to the processing of EEA residents’ personal data. As the UK and EU GDPRs are more or less aligned, this means the processing remains the same. Further guidance will be published on Diplohub and Insight.&nbsp;<br />&nbsp;</p>",
+    "title": "Where does the UK GDPR apply?",
+    "displayTitle": "Where does the UK GDPR apply?",
+    "body": "<p>The UK GDPR applies to&nbsp;<strong>the processing of all personal data</strong>&nbsp;by organisations based in the UK regardless of whether the processing takes place in the UK or&nbsp;not.</p><p>This means that all FCDO staff in the UK and the overseas network must apply the UK GDPR, regardless of the location of post or nationality of the person whose data they are dealing with.</p><p>Processing personal data covers the following, irrespective of how the data is collected: collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction.</p><p><strong>Complying with the EU GDPR</strong></p><p>There are certain circumstances under which we will still need to apply the EU GDPR to the processing of EEA residents’ personal data. As the UK and EU GDPRs are more or less aligned, this means the processing remains the same. Further guidance will be published on Diplohub and Insight.&nbsp;<br />&nbsp;</p>",
     "_id": "60cef69fbe3a3800899af97d",
     "_layout": "left",
     "_type": "component",
@@ -325,7 +325,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction to the UK General Data Protection Regulation",
     "displayTitle": "",
-    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR) and the key differences from the existing data protection regulations. After completion, you should able to work more confidently with the requirements of the UK GDPR.</p><p>This module explains:</p><ul><li>What UK GDPR is and why it is needed</li><li>What personal data the UK GDPR covers</li><li>Who the UK GDPR applies to and where</li><li>The lawful bases</li><li>Individuals’ rights</li><li>The importance of privacy notices</li><li>UK GDPR by default &nbsp;</li><li>UK GDPR-specific roles</li><li>Data breaches</li></ul>",
+    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR) and the key differences from the existing data protection regulations. After completion, you should be able to work more confidently with the requirements of the UK GDPR.</p><p>This module explains:</p><ul><li>What UK GDPR is and why it is needed</li><li>What personal data the UK GDPR covers</li><li>Who the UK GDPR applies to and where</li><li>The lawful bases</li><li>Individuals’ rights</li><li>The importance of privacy notices</li><li>UK GDPR by default &nbsp;</li><li>UK GDPR-specific roles</li><li>Data breaches</li></ul>",
     "_id": "60cef69fbe3a3800899af97e",
     "_layout": "left",
     "_parentId": "60cef69ebe3a3800899af93c",
@@ -1338,7 +1338,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Introduction",
-    "displayTitle": "Introduction",
+    "displayTitle": "",
     "body": "<p>From 1 January 2021, the EU GDPR was retained in UK law. It was renamed the ‘UK GDPR’, to distinguish it from the EU GDPR, but the two GDPRs are essentially the same. The UK GDPR continues to be supplemented in UK law by the Data Protection Act 2018 (DPA 2018).</p><p>The UK GDPR is designed to provide accountability and transparency to individuals on the processing of their personal data by organisations.</p>",
     "_id": "60cef6a0be3a3800899af9c1",
     "_layout": "left",
@@ -2120,7 +2120,7 @@
     "_items": [
       {
         "title": "1. Personal data",
-        "body": "<p><a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Under the UK GDPR</a>&nbsp;personal data means any information relating to an identified or identifiable person. This covers any piece of information that can result in the identification of a person, either directly or indirectly.</p><p>Examples: name, email address, address, phone number, an identification number, an online identifier (including IP address) or factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.</p><p>However data of these types might not always be personally identifiable. For example the name John Smith is very common, however when combined with other data, such as date of birth and address this then becomes identifiable. Remember that names are not needed to identify someone - you probably don't know the names of all your neighbours but you can identify them.</p>",
+        "body": "<p>Under the <a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">UK GDPR</a>&nbsp;personal data means any information relating to an identified or identifiable person. This covers any piece of information that can result in the identification of a person, either directly or indirectly.</p><p>Examples: name, email address, address, phone number, an identification number, an online identifier (including IP address) or factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that person.</p><p>However data of these types might not always be personally identifiable. For example the name John Smith is very common, however when combined with other data, such as date of birth and address this then becomes identifiable. Remember that names are not needed to identify someone - you probably don't know the names of all your neighbours but you can identify them.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2140,7 +2140,7 @@
       },
       {
         "title": "3. Criminal convictions data",
-        "body": "<p>Processing of personal data relating to criminal convictions and offences or related security measures can only&nbsp;be carried out:</p><ul><li>under the control of official authority</li><li>when the processing is authorised by Union or Member&nbsp;State law providing for appropriate safeguards for people's rights and freedoms</li></ul><p>Any comprehensive register of criminal convictions shall be kept only under the control of official authority.</p>",
+        "body": "<p>Processing of personal data relating to criminal convictions and offences or related security measures can only&nbsp;be carried out:</p><ul><li>under the control of official authority</li><li>if you can identify a specific condition for processing in Schedule 1 of the DPA 2018</li></ul><p>Any comprehensive register of criminal convictions shall be kept only under the control of official authority.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -2173,7 +2173,7 @@
     "_disableAccessibilityState": false,
     "title": "Who needs to apply the UK GDPR?",
     "displayTitle": "Who needs to apply the UK GDPR?",
-    "body": "<p>All FCDO staff must apply the UK GDPR when processing any personal data (eg staff information and that of external customers) - wherever you are based or whatever the nationality of the individual whose data you are processing.</p><p>Even if you’re in a department or post that does not process large amounts of personal data, it’s likely that at some point you’ll handle personal data – such as receiving appraisals as a member of a hiring panel or compiling a guest list/sending out invitations for an event.</p>",
+    "body": "<p>All FCDO staff must apply the UK GDPR when processing any personal data (eg staff data and that of external customers) - wherever you are based or whatever the nationality of the individual whose data you are processing.</p><p>Even if you’re in a department or post that does not process large amounts of personal data, it’s likely that at some point you’ll handle personal data – such as receiving appraisals&nbsp;or compiling a guest list/sending out invitations for an event.</p>",
     "_id": "60cef6a1be3a3800899af9d3",
     "_layout": "right",
     "_parentId": "60cef69ebe3a3800899af945",
@@ -2298,13 +2298,14 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>The FCDO is legally obliged to respond to requests for information. We have names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
+      "correct": "<p><strong>That's right!</strong></p><p>The FCDO is legally obliged to respond to Freedom of Information requests. We record names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>The FCDO is legally obliged to respond to requests for information. We have names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The FCDO is legally obliged to respond to Freedom of Information requests. We record names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3473,7 +3474,7 @@
       },
       {
         "title": "Performance of contract",
-        "body": "<p>You can process personal data if you need to fulfil a contract you have with the individual, or if they have asked you to take specific steps before entering into a contract.</p><p>For example, a company can process personal data to provide a quote for fitting double glazing on a house and for the subsequent fitting.</p><p>There are few, if any acts of processing in the FCDO that would result in this lawful basis being preferred over Public Task, including for any commercial contracts.</p>",
+        "body": "<p>You can process personal data if you need to fulfil a contract you have with the individual, or if they have asked you to take specific steps before entering into a contract.</p><p>There are few, if any acts of processing in the FCDO that would result in this lawful basis being preferred over public task, including for any commercial contracts.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3483,7 +3484,7 @@
       },
       {
         "title": "Legal obligation",
-        "body": "<p>You can process personal data if you need to in order to comply with UK law. For example, if the FCDO needs to process personal data to comply with UK employment law. Contractual obligations you have with third parties do not count as a lwaful basis for processing.&nbsp;</p><p>If you are processing personal data on the basis of a legal obligation, the individual has no right to data portability, or right to object (see Individuals’ rights section further on). An individual has a right to erasure if the legal obligation has expired. For example, if someone left a company over 3 years ago then there is unlikely to be a legal obligation for the employer to keep hold of data about that person (a very small quantity is required for longer).&nbsp;</p><p dir=\"ltr\"><strong>FCDO examples:</strong></p><p dir=\"ltr\"><strong>Income information for tax purposes</strong></p><p dir=\"ltr\">The FCDO is required to pass information to HMRC about the taxable income we have paid to staff and deductions we have made for tax and national insurance. We are also required to provide other data such as your home address to assist HMRC’s work.</p><p dir=\"ltr\"><strong>Retention of certain staff records</strong></p><p dir=\"ltr\">Under the rules of the Principal Civil Service Pension Scheme we are required to keep records of service history and pensionable salary and allowances until the employee concerned is 100 or until death in case of any queries about their pension entitlements. &nbsp;</p><p dir=\"ltr\"><strong>Freedom of Information requests </strong></p><p dir=\"ltr\">The FCDO is legally obliged to respond to requests for information. We have names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
+        "body": "<p>You can process personal data if you need to in order to comply with UK law. For example, if the FCDO needs to process personal data to comply with UK employment law. Contractual obligations you have with third parties do not count as a lwaful basis for processing.&nbsp;</p><p>If you are processing personal data on the basis of a legal obligation, the individual has no right to data portability, or right to object (see Individuals’ rights section further on). An individual has a right to erasure if the legal obligation has expired. For example, if someone left a company over 3 years ago then there is unlikely to be a legal obligation for the employer to keep hold of data about that person (a very small quantity is required for longer).&nbsp;</p><p dir=\"ltr\"><strong>FCDO examples:</strong></p><p dir=\"ltr\"><strong>Income information for tax purposes</strong></p><p dir=\"ltr\">The FCDO is required to pass information to HMRC about the taxable income we have paid to staff and deductions we have made for tax and national insurance. We are also required to provide other data such as your home address to assist HMRC’s work.</p><p dir=\"ltr\"><strong>Retention of certain staff records</strong></p><p dir=\"ltr\">Under the rules of the Principal Civil Service Pension Scheme we are required to keep records of service history and pensionable salary and allowances until the employee concerned is 100 or until death in case of any queries about their pension entitlements. &nbsp;</p><p dir=\"ltr\"><strong>Freedom of Information requests </strong></p><p dir=\"ltr\">The FCDO is legally obliged to respond to&nbsp;Freedom of Information&nbsp;requests. We record&nbsp;names and contact details of requesters to enable us to communicate with them. We are also required to ask for certain further personal details to verify the identities of those making Subject Access Requests.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3493,7 +3494,7 @@
       },
       {
         "title": "Vital interests",
-        "body": "<p>You can process personal data if it is necessary to protect someone’s life. This does not apply if you can reasonably protect the person’s vital interests in another less intrusive way.</p><p>This lawful basis also does not apply for health data or other special category data if the individual is capable of giving consent.</p><p><strong>FCDO example:</strong></p><p><strong>Crisis response</strong><br />Collection and use of personal data when we need to evacuate people quickly, such as natural disasters/emergencies, outbreak of an epidemic/pandemic etc.&nbsp;</p>",
+        "body": "<p>You can process personal data if it is necessary to protect someone’s life. This does not apply if you can reasonably protect the person’s vital interests in another less intrusive way.</p><p>This lawful basis also does not apply for health data or other special category data if the individual is capable of giving consent.</p><p><strong>FCDO example:</strong></p><p><strong>Consular crisis response</strong><br />Collection and use of personal data when we need to evacuate people quickly, such as natural disasters/emergencies, outbreak of an epidemic/pandemic etc.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3513,7 +3514,7 @@
       },
       {
         "title": "Consent",
-        "body": "<p>Individuals must be informed about how personal data is going to be used and consent given for each use. You cannot ask for open-ended consent to use data however you want to.&nbsp;</p><p dir=\"ltr\">Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under UK GDPR.</p><p dir=\"ltr\">Additionally the individual must be able to withdraw their consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p><p dir=\"ltr\">In general, the Consent lawful basis can be difficult to get right. If you think you need to use this lawful basis, contact the <a href=\"mailto:data.protection@fcdo.gov.uk\">data.protection@fcdo.gov.uk</a>&nbsp;mailbox for advice.</p><p>FCDO example:</p><p dir=\"ltr\">The Consular Customer Insight Team use data collected by various methods, to be passed to their partner research agency (IFF Research) for purposes of contacting the customer for feedback. Where data has been collected by online methods (Emergency Travel Documents, Legalisation and CABS) this data is retained as a result of active consent.&nbsp;</p>",
+        "body": "<p>Individuals must be informed about how personal data is going to be used and consent given for each use. You cannot ask for open-ended consent to use data however you want to.&nbsp;</p><p dir=\"ltr\">Gaining consent must be through clear affirmative action, such as a button press or an opt-in tick box. Hidden conditions and opt-out options where no action is required does not constitute clearly obtained consent under UK GDPR.</p><p dir=\"ltr\">Additionally the individual must be able to withdraw their consent at any time. The process for withdrawing consent must be as easy to complete as that for giving consent.</p><p dir=\"ltr\">In general, the consent lawful basis can be difficult to get right. If you think you need to use this lawful basis, contact the <a href=\"mailto:data.protection@fcdo.gov.uk\">data.protection@fcdo.gov.uk</a>&nbsp;mailbox for advice.</p><p>FCDO example:</p><p dir=\"ltr\">The Consular Customer Insight Team use data collected by various methods, to be passed to their partner research agency (IFF Research) for purposes of contacting the customer for feedback. Where data has been collected by online methods (Emergency Travel Documents, Legalisation and CABS) this data is retained as a result of active consent.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3552,13 +3553,15 @@
     },
     "instruction": "",
     "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
     "_hasNavigationInTextArea": false,
     "_setCompletionOn": "inview",
     "_items": [
       {
         "title": "Data Protection Officer",
         "_ariaLevel": 0,
-        "body": "<p>The UK GDPR requires public authorities to appointment a Data Protection Officer (DPO). &nbsp;The FCDO’s DPO operates independently of our internal hierarchy and reports to the PUS.&nbsp;</p><p>DPOs monitor internal compliance, inform and advise on data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p>",
+        "body": "<p>The UK GDPR requires public authorities to appoint a Data Protection Officer (DPO). &nbsp;The FCDO’s DPO operates independently of our internal hierarchy and reports to the PUS.&nbsp;</p><p>DPOs monitor internal compliance, inform and advise on data protection obligations, provide advice regarding Data Protection Impact Assessments (DPIAs) and act as a contact point for the organisation both internally and externally.</p>",
         "_graphic": {
           "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
           "alt": "",
@@ -3630,7 +3633,7 @@
     "_disableAccessibilityState": false,
     "title": "Data subject rights",
     "displayTitle": "Data subject rights",
-    "body": "<p>Data subjects have a number of rights under UK GDPR. These rights are particularly relevant if the lawful&nbsp;basis for processing personal data is either through Consent or Contract lawful bases.&nbsp;However, they are not all automatic under the Public Task lawful&nbsp;basis.&nbsp;</p>",
+    "body": "<p>Data subjects have a number of rights under UK GDPR. These rights are particularly relevant if the lawful&nbsp;basis for processing personal data is either through consent or contract lawful bases.&nbsp;However, they are not all automatic under the public task lawful&nbsp;basis.&nbsp;</p>",
     "_id": "60cef6a1be3a3800899af9ed",
     "_layout": "left",
     "_parentId": "60cef69ebe3a3800899af94b",
@@ -3659,7 +3662,7 @@
       },
       {
         "title": "Right to access (Subject Access Requests [SARs])",
-        "body": "<p>The UK GDPR gives people the right to ask the FCDO whether or not personal data about them is being processed, in what territory and for what purpose.</p><p>This right to access exists in the present Data Protection Act (DPA) and the FCDO does not charge for this. Under GDPR, the FCDO must provide a copy of the personal data within a month of the request and in an electronic format where possible.</p>",
+        "body": "<p>The UK GDPR gives people the right to ask the FCDO whether or not personal data about them is being processed, in what territory and for what purpose.</p><p>This right to access exists in the Data Protection Act 2018 (DPA) and the FCDO does not charge for this. Under the UK GDPR, the FCDO must provide a copy of the personal data within a month of the request and in an electronic format where possible.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3679,7 +3682,7 @@
       },
       {
         "title": "Right to be forgotten",
-        "body": "<p>The right to be forgotten (or the right to data erasure) entitles an individual to direct the controller to erase personal data about them, cease further sharing of the data, and potentially&nbsp; halt processing of the data by third parties.</p><p>Data must be erased if:</p><ul><li>it is no longer relevant to the original purpose for processing</li><li>no lawful basis exists for the data to be held and processed</li><li>an individual withdraws consent</li></ul><p>This right does NOT apply to individuals whose data has been processed to carry out government functions (Public Task).</p>",
+        "body": "<p>The right to be forgotten (or the right to data erasure) entitles an individual to direct the controller to erase personal data about them, cease further sharing of the data, and potentially&nbsp; halt processing of the data by third parties.</p><p>Data must be erased if:</p><ul><li>it is no longer relevant to the original purpose for processing</li><li>no lawful basis exists for the data to be held and processed</li><li>an individual withdraws consent</li></ul><p>This right does NOT apply to individuals whose data has been processed to carry out government functions (public task).</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3709,7 +3712,7 @@
       },
       {
         "title": "Right to withdraw consent (if applicable)",
-        "body": "<p>If the lawful basis for processing is based on having the Consent lawful&nbsp;basis,&nbsp;the individual has the right to withdraw that consent at any time.&nbsp;</p><p>The process of withdrawing consent must be as easy as giving consent in the first place.</p>",
+        "body": "<p>If the lawful basis for processing is based on having the consent lawful&nbsp;basis,&nbsp;the individual has the right to withdraw that consent at any time.&nbsp;</p><p>The process of withdrawing consent must be as easy as giving consent in the first place.</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3728,8 +3731,8 @@
         "_classes": ""
       },
       {
-        "title": "Right to not be subject solely to automated decision making",
-        "body": "<p>Individuals have the right to not be&nbsp;subject to a decision based solely on automated processing, including profiling.</p><p>Automated processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual’s explicit consent</li></ul><p>In all cases individuals must be informed about the automated processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
+        "title": "Right not be subjected solely to automated decision making",
+        "body": "<p>Individuals have the right to not be&nbsp;subjected to a decision based solely on automated processing, including profiling.</p><p>Automated processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual’s explicit consent</li></ul><p>In all cases individuals must be informed about the automated processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -4015,7 +4018,7 @@
       },
       {
         "title": "Records of processing",
-        "body": "<p>The UK GDPR contains explicit provisions requiring you to document your processing activities (what you do with personal data).&nbsp;</p><p>As well as being a legal requirement, documenting your processing activities can support good data governance and help you demonstrate your compliance with other aspects of the GDPR.<br /><br />The amount of documentation required depends on the size of your organisation and the activities it carries out.</p><p>Documentation can help in many areas including:</p><ul><li>establishing the extent of personal data your organisation holds</li><li>establishing the lawful basis for processing personal data</li><li>writing clearer privacy statements</li><li>fulfilling your obligations to share the data with others including those the data is about</li><li>records keeping including which territory data is stored in, records of consent and Data Protection Impact Assessment reports</li><li>responding to queries from your supervisory authority (eg ICO)</li><li>notification and management of data breaches</li></ul>",
+        "body": "<p>The UK GDPR contains explicit provisions requiring you to document your processing activities (what you do with personal data).&nbsp;</p><p>As well as being a legal requirement, documenting your processing activities can support good data governance and help you demonstrate your compliance with other aspects of the UK GDPR.<br /><br />The amount of documentation required depends on the size of your organisation and the activities it carries out.</p><p>Documentation can help in many areas including:</p><ul><li>establishing the extent of personal data your organisation holds</li><li>establishing the lawful basis for processing personal data</li><li>writing clearer privacy statements</li><li>fulfilling your obligations to share the data with others including those the data is about</li><li>records keeping including which territory data is stored in, records of consent and Data Protection Impact Assessment reports</li><li>responding to queries from your supervisory authority (eg ICO)</li><li>notification and management of data breaches</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -4025,7 +4028,7 @@
       },
       {
         "title": "Ensuring transfers are legitimate",
-        "body": "<p>The UK GDPR allows for the free flow of personal data from the UK to the EU/EEA, Gibraltar and other <a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#howdowe\" target=\"_blank\">Adequate countries</a>. On 26 June 2021 the EU granted the UK Adequacy which also allows for the free flow of personal data from these jurisdictions.&nbsp;</p><p>Transfers outside of the EEA&nbsp;may be made:</p><ul><li>to locations that the UK&nbsp;decides&nbsp;provide an adequate level of protection (Adequate countries)</li><li>to organisations where appropriate protection is provided through contractual clauses</li><li>with the individual's informed consent</li><li>where it is absolutely necessary to fulfil the lawful basis</li></ul>",
+        "body": "<p>The UK GDPR allows for the free flow of personal data from the UK to the EU/EEA, Gibraltar and other <a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#howdowe\" target=\"_blank\">Adequate countries</a>. On 26 June 2021 the EU granted the UK Adequacy which also allows for the free flow of personal data from these jurisdictions.&nbsp;</p><p>Transfers outside of the EEA&nbsp;may be made:</p><ul><li>to countries that the UK has agreed&nbsp;provide an adequate level of protection (Adequate countries)</li><li>to organisations where appropriate protection is provided through contractual clauses</li><li>with the individual's informed consent</li><li>where it is absolutely necessary to fulfil the lawful basis</li></ul>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -4183,8 +4186,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Who does the UK GDPR apply to?",
-    "displayTitle": "Who does the UK GDPR apply to?",
+    "title": "Where does the UK GDPR apply?",
+    "displayTitle": "Where does the UK GDPR apply?",
     "body": "<p>The UK GDPR applies to <strong>the processing of all personal data</strong> by organisations based in the UK.&nbsp;Our overseas network is part of the FCDO’s single legal entity so staff in all our missions must comply with the UK GDPR.</p><p><strong>Data flows to/from the EU/EEA</strong></p><p>The UK GDPR allows for the free flow of personal data from the UK to the EU/EEA. On 26 June 2021 the EU granted the UK Adequacy which also allows for the free flow of personal data from the EU/EEA to the UK.</p>",
     "_id": "60cef6a2be3a3800899afa09",
     "_layout": "right",
@@ -4213,7 +4216,7 @@
     "_disableAccessibilityState": false,
     "title": "What this means for personal data processing",
     "displayTitle": "What this means for personal data processing",
-    "body": "<p>You should continue to process personal data in compliance with the UK GDPR. There may be other changes that you will need to take account of and we will update this guidance as soon as we have the detail from DCMS. The&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner</a>&nbsp;remains the UK’s independent supervisory authority on data protection.</p>",
+    "body": "<p>This means you should continue to process personal data in compliance with the UK GDPR. There may be other changes that you will need to take account of and we will update this guidance as soon as we have the detail from DCMS.</p><p>The&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner</a>&nbsp;remains the UK’s independent supervisory authority on data protection.</p>",
     "_id": "60cef6a2be3a3800899afa0a",
     "_parentId": "60cef69ebe3a3800899af943",
     "_type": "component",
