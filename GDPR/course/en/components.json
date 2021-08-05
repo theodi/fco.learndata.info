@@ -386,15 +386,21 @@
     "_layout": "right",
     "_type": "component",
     "_parentId": "60cef69ebe3a3800899af93a",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "alt": ""
+      "alt": "",
+      "large": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "small": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "attribution": "<a href=\"https://gov.uk\" target=\"_blank\">FCDO</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
   },
   {
@@ -526,15 +532,21 @@
     "_layout": "right",
     "_parentId": "60cef69ebe3a3800899af93d",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "alt": ""
+      "alt": "",
+      "large": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "small": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "attribution": "<a href=\"https://gov.uk\" target=\"_blank\">FCDO</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
   },
   {
@@ -4076,15 +4088,21 @@
     "_layout": "right",
     "_parentId": "60cef69ebe3a3800899af93c",
     "_type": "component",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     },
     "instruction": "",
     "_graphic": {
-      "attribution": "",
-      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
-      "alt": ""
+      "alt": "",
+      "large": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "small": "course/en/assets/0c138d67bee40b7597bee9715738092af8af4113.png",
+      "attribution": "<a href=\"https://gov.uk\" target=\"_blank\">FCDO</a> <span class='assetLicence'>[All rights reserved]</span>"
     }
   },
   {

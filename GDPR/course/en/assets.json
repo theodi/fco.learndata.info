@@ -1,21 +1,4 @@
 {
-  "f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png": {
-    "title": "ODI Learning Roundal Green-Blue",
-    "description": "Main ODI logo",
-    "source": "http://theodi.org/",
-    "licence": "All rights reserved",
-    "attribution": "The Open Data Institute",
-    "tags": [
-      {
-        "title": "ODI logo",
-        "_id": "5ee397b8b045644557c81b50"
-      },
-      {
-        "title": "intro logo",
-        "_id": "5ee397b8b045644557c81b51"
-      }
-    ]
-  },
   "f9855a4bc775449c566dabcd78c05fde759d0689.png": {
     "title": "Open Logo Small",
     "description": "Open Logo Small",
@@ -186,5 +169,13 @@
         "_id": "5f37ae9d8d82e7005e43dc00"
       }
     ]
+  },
+  "0c138d67bee40b7597bee9715738092af8af4113.png": {
+    "title": "FCDO logo",
+    "description": "FCDO logo",
+    "source": "https://gov.uk",
+    "licence": "All rights reserved",
+    "attribution": "FCDO",
+    "tags": []
   }
 }
