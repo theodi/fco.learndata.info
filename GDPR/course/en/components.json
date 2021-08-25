@@ -325,7 +325,7 @@
     "_disableAccessibilityState": false,
     "title": "Introduction to the UK General Data Protection Regulation",
     "displayTitle": "",
-    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR) and the key differences from the existing data protection regulations. After completion, you should be able to work more confidently with the requirements of the UK GDPR.</p><p>This module explains:</p><ul><li>What UK GDPR is and why it is needed</li><li>What personal data the UK GDPR covers</li><li>Who the UK GDPR applies to and where</li><li>The lawful bases</li><li>Individuals’ rights</li><li>The importance of privacy notices</li><li>UK GDPR by default &nbsp;</li><li>UK GDPR-specific roles</li><li>Data breaches</li></ul>",
+    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR). After completion, you should be able to work more confidently with the requirements of the UK GDPR.</p><p>This module explains:</p><ul><li>What UK GDPR is and why it is needed</li><li>What personal data the UK GDPR covers</li><li>Who the UK GDPR applies to and where</li><li>The lawful bases</li><li>Individuals’ rights</li><li>The importance of privacy notices</li><li>UK GDPR by default &nbsp;</li><li>UK GDPR-specific roles</li><li>Data breaches</li></ul>",
     "_id": "60cef69fbe3a3800899af97e",
     "_layout": "left",
     "_parentId": "60cef69ebe3a3800899af93c",
@@ -1872,13 +1872,14 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p><strong>That's right!</strong></p><p>The UK&nbsp;GDPR will apply to the processing of all personal data by organisations in the UK, regardless of whether the processing takes place in the UK&nbsp;or not.</p><p>The UK GDPR will also apply to the processing of personal data in the UK&nbsp;by an organisation not established in the UK, where the activities relate to either:</p><ol><li>Offering goods or services within the UK (irrespective of whether payment is required)</li><li>Monitoring of individuals behaviour as far as their behaviour takes place within the UK</li></ol><p>This means that even if a company has no physical base in the UK, the UK GDPR may still apply if goods and services are offered to those located within the UK.</p><p>On this basis you do not need to be a&nbsp;UK&nbsp;citizen for the UK GDPR to apply. Anyone located in the UK&nbsp;interacting with services offered in the UK is in scope of the UK GDPR.&nbsp;</p>",
+      "correct": "<p><strong>That's right!</strong></p><p>The UK&nbsp;GDPR will apply to the processing of all personal data by organisations based in the UK, regardless of whether the processing takes place in the UK&nbsp;or not.</p><p>The UK GDPR will also apply to the processing of personal data in the UK&nbsp;by an organisation not established in the UK, where the activities relate to either:</p><ol><li>Offering goods or services within the UK (irrespective of whether payment is required)</li><li>Monitoring of individuals behaviour as far as their behaviour takes place within the UK</li></ol><p>This means that even if a company has no physical base in the UK, the UK GDPR may still apply if goods and services are offered to those located within the UK.</p><p>On this basis you do not need to be a&nbsp;UK&nbsp;citizen for the UK GDPR to apply. Anyone located in the UK&nbsp;interacting with services offered in the UK is in scope of the UK GDPR.&nbsp;</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p>&nbsp;</p><p>The UK&nbsp;GDPR will apply to the processing of all personal data by organisations in the UK, regardless of whether the processing takes place in the UK&nbsp;or not.</p><p>The UK GDPR will also apply to the processing of personal data in the UK&nbsp;by an organisation not established in the UK, where the activities relate to either:</p><ol><li>Offering goods or services within the UK (irrespective of whether payment is required)</li><li>Monitoring of individuals behaviour as far as their behaviour takes place within the UK</li></ol><p>This means that even if a company has no physical base in the UK, the UK GDPR may still apply if goods and services are offered to those located within the UK.</p><p>On this basis you do not need to be a&nbsp;UK&nbsp;citizen for the UK GDPR to apply. Anyone located in the UK&nbsp;interacting with services offered in the UK is in scope of the UK GDPR.&nbsp;</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p>The UK&nbsp;GDPR will apply to the processing of all personal data by organisations based in the UK, regardless of whether the processing takes place in the UK&nbsp;or not.</p><p>The UK GDPR will also apply to the processing of personal data in the UK&nbsp;by an organisation not established in the UK, where the activities relate to either:</p><ol><li>Offering goods or services within the UK (irrespective of whether payment is required)</li><li>Monitoring of individuals behaviour as far as their behaviour takes place within the UK</li></ol><p>This means that even if a company has no physical base in the UK, the UK GDPR may still apply if goods and services are offered to those located within the UK.</p><p>On this basis you do not need to be a&nbsp;UK&nbsp;citizen for the UK GDPR to apply. Anyone located in the UK&nbsp;interacting with services offered in the UK is in scope of the UK GDPR.&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -3744,7 +3745,7 @@
       },
       {
         "title": "Right not be subjected solely to automated decision making",
-        "body": "<p>Individuals have the right to not be&nbsp;subjected to a decision based solely on automated processing, including profiling.</p><p>Automated processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual’s explicit consent</li></ul><p>In all cases individuals must be informed about the automated processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
+        "body": "<p>Individuals have the right&nbsp;not to be&nbsp;subjected to a decision based solely on automated processing, including profiling.</p><p>Automated processing can be carried out if the decision is:</p><ul><li>necessary for the entry into or performance of a contract</li><li>authorised in law</li><li>based on the individual’s explicit consent</li></ul><p>In all cases individuals must be informed about the automated processing and&nbsp;be able to request human intervention or challenge a decision.&nbsp;</p>",
         "_graphic": {
           "alt": "",
           "src": "",
@@ -3753,7 +3754,8 @@
         "_classes": ""
       }
     ],
-    "_shouldCollapseItems": true
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
   },
   {
     "_component": "text",
@@ -4206,7 +4208,7 @@
     "_disableAccessibilityState": false,
     "title": "Where does the UK GDPR apply?",
     "displayTitle": "Where does the UK GDPR apply?",
-    "body": "<p>The UK GDPR applies to <strong>the processing of all personal data</strong> by organisations based in the UK.&nbsp;Our overseas network is part of the FCDO’s single legal entity so staff in all our missions must comply with the UK GDPR.</p><p><strong>Data flows to/from the EU/EEA</strong></p><p>The UK GDPR allows for the free flow of personal data from the UK to the EU/EEA. On 26 June 2021 the EU granted the UK Adequacy which also allows for the free flow of personal data from the EU/EEA to the UK.</p>",
+    "body": "<p>The UK GDPR applies to <strong>the processing of all personal data</strong> by organisations based in the UK.&nbsp;Our overseas network is part of the FCDO’s single legal entity so staff in all our missions must comply with the UK GDPR.</p><p><strong>Data flows to/from the EU/EEA</strong></p><p>The UK GDPR allows for the free flow of personal data from the UK to the EU/EEA. In&nbsp;June 2021 the EU granted the UK Adequacy which also allows for the free flow of personal data from the EU/EEA to the UK.</p>",
     "_id": "60cef6a2be3a3800899afa09",
     "_layout": "right",
     "_parentId": "60cef69ebe3a3800899af940",
@@ -4301,13 +4303,14 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
       "title": "",
-      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p>The EU and UK consider each other adequate for the transfer of personal data. This means &nbsp;personal data can flow between the 2 parties and, separately, any Adequate countries.</p>",
+      "correct": "<p dir=\"ltr\"><strong>That's right!</strong></p><p>The EU and UK consider each other adequate for the transfer of personal data. This means personal data can flow between the 2 parties and, separately, any Adequate countries.</p>",
       "_incorrect": {
-        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The EU and UK consider each other adequate for the transfer of personal data. This means &nbsp;personal data can flow between the 2 parties and, separately, any Adequate countries.</p>",
+        "final": "<p><strong>Are you sure about that?</strong></p><p dir=\"ltr\">The EU and UK consider each other adequate for the transfer of personal data. This means&nbsp;personal data can flow between the 2 parties and, separately, any Adequate countries.</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {

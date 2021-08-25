@@ -69,6 +69,26 @@
       "_mygame": {
         "ariaRegion": "Text input. Type your answer and then submit."
       },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit."
+      },
+      "_dragndrop": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_gmcq": {
+        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_media": {
+        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
+        "skipToTranscript": "Skip to transcript"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
       "_text": {
         "ariaRegion": ""
       },
@@ -77,16 +97,9 @@
         "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
         "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}"
       },
-      "_media": {
-        "ariaRegion": "This is a media player component. Select the play / pause button to watch or listen.",
-        "skipToTranscript": "Skip to transcript"
-      },
       "_hotgraphic": {
         "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
         "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
       },
       "_graphic": {
         "ariaRegion": ""
@@ -96,18 +109,8 @@
         "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
         "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
       },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
-      },
       "_mcq": {
         "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_gmcq": {
-        "ariaRegion": "This is a graphical multiple choice question. Once you have selected an option, select the submit button below.",
         "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
         "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
         "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
@@ -124,8 +127,8 @@
         "labelStart": "Start of the scale",
         "labelEnd": "End of the scale"
       },
-      "_dragndrop": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      "_moralMachine": {
+        "ariaRegion": "Click on either picture to submit your choice."
       }
     },
     "_extensions": {
@@ -134,7 +137,7 @@
         "titleText": "About",
         "contactEMail": "training@theodi.org",
         "contactLinkText": "Contact",
-        "aboutCredit": "",
+        "aboutCredit": "<p>This guidance is based upon information from&nbsp;the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office</a>&nbsp;(UK).</p>",
         "SL_text": "<p>© Foreign, Commonwealth &amp; Development Office&nbsp;/<br />The Open Data Institute</p>",
         "SL_facebook": "",
         "SL_flickr": "",

@@ -20,28 +20,67 @@
     "_ariaLevel": 0,
     "_id": "60cef69dbe3a3800899af932",
     "_graphic": {
-      "src": "",
-      "alt": ""
+      "alt": "",
+      "src": ""
     },
     "_parentId": "course",
     "_type": "page",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
     "_FooterLink": {
       "_items": []
     },
-    "_aboutPage": {
-      "_items": [],
-      "SL_text": "",
-      "aboutCredit": ""
-    },
     "_pageLevelProgress": {
+      "_isEnabled": true,
       "_showPageCompletion": true,
-      "_isEnabled": true
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_odi-generic": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_pageHeader": {
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   },
   {
     "title": "Introduction to the UK General Data Protection Regulation",
     "displayTitle": "Introduction to the UK General Data Protection Regulation",
-    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR) and the key differences from the existing data protection regulations. After completion, you should be able to work more confidently with the requirements of the UK GDPR.</p>",
+    "body": "<p>This module gives an overview of the UK General Data Protection Regulation (UK GDPR). After completion, you should be able to work more confidently with the requirements of the UK GDPR.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "",
@@ -70,8 +109,11 @@
       "_percentInviewVertical": 50
     },
     "_aboutPage": {
-      "aboutCredit": "<p>This guidance is based upon information from the Regulation <a href=\"https://gdpr-info.eu/\" target=\"_blank\">EU&nbsp;2016/679</a> (General Data Projection Regulation) and the <a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office</a>&nbsp;(UK).</p>",
+      "aboutCredit": "<p>This guidance is based upon information from&nbsp;the&nbsp;<a href=\"https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/\" target=\"_blank\">Information Commissioner's Office</a>&nbsp;(UK).</p>",
       "SL_text": "",
+      "_items": []
+    },
+    "_FooterLink": {
       "_items": []
     },
     "_pageLevelProgress": {
@@ -79,9 +121,6 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_FooterLink": {
-      "_items": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
