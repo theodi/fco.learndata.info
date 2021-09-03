@@ -50,9 +50,6 @@
     "_isEnabled": false,
     "_limitToSelector": ""
   },
-  "_devtools": {
-    "_isEnabled": true
-  },
   "_spoor": {
     "_isEnabled": true,
     "_tracking": {
@@ -79,5 +76,8 @@
       "_exitStateIfIncomplete": "auto",
       "_exitStateIfComplete": "auto"
     }
+  },
+  "_devtools": {
+    "_isEnabled": true
   }
 }

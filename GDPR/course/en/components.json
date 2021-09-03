@@ -606,9 +606,11 @@
     "instruction": "Select your answer then click 'submit'",
     "_items": [
       {
-        "text": "The GDPR provides standardisation of data protection laws across all European member states, making it easier for organisations to provide services to people in the EU",
+        "text": "The UK GDPR is a regulation that is designed to provide a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency",
         "_shouldBeSelected": true,
-        "feedback": "<p>The UK GDPR is a regulation that is designed to provide a greater level of protection of fundamental rights and freedoms of individuals through accountability and transparency</p>"
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
       },
       {
         "text": "An optional European Directive that organisations are choosing to implement",
@@ -628,6 +630,7 @@
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
     "_recordInteraction": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
     "_selectable": 1,
     "_feedback": {
